@@ -1,0 +1,40 @@
+name: Daily Specsavers Monitor
+
+on:
+  schedule:
+    - cron: '30 6 * * 1-5'  # 7:30am BST (summer). Change to '30 7' in winter.
+  workflow_dispatch:           # lets you trigger manually from GitHub UI
+
+jobs:
+  monitor:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run scraper
+        run: python scraper.py
+
+      - name: Send digest email
+        env:
+          SENDGRID_API_KEY: ${{ secrets.SENDGRID_API_KEY }}
+          RECIPIENTS: ${{ secrets.RECIPIENTS }}
+          ROB_EMAIL: ${{ secrets.ROB_EMAIL }}
+        run: python send_digest.py
+
+      - name: Save updated seen_jobs.json
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add seen_jobs.json new_jobs_today.json
+          git diff --staged --quiet || git commit -m "Daily update $(date +%Y-%m-%d)"
+          git push

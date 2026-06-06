@@ -1,0 +1,9 @@
+.env
+__pycache__/
+*.pyc
+oauth_manager.py
+outlook_drafter.py
+tracker_test.py
+summary.py
+excluded_check.py
+all_jobs_full.json
