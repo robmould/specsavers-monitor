@@ -26,7 +26,9 @@ jobs:
 
       - name: Send digest email
         env:
-          SENDGRID_API_KEY: ${{ secrets.SENDGRID_API_KEY }}
+          MS_CLIENT_ID: ${{ secrets.MS_CLIENT_ID }}
+          MS_CLIENT_SECRET: ${{ secrets.MS_CLIENT_SECRET }}
+          MS_TENANT_ID: ${{ secrets.MS_TENANT_ID }}
           RECIPIENTS: ${{ secrets.RECIPIENTS }}
           ROB_EMAIL: ${{ secrets.ROB_EMAIL }}
         run: python send_digest.py
