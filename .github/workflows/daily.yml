@@ -2,7 +2,7 @@ name: Daily Specsavers Monitor
 
 on:
   schedule:
-    - cron: '30 6 * * 1-5'  # 7:30am BST (summer). Change to '30 7' in winter.
+    - cron: '0 3 * * 1-5'  # 3am UTC = 4am BST (summer) / 3am GMT (winter)
   workflow_dispatch:           # lets you trigger manually from GitHub UI
 
 jobs:
