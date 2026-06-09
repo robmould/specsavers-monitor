@@ -1,5 +1,5 @@
- # v2
- name: Daily Specsavers Monitor
+# v2
+name: Daily Specsavers Monitor
 
 on:
   schedule:
