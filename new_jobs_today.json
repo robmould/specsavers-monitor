@@ -1,115 +1,92 @@
 {
-  "date": "2026-06-09",
-  "total_new_jobs": 50,
-  "total_stores": 44,
+  "date": "2026-06-10",
+  "total_new_jobs": 32,
+  "total_stores": 30,
   "stores": {
-    "accrington-north-west": {
+    "abergavenny-wales": {
       "job_count": 1,
       "jobs": [
         {
-          "id": "12753",
-          "title": "NEW STORE OPENING Dispensing Optician",
-          "url": "https://join.specsavers.com/uk/job/new-store-opening-dispensing-optician-in-accrington-north-west-jid-12753",
-          "email_type": "standard"
-        }
-      ]
-    },
-    "barnsley-north-east": {
-      "job_count": 1,
-      "jobs": [
-        {
-          "id": "5431",
-          "title": "Dispensing Optician",
-          "url": "https://join.specsavers.com/uk/job/dispensing-optician-in-barnsley-north-east-jid-5431",
-          "email_type": "standard"
-        }
-      ]
-    },
-    "basingstoke-south": {
-      "job_count": 1,
-      "jobs": [
-        {
-          "id": "12742",
-          "title": "Dispensing Optician",
-          "url": "https://join.specsavers.com/uk/job/dispensing-optician-in-basingstoke-south-jid-12742",
-          "email_type": "standard"
-        }
-      ]
-    },
-    "blandford-forum-south-west": {
-      "job_count": 1,
-      "jobs": [
-        {
-          "id": "12747",
-          "title": "Optometrist",
-          "url": "https://join.specsavers.com/uk/job/optometrist-in-blandford-forum-south-west-jid-12747",
-          "email_type": "standard"
-        }
-      ]
-    },
-    "bridgnorth-west-midlands": {
-      "job_count": 2,
-      "jobs": [
-        {
-          "id": "12756",
-          "title": "Dispensing Optician Supervisor",
-          "url": "https://join.specsavers.com/uk/job/dispensing-optician-supervisor-in-bridgnorth-west-midlands-jid-12756",
-          "email_type": "standard"
-        },
-        {
-          "id": "12754",
-          "title": "Dispensing Optician",
-          "url": "https://join.specsavers.com/uk/job/dispensing-optician-in-bridgnorth-west-midlands-jid-12754",
-          "email_type": "standard"
-        }
-      ]
-    },
-    "bridgwater-south-west": {
-      "job_count": 2,
-      "jobs": [
-        {
-          "id": "12749",
-          "title": "Optometrist",
-          "url": "https://join.specsavers.com/uk/job/optometrist-in-bridgwater-south-west-jid-12749",
-          "email_type": "standard"
-        },
-        {
-          "id": "12741",
-          "title": "Dispensing Optician",
-          "url": "https://join.specsavers.com/uk/job/dispensing-optician-in-bridgwater-south-west-jid-12741",
-          "email_type": "standard"
-        }
-      ]
-    },
-    "brixham-south-west": {
-      "job_count": 1,
-      "jobs": [
-        {
-          "id": "12738",
-          "title": "Dispensing Optician / Dispensing Optician Manager",
-          "url": "https://join.specsavers.com/uk/job/dispensing-optician-dispensing-optician-manager-in-brixham-south-west-jid-12738",
-          "email_type": "standard"
-        }
-      ]
-    },
-    "catford-greater-london": {
-      "job_count": 1,
-      "jobs": [
-        {
-          "id": "12758",
+          "id": "12775",
           "title": "Optical Assistant",
-          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-catford-greater-london-jid-12758",
+          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-abergavenny-wales-jid-12775",
           "email_type": "standard"
         }
       ]
     },
-    "chandler-s-ford-south": {
+    "aldridge-west-midlands": {
       "job_count": 1,
       "jobs": [
         {
-          "id": "12744",
+          "id": "12814",
+          "title": "Optical Assistant",
+          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-aldridge-west-midlands-jid-12814",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "amersham-east-england": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "12820",
+          "title": "Newly Qualified Optometrist",
+          "url": "https://join.specsavers.com/uk/job/newly-qualified-optometrist-in-amersham-east-england-jid-12820",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "arnold-east-midlands": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "12808",
+          "title": "Contact Lens Assistant",
+          "url": "https://join.specsavers.com/uk/job/contact-lens-assistant-in-arnold-east-midlands-jid-12808",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "ballina-ireland": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "12795",
+          "title": "Trainee Audiology Practitioner",
+          "url": "https://join.specsavers.com/uk/job/trainee-audiology-practitioner-in-ballina-ireland-jid-12795",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "bishop-auckland-north-east": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "12781",
           "title": "Optometrist",
-          "url": "https://join.specsavers.com/uk/job/optometrist-in-chandler-s-ford-south-jid-12744",
+          "url": "https://join.specsavers.com/uk/job/optometrist-in-bishop-auckland-north-east-jid-12781",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "brentwood-east-england": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "12810",
+          "title": "Home Visits Optometrist",
+          "url": "https://join.specsavers.com/uk/job/home-visits-optometrist-in-brentwood-east-england-jid-12810",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "castlebar-ireland": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "12800",
+          "title": "Store Manager",
+          "url": "https://join.specsavers.com/uk/job/store-manager-in-castlebar-ireland-jid-12800",
           "email_type": "standard"
         }
       ]
@@ -118,59 +95,64 @@
       "job_count": 1,
       "jobs": [
         {
-          "id": "12743",
-          "title": "Contact Lens Optician",
-          "url": "https://join.specsavers.com/uk/job/contact-lens-optician-in-chelmsford-east-england-jid-12743",
+          "id": "12809",
+          "title": "Home Visits Optometrist",
+          "url": "https://join.specsavers.com/uk/job/home-visits-optometrist-in-chelmsford-east-england-jid-12809",
           "email_type": "standard"
         }
       ]
     },
-    "colchester-east-england": {
-      "job_count": 2,
+    "citywest-ireland": {
+      "job_count": 1,
       "jobs": [
         {
-          "id": "12736",
+          "id": "12785",
+          "title": "Retail Supervisor",
+          "url": "https://join.specsavers.com/uk/job/retail-supervisor-in-citywest-ireland-jid-12785",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "cleveleys-north-west": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "12821",
           "title": "Optometrist",
-          "url": "https://join.specsavers.com/uk/job/optometrist-in-colchester-east-england-jid-12736",
-          "email_type": "standard"
-        },
-        {
-          "id": "11143",
-          "title": "Domiciliary Optometrist",
-          "url": "https://join.specsavers.com/uk/job/domiciliary-optometrist-in-colchester-east-england-jid-11143",
+          "url": "https://join.specsavers.com/uk/job/optometrist-in-cleveleys-north-west-jid-12821",
           "email_type": "standard"
         }
       ]
     },
-    "cosham-south": {
+    "dagenham-greater-london": {
       "job_count": 1,
       "jobs": [
         {
-          "id": "12717",
+          "id": "12811",
+          "title": "Home Visits Optometrist",
+          "url": "https://join.specsavers.com/uk/job/home-visits-optometrist-in-dagenham-greater-london-jid-12811",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "east-ham-greater-london": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "12806",
+          "title": "Home Visits Optical Assistant",
+          "url": "https://join.specsavers.com/uk/job/home-visits-optical-assistant-in-east-ham-greater-london-jid-12806",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "high-wycombe-south": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "12796",
           "title": "Optical Assistant",
-          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-cosham-south-jid-12717",
-          "email_type": "standard"
-        }
-      ]
-    },
-    "guisborough-north-east": {
-      "job_count": 1,
-      "jobs": [
-        {
-          "id": "12759",
-          "title": "Optical Assistant",
-          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-guisborough-north-east-jid-12759",
-          "email_type": "standard"
-        }
-      ]
-    },
-    "harpurhey-north-west": {
-      "job_count": 1,
-      "jobs": [
-        {
-          "id": "12755",
-          "title": "Dispensing Optician",
-          "url": "https://join.specsavers.com/uk/job/dispensing-optician-in-harpurhey-north-west-jid-12755",
+          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-high-wycombe-south-jid-12796",
           "email_type": "standard"
         }
       ]
@@ -179,313 +161,175 @@
       "job_count": 1,
       "jobs": [
         {
-          "id": "12746",
-          "title": "Dispensing Optician Manager",
-          "url": "https://join.specsavers.com/uk/job/dispensing-optician-manager-in-hitchin-east-england-jid-12746",
+          "id": "12774",
+          "title": "Store Manager",
+          "url": "https://join.specsavers.com/uk/job/store-manager-in-hitchin-east-england-jid-12774",
           "email_type": "standard"
         }
       ]
     },
-    "isle-of-wight-isle-of-wight": {
+    "kings-lynn-east-central": {
       "job_count": 1,
       "jobs": [
         {
-          "id": "12733",
-          "title": "Home Visits Optical Assistant",
-          "url": "https://join.specsavers.com/uk/job/home-visits-optical-assistant-in-isle-of-wight-isle-of-wight-jid-12733",
+          "id": "12798",
+          "title": "Home Visits Trainee Audiology Practitioner",
+          "url": "https://join.specsavers.com/uk/job/home-visits-trainee-audiology-practitioner-in-kings-lynn-east-central-jid-12798",
           "email_type": "standard"
         }
       ]
     },
-    "kendal-north-west": {
+    "launceston-south-west": {
       "job_count": 1,
       "jobs": [
         {
-          "id": "12752",
-          "title": "Home Visits Optometrist",
-          "url": "https://join.specsavers.com/uk/job/home-visits-optometrist-in-kendal-north-west-jid-12752",
-          "email_type": "standard"
-        }
-      ]
-    },
-    "kingswinford-west-midlands": {
-      "job_count": 1,
-      "jobs": [
-        {
-          "id": "12767",
-          "title": "Optical Assistant",
-          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-kingswinford-west-midlands-jid-12767",
-          "email_type": "standard"
-        }
-      ]
-    },
-    "letchworth-garden-city-east-england": {
-      "job_count": 1,
-      "jobs": [
-        {
-          "id": "12748",
-          "title": "Contact Lens Optician",
-          "url": "https://join.specsavers.com/uk/job/contact-lens-optician-in-letchworth-garden-city-east-england-jid-12748",
-          "email_type": "standard"
-        }
-      ]
-    },
-    "lewisham-greater-london": {
-      "job_count": 1,
-      "jobs": [
-        {
-          "id": "12764",
-          "title": "Optical Assistant",
-          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-lewisham-greater-london-jid-12764",
-          "email_type": "standard"
-        }
-      ]
-    },
-    "lisburn-northern-ireland": {
-      "job_count": 1,
-      "jobs": [
-        {
-          "id": "12723",
-          "title": "Audiologist/Hearing Aid Dispenser",
-          "url": "https://join.specsavers.com/uk/job/audiologist-hearing-aid-dispenser-in-lisburn-northern-ireland-jid-12723",
-          "email_type": "standard"
-        }
-      ]
-    },
-    "livingston-scotland": {
-      "job_count": 3,
-      "jobs": [
-        {
-          "id": "12720",
+          "id": "12812",
           "title": "Admin Assistant",
-          "url": "https://join.specsavers.com/uk/job/admin-assistant-in-livingston-scotland-jid-12720",
+          "url": "https://join.specsavers.com/uk/job/admin-assistant-in-launceston-south-west-jid-12812",
           "email_type": "standard"
-        },
+        }
+      ]
+    },
+    "lewes-south-east": {
+      "job_count": 1,
+      "jobs": [
         {
-          "id": "12722",
-          "title": "Trainee Lab Technician",
-          "url": "https://join.specsavers.com/uk/job/trainee-lab-technician-in-livingston-scotland-jid-12722",
-          "email_type": "trainee"
-        },
-        {
-          "id": "12721",
-          "title": "Lab Technician",
-          "url": "https://join.specsavers.com/uk/job/lab-technician-in-livingston-scotland-jid-12721",
+          "id": "12815",
+          "title": "Optical Assistant",
+          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-lewes-south-east-jid-12815",
           "email_type": "standard"
         }
       ]
     },
     "longton-west-midlands": {
-      "job_count": 1,
+      "job_count": 2,
       "jobs": [
         {
-          "id": "12750",
+          "id": "12779",
+          "title": "Home Visits Optometrist",
+          "url": "https://join.specsavers.com/uk/job/home-visits-optometrist-in-longton-west-midlands-jid-12779",
+          "email_type": "standard"
+        },
+        {
+          "id": "12784",
           "title": "Optical Assistant",
-          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-longton-west-midlands-jid-12750",
+          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-longton-west-midlands-jid-12784",
           "email_type": "standard"
         }
       ]
     },
-    "luton-east-england": {
+    "malton-north-east": {
       "job_count": 1,
       "jobs": [
         {
-          "id": "12725",
-          "title": "Dispensing Optician",
-          "url": "https://join.specsavers.com/uk/job/dispensing-optician-in-luton-east-england-jid-12725",
+          "id": "12789",
+          "title": "Store Manager",
+          "url": "https://join.specsavers.com/uk/job/store-manager-in-malton-north-east-jid-12789",
           "email_type": "standard"
         }
       ]
     },
-    "lymington-lymington": {
+    "milton-keynes-east-england": {
       "job_count": 1,
       "jobs": [
         {
-          "id": "12731",
-          "title": "Home Visits Optical Assistant",
-          "url": "https://join.specsavers.com/uk/job/home-visits-optical-assistant-in-lymington-lymington-jid-12731",
-          "email_type": "standard"
-        }
-      ]
-    },
-    "lyndhurst-lyndhurst": {
-      "job_count": 1,
-      "jobs": [
-        {
-          "id": "12732",
-          "title": "Home Visits Optical Assistant",
-          "url": "https://join.specsavers.com/uk/job/home-visits-optical-assistant-in-lyndhurst-lyndhurst-jid-12732",
-          "email_type": "standard"
-        }
-      ]
-    },
-    "mansfield-east-midlands": {
-      "job_count": 1,
-      "jobs": [
-        {
-          "id": "12770",
-          "title": "Home Visits Administrator/Scheduler",
-          "url": "https://join.specsavers.com/uk/job/home-visits-administrator-scheduler-in-mansfield-east-midlands-jid-12770",
+          "id": "12788",
+          "title": "Optical Assistant",
+          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-milton-keynes-east-england-jid-12788",
           "email_type": "standard"
         }
       ]
     },
     "minehead-south-west": {
-      "job_count": 1,
-      "jobs": [
-        {
-          "id": "12740",
-          "title": "Optometrist",
-          "url": "https://join.specsavers.com/uk/job/optometrist-in-minehead-south-west-jid-12740",
-          "email_type": "standard"
-        }
-      ]
-    },
-    "new-alresford-new-alresford": {
-      "job_count": 1,
-      "jobs": [
-        {
-          "id": "12730",
-          "title": "Home Visits Optical Assistant",
-          "url": "https://join.specsavers.com/uk/job/home-visits-optical-assistant-in-new-alresford-new-alresford-jid-12730",
-          "email_type": "standard"
-        }
-      ]
-    },
-    "poole-south-west": {
-      "job_count": 1,
-      "jobs": [
-        {
-          "id": "12768",
-          "title": "Optical Assistant",
-          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-poole-south-west-jid-12768",
-          "email_type": "standard"
-        }
-      ]
-    },
-    "portsmouth-portsmouth": {
-      "job_count": 1,
-      "jobs": [
-        {
-          "id": "12726",
-          "title": "Home Visits Optical Assistant",
-          "url": "https://join.specsavers.com/uk/job/home-visits-optical-assistant-in-portsmouth-portsmouth-jid-12726",
-          "email_type": "standard"
-        }
-      ]
-    },
-    "redruth-south-west": {
-      "job_count": 1,
-      "jobs": [
-        {
-          "id": "12734",
-          "title": "Optometrist",
-          "url": "https://join.specsavers.com/uk/job/optometrist-in-redruth-south-west-jid-12734",
-          "email_type": "standard"
-        }
-      ]
-    },
-    "ringwood-south": {
-      "job_count": 1,
-      "jobs": [
-        {
-          "id": "12745",
-          "title": "Optometrist",
-          "url": "https://join.specsavers.com/uk/job/optometrist-in-ringwood-south-jid-12745",
-          "email_type": "standard"
-        }
-      ]
-    },
-    "ripley-east-midlands": {
       "job_count": 2,
       "jobs": [
         {
-          "id": "9797",
+          "id": "12782",
           "title": "Optometrist",
-          "url": "https://join.specsavers.com/uk/job/optometrist-in-ripley-east-midlands-jid-9797",
+          "url": "https://join.specsavers.com/uk/job/optometrist-in-minehead-south-west-jid-12782",
           "email_type": "standard"
         },
         {
-          "id": "12392",
+          "id": "12794",
           "title": "Optical Assistant",
-          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-ripley-east-midlands-jid-12392",
+          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-minehead-south-west-jid-12794",
           "email_type": "standard"
         }
       ]
     },
-    "ruislip-greater-london": {
+    "mold-wales": {
       "job_count": 1,
       "jobs": [
         {
-          "id": "12325",
-          "title": "Store Manager",
-          "url": "https://join.specsavers.com/uk/job/store-manager-in-ruislip-greater-london-jid-12325",
+          "id": "12819",
+          "title": "Contact Lens Optician",
+          "url": "https://join.specsavers.com/uk/job/contact-lens-optician-in-mold-wales-jid-12819",
           "email_type": "standard"
         }
       ]
     },
-    "rushden-east-midlands": {
+    "romford-greater-london": {
       "job_count": 1,
       "jobs": [
         {
-          "id": "12109",
-          "title": "Lab Technician",
-          "url": "https://join.specsavers.com/uk/job/lab-technician-in-rushden-east-midlands-jid-12109",
+          "id": "12807",
+          "title": "Home Visits Optometrist",
+          "url": "https://join.specsavers.com/uk/job/home-visits-optometrist-in-romford-greater-london-jid-12807",
           "email_type": "standard"
         }
       ]
     },
-    "southampton-south": {
+    "shrewsbury-west-midlands": {
       "job_count": 1,
       "jobs": [
         {
-          "id": "12739",
-          "title": "Dispensing Optician",
-          "url": "https://join.specsavers.com/uk/job/dispensing-optician-in-southampton-south-jid-12739",
+          "id": "12777",
+          "title": "Home Visits Optometrist",
+          "url": "https://join.specsavers.com/uk/job/home-visits-optometrist-in-shrewsbury-west-midlands-jid-12777",
           "email_type": "standard"
         }
       ]
     },
-    "southampton-southampton": {
+    "stafford-west-midlands": {
       "job_count": 1,
       "jobs": [
         {
-          "id": "12727",
-          "title": "Home Visits Optical Assistant",
-          "url": "https://join.specsavers.com/uk/job/home-visits-optical-assistant-in-southampton-southampton-jid-12727",
+          "id": "12773",
+          "title": "Home Visits Optometrist",
+          "url": "https://join.specsavers.com/uk/job/home-visits-optometrist-in-stafford-west-midlands-jid-12773",
           "email_type": "standard"
         }
       ]
     },
-    "stockbridge-stockbridge": {
+    "taunton-south-west": {
       "job_count": 1,
       "jobs": [
         {
-          "id": "12728",
-          "title": "Home Visits Optical Assistant",
-          "url": "https://join.specsavers.com/uk/job/home-visits-optical-assistant-in-stockbridge-stockbridge-jid-12728",
+          "id": "12786",
+          "title": "Assistant Practice Manager",
+          "url": "https://join.specsavers.com/uk/job/assistant-practice-manager-in-taunton-south-west-jid-12786",
           "email_type": "standard"
         }
       ]
     },
-    "wigan-north-west": {
+    "telford-west-midlands": {
       "job_count": 1,
       "jobs": [
         {
-          "id": "11927",
+          "id": "12776",
+          "title": "Home Visits Optometrist",
+          "url": "https://join.specsavers.com/uk/job/home-visits-optometrist-in-telford-west-midlands-jid-12776",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "walton-on-thames-south-east": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "12801",
           "title": "Optical Assistant",
-          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-wigan-north-west-jid-11927",
-          "email_type": "standard"
-        }
-      ]
-    },
-    "winchester-winchester": {
-      "job_count": 1,
-      "jobs": [
-        {
-          "id": "12729",
-          "title": "Home Visits Optical Assistant",
-          "url": "https://join.specsavers.com/uk/job/home-visits-optical-assistant-in-winchester-winchester-jid-12729",
+          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-walton-on-thames-south-east-jid-12801",
           "email_type": "standard"
         }
       ]
@@ -494,31 +338,9 @@
       "job_count": 1,
       "jobs": [
         {
-          "id": "12757",
-          "title": "Optometrist",
-          "url": "https://join.specsavers.com/uk/job/optometrist-in-wolverhampton-west-midlands-jid-12757",
-          "email_type": "standard"
-        }
-      ]
-    },
-    "yate-south-west": {
-      "job_count": 1,
-      "jobs": [
-        {
-          "id": "12760",
-          "title": "Store Manager",
-          "url": "https://join.specsavers.com/uk/job/store-manager-in-yate-south-west-jid-12760",
-          "email_type": "standard"
-        }
-      ]
-    },
-    "yeovil-south-west": {
-      "job_count": 1,
-      "jobs": [
-        {
-          "id": "12735",
-          "title": "Optometrist",
-          "url": "https://join.specsavers.com/uk/job/optometrist-in-yeovil-south-west-jid-12735",
+          "id": "12778",
+          "title": "Home Visits Optometrist",
+          "url": "https://join.specsavers.com/uk/job/home-visits-optometrist-in-wolverhampton-west-midlands-jid-12778",
           "email_type": "standard"
         }
       ]
