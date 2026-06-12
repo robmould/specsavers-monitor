@@ -1,203 +1,126 @@
 {
-  "date": "2026-06-11",
-  "total_new_jobs": 20,
-  "total_stores": 18,
+  "date": "2026-06-12",
+  "total_new_jobs": 13,
+  "total_stores": 11,
   "stores": {
-    "alloa-scotland": {
+    "abergavenny-wales": {
       "job_count": 1,
       "jobs": [
         {
-          "id": "12861",
+          "id": "12868",
+          "title": "Optical Assistant",
+          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-abergavenny-wales-jid-12868",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "cleveleys-north-west": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "12884",
+          "title": "Optometrist",
+          "url": "https://join.specsavers.com/uk/job/optometrist-in-cleveleys-north-west-jid-12884",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "colchester-east-england": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "12879",
+          "title": "Shop Floor Manager",
+          "url": "https://join.specsavers.com/uk/job/shop-floor-manager-in-colchester-east-england-jid-12879",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "daventry-east-midlands": {
+      "job_count": 3,
+      "jobs": [
+        {
+          "id": "12882",
           "title": "Dispensing Optician",
-          "url": "https://join.specsavers.com/uk/job/dispensing-optician-in-alloa-scotland-jid-12861",
-          "email_type": "standard"
-        }
-      ]
-    },
-    "birmingham-west-midlands": {
-      "job_count": 2,
-      "jobs": [
-        {
-          "id": "12857",
-          "title": "Part-time Optometrist",
-          "url": "https://join.specsavers.com/uk/job/part-time-optometrist-in-birmingham-west-midlands-jid-12857",
+          "url": "https://join.specsavers.com/uk/job/dispensing-optician-in-daventry-east-midlands-jid-12882",
           "email_type": "standard"
         },
         {
-          "id": "12847",
+          "id": "12881",
           "title": "Optometrist",
-          "url": "https://join.specsavers.com/uk/job/optometrist-in-birmingham-west-midlands-jid-12847",
-          "email_type": "standard"
-        }
-      ]
-    },
-    "citywest-ireland": {
-      "job_count": 1,
-      "jobs": [
-        {
-          "id": "12859",
-          "title": "Optical Assistant",
-          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-citywest-ireland-jid-12859",
-          "email_type": "standard"
-        }
-      ]
-    },
-    "clacton-on-sea-east-england": {
-      "job_count": 1,
-      "jobs": [
-        {
-          "id": "12825",
-          "title": "Hearcare Administrator",
-          "url": "https://join.specsavers.com/uk/job/hearcare-administrator-in-clacton-on-sea-east-england-jid-12825",
-          "email_type": "standard"
-        }
-      ]
-    },
-    "coalville-east-midlands": {
-      "job_count": 1,
-      "jobs": [
-        {
-          "id": "12849",
-          "title": "Newly qualified CLO",
-          "url": "https://join.specsavers.com/uk/job/newly-qualified-clo-in-coalville-east-midlands-jid-12849",
-          "email_type": "standard"
-        }
-      ]
-    },
-    "dumfries-scotland": {
-      "job_count": 1,
-      "jobs": [
-        {
-          "id": "12840",
-          "title": "Optometrist",
-          "url": "https://join.specsavers.com/uk/job/optometrist-in-dumfries-scotland-jid-12840",
-          "email_type": "standard"
-        }
-      ]
-    },
-    "evesham-west-midlands": {
-      "job_count": 2,
-      "jobs": [
-        {
-          "id": "12846",
-          "title": "NEW Hearing Aid Dispenser (Evesham)",
-          "url": "https://join.specsavers.com/uk/job/new-hearing-aid-dispenser-evesham-in-evesham-west-midlands-jid-12846",
+          "url": "https://join.specsavers.com/uk/job/optometrist-in-daventry-east-midlands-jid-12881",
           "email_type": "standard"
         },
         {
-          "id": "12845",
-          "title": "Administrator",
-          "url": "https://join.specsavers.com/uk/job/administrator-in-evesham-west-midlands-jid-12845",
-          "email_type": "standard"
-        }
-      ]
-    },
-    "exeter-south-west": {
-      "job_count": 1,
-      "jobs": [
-        {
-          "id": "12824",
+          "id": "12873",
           "title": "Optical Assistant",
-          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-exeter-south-west-jid-12824",
+          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-daventry-east-midlands-jid-12873",
           "email_type": "standard"
         }
       ]
     },
-    "hull-north-east": {
+    "glenrothes-scotland": {
       "job_count": 1,
       "jobs": [
         {
-          "id": "12854",
-          "title": "Optical Assistant",
-          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-hull-north-east-jid-12854",
-          "email_type": "standard"
-        }
-      ]
-    },
-    "irvine-scotland": {
-      "job_count": 1,
-      "jobs": [
-        {
-          "id": "12841",
+          "id": "12874",
           "title": "Optometrist",
-          "url": "https://join.specsavers.com/uk/job/optometrist-in-irvine-scotland-jid-12841",
+          "url": "https://join.specsavers.com/uk/job/optometrist-in-glenrothes-scotland-jid-12874",
           "email_type": "standard"
         }
       ]
     },
-    "maghull-north-west": {
+    "hemel-hempstead-east-england": {
       "job_count": 1,
       "jobs": [
         {
-          "id": "12842",
-          "title": "Optometrist",
-          "url": "https://join.specsavers.com/uk/job/optometrist-in-maghull-north-west-jid-12842",
-          "email_type": "standard"
+          "id": "12865",
+          "title": "Trainee Lab Technician",
+          "url": "https://join.specsavers.com/uk/job/trainee-lab-technician-in-hemel-hempstead-east-england-jid-12865",
+          "email_type": "trainee"
         }
       ]
     },
-    "middlesbrough-north-east": {
+    "hexham-north-east": {
       "job_count": 1,
       "jobs": [
         {
-          "id": "12853",
+          "id": "12878",
           "title": "Optical Assistant",
-          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-middlesbrough-north-east-jid-12853",
+          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-hexham-north-east-jid-12878",
           "email_type": "standard"
         }
       ]
     },
-    "newton-mearns-scotland": {
+    "maidenhead-south": {
       "job_count": 1,
       "jobs": [
         {
-          "id": "12851",
-          "title": "Optical Assistant",
-          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-newton-mearns-scotland-jid-12851",
+          "id": "12862",
+          "title": "Retail Supervisor",
+          "url": "https://join.specsavers.com/uk/job/retail-supervisor-in-maidenhead-south-jid-12862",
           "email_type": "standard"
         }
       ]
     },
-    "okehampton-south-west": {
+    "march-east-england": {
       "job_count": 1,
       "jobs": [
         {
-          "id": "12858",
-          "title": "Job Advert Template",
-          "url": "https://join.specsavers.com/uk/job/job-advert-template-in-okehampton-south-west-jid-12858",
+          "id": "12883",
+          "title": "Contact Lens Optician",
+          "url": "https://join.specsavers.com/uk/job/contact-lens-optician-in-march-east-england-jid-12883",
           "email_type": "standard"
         }
       ]
     },
-    "petersfield-south": {
+    "saffron-walden-east-england": {
       "job_count": 1,
       "jobs": [
         {
-          "id": "12834",
-          "title": "Optical Assistant",
-          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-petersfield-south-jid-12834",
-          "email_type": "standard"
-        }
-      ]
-    },
-    "remote": {
-      "job_count": 1,
-      "jobs": [
-        {
-          "id": "12276",
-          "title": "Clinical Performance Consultant South London",
-          "url": "https://join.specsavers.com/uk/job/clinical-performance-consultant-south-london-in-remote-jid-12276",
-          "email_type": "standard"
-        }
-      ]
-    },
-    "sale-north-west": {
-      "job_count": 1,
-      "jobs": [
-        {
-          "id": "12856",
-          "title": "NEW Hearing Aid Dispenser (Sale)",
-          "url": "https://join.specsavers.com/uk/job/new-hearing-aid-dispenser-sale-in-sale-north-west-jid-12856",
+          "id": "12863",
+          "title": "Store Manager",
+          "url": "https://join.specsavers.com/uk/job/store-manager-in-saffron-walden-east-england-jid-12863",
           "email_type": "standard"
         }
       ]
@@ -206,9 +129,9 @@
       "job_count": 1,
       "jobs": [
         {
-          "id": "12838",
+          "id": "12885",
           "title": "Audiology Clinic Manager",
-          "url": "https://join.specsavers.com/uk/job/audiology-clinic-manager-in-worcester-west-midlands-jid-12838",
+          "url": "https://join.specsavers.com/uk/job/audiology-clinic-manager-in-worcester-west-midlands-jid-12885",
           "email_type": "standard"
         }
       ]
