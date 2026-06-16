@@ -1,290 +1,175 @@
 {
-  "date": "2026-06-15",
-  "total_new_jobs": 26,
-  "total_stores": 26,
+  "date": "2026-06-16",
+  "total_new_jobs": 16,
+  "total_stores": 15,
   "stores": {
-    "abergavenny-wales": {
+    "bishop-s-stortford-east-england": {
       "job_count": 1,
       "jobs": [
         {
-          "id": "12910",
-          "title": "Optical Assistant",
-          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-abergavenny-wales-jid-12910",
+          "id": "12955",
+          "title": "Retail Manager",
+          "url": "https://join.specsavers.com/uk/job/retail-manager-in-bishop-s-stortford-east-england-jid-12955",
           "email_type": "standard"
         }
       ]
     },
-    "brighton-south-east": {
+    "cambridge-east-england": {
       "job_count": 1,
       "jobs": [
         {
-          "id": "12924",
-          "title": "Supervisor",
-          "url": "https://join.specsavers.com/uk/job/supervisor-in-brighton-south-east-jid-12924",
-          "email_type": "standard"
-        }
-      ]
-    },
-    "calcot-south": {
-      "job_count": 1,
-      "jobs": [
-        {
-          "id": "12909",
-          "title": "Optical Dispensing Assistant",
-          "url": "https://join.specsavers.com/uk/job/optical-dispensing-assistant-in-calcot-south-jid-12909",
-          "email_type": "standard"
-        }
-      ]
-    },
-    "clacton-on-sea-south-east": {
-      "job_count": 1,
-      "jobs": [
-        {
-          "id": "12928",
-          "title": "Home Visits Optical Assistant",
-          "url": "https://join.specsavers.com/uk/job/home-visits-optical-assistant-in-clacton-on-sea-south-east-jid-12928",
-          "email_type": "standard"
-        }
-      ]
-    },
-    "clapham-g-london-south": {
-      "job_count": 1,
-      "jobs": [
-        {
-          "id": "12907",
+          "id": "12976",
           "title": "Audiologist/Hearing Aid Dispenser",
-          "url": "https://join.specsavers.com/uk/job/audiologist-hearing-aid-dispenser-in-clapham-g-london-south-jid-12907",
+          "url": "https://join.specsavers.com/uk/job/audiologist-hearing-aid-dispenser-in-cambridge-east-england-jid-12976",
           "email_type": "standard"
         }
       ]
     },
-    "clevedon-south-west": {
+    "cranleigh-south-east": {
       "job_count": 1,
       "jobs": [
         {
-          "id": "12937",
-          "title": "Optical Assistant",
-          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-clevedon-south-west-jid-12937",
-          "email_type": "standard"
-        }
-      ]
-    },
-    "coalville-east-midlands": {
-      "job_count": 1,
-      "jobs": [
-        {
-          "id": "12902",
-          "title": "Newly qualified CLO",
-          "url": "https://join.specsavers.com/uk/job/newly-qualified-clo-in-coalville-east-midlands-jid-12902",
-          "email_type": "standard"
-        }
-      ]
-    },
-    "diss-diss": {
-      "job_count": 1,
-      "jobs": [
-        {
-          "id": "12929",
-          "title": "Home Visits Optical Assistant",
-          "url": "https://join.specsavers.com/uk/job/home-visits-optical-assistant-in-diss-diss-jid-12929",
-          "email_type": "standard"
-        }
-      ]
-    },
-    "epsom-south-east": {
-      "job_count": 1,
-      "jobs": [
-        {
-          "id": "12923",
-          "title": "Optical Assistant",
-          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-epsom-south-east-jid-12923",
-          "email_type": "standard"
-        }
-      ]
-    },
-    "godalming-south-east": {
-      "job_count": 1,
-      "jobs": [
-        {
-          "id": "12921",
-          "title": "Optical Assistant",
-          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-godalming-south-east-jid-12921",
-          "email_type": "standard"
-        }
-      ]
-    },
-    "grangemouth-scotland": {
-      "job_count": 1,
-      "jobs": [
-        {
-          "id": "12895",
+          "id": "12974",
           "title": "Optometrist",
-          "url": "https://join.specsavers.com/uk/job/optometrist-in-grangemouth-scotland-jid-12895",
+          "url": "https://join.specsavers.com/uk/job/optometrist-in-cranleigh-south-east-jid-12974",
           "email_type": "standard"
         }
       ]
     },
-    "great-yarmouth-great-yarmouth": {
-      "job_count": 1,
+    "dingwall-scotland": {
+      "job_count": 2,
       "jobs": [
         {
-          "id": "12932",
-          "title": "Home Visits Optical Assistant",
-          "url": "https://join.specsavers.com/uk/job/home-visits-optical-assistant-in-great-yarmouth-great-yarmouth-jid-12932",
-          "email_type": "standard"
-        }
-      ]
-    },
-    "halesworth-halesworth": {
-      "job_count": 1,
-      "jobs": [
+          "id": "12972",
+          "title": "Trainee Optical Assistant",
+          "url": "https://join.specsavers.com/uk/job/trainee-optical-assistant-in-dingwall-scotland-jid-12972",
+          "email_type": "trainee"
+        },
         {
-          "id": "12935",
-          "title": "Home Visits Optical Assistant",
-          "url": "https://join.specsavers.com/uk/job/home-visits-optical-assistant-in-halesworth-halesworth-jid-12935",
-          "email_type": "standard"
-        }
-      ]
-    },
-    "ipswich-ipswich": {
-      "job_count": 1,
-      "jobs": [
-        {
-          "id": "12936",
-          "title": "Home Visits Optical Assistant",
-          "url": "https://join.specsavers.com/uk/job/home-visits-optical-assistant-in-ipswich-ipswich-jid-12936",
-          "email_type": "standard"
-        }
-      ]
-    },
-    "kingston-upon-thames-greater-london": {
-      "job_count": 1,
-      "jobs": [
-        {
-          "id": "12889",
-          "title": "Brand Promoter",
-          "url": "https://join.specsavers.com/uk/job/brand-promoter-in-kingston-upon-thames-greater-london-jid-12889",
-          "email_type": "standard"
-        }
-      ]
-    },
-    "lowesoft-lowesoft": {
-      "job_count": 1,
-      "jobs": [
-        {
-          "id": "12933",
-          "title": "Home Visits Optical Assistant",
-          "url": "https://join.specsavers.com/uk/job/home-visits-optical-assistant-in-lowesoft-lowesoft-jid-12933",
-          "email_type": "standard"
-        }
-      ]
-    },
-    "mexborough-north-east": {
-      "job_count": 1,
-      "jobs": [
-        {
-          "id": "12888",
+          "id": "12971",
           "title": "Optical Assistant",
-          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-mexborough-north-east-jid-12888",
+          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-dingwall-scotland-jid-12971",
           "email_type": "standard"
         }
       ]
     },
-    "newport-wales": {
+    "ealing-greater-london": {
       "job_count": 1,
       "jobs": [
         {
-          "id": "12919",
-          "title": "Optical Assistant",
-          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-newport-wales-jid-12919",
+          "id": "12977",
+          "title": "Audiologist/Hearing Aid Dispenser",
+          "url": "https://join.specsavers.com/uk/job/audiologist-hearing-aid-dispenser-in-ealing-greater-london-jid-12977",
           "email_type": "standard"
         }
       ]
     },
-    "north-walsham-north-walsham": {
+    "farnborough-south": {
       "job_count": 1,
       "jobs": [
         {
-          "id": "12931",
+          "id": "12975",
+          "title": "Optometrist",
+          "url": "https://join.specsavers.com/uk/job/optometrist-in-farnborough-south-jid-12975",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "guildford-south-east": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "12973",
+          "title": "Optometrist",
+          "url": "https://join.specsavers.com/uk/job/optometrist-in-guildford-south-east-jid-12973",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "kendal-north-west": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "12981",
+          "title": "Hearing Aid Dispenser",
+          "url": "https://join.specsavers.com/uk/job/hearing-aid-dispenser-in-kendal-north-west-jid-12981",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "lichfield-lichfield": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "12965",
           "title": "Home Visits Optical Assistant",
-          "url": "https://join.specsavers.com/uk/job/home-visits-optical-assistant-in-north-walsham-north-walsham-jid-12931",
+          "url": "https://join.specsavers.com/uk/job/home-visits-optical-assistant-in-lichfield-lichfield-jid-12965",
           "email_type": "standard"
         }
       ]
     },
-    "norwich-norwich": {
+    "ludlow-ludlow": {
       "job_count": 1,
       "jobs": [
         {
-          "id": "12930",
+          "id": "12963",
           "title": "Home Visits Optical Assistant",
-          "url": "https://join.specsavers.com/uk/job/home-visits-optical-assistant-in-norwich-norwich-jid-12930",
+          "url": "https://join.specsavers.com/uk/job/home-visits-optical-assistant-in-ludlow-ludlow-jid-12963",
           "email_type": "standard"
         }
       ]
     },
-    "park-ryal-park-ryal": {
+    "santry-ireland": {
       "job_count": 1,
       "jobs": [
         {
-          "id": "12887",
-          "title": "Home Visits Administrator",
-          "url": "https://join.specsavers.com/uk/job/home-visits-administrator-in-park-ryal-park-ryal-jid-12887",
+          "id": "12983",
+          "title": "Trainee Audiology Practitioner",
+          "url": "https://join.specsavers.com/uk/job/trainee-audiology-practitioner-in-santry-ireland-jid-12983",
           "email_type": "standard"
         }
       ]
     },
-    "petersfield-south": {
+    "shrewsbury-shrewsbury": {
       "job_count": 1,
       "jobs": [
         {
-          "id": "12938",
-          "title": "Audiology Practitioner",
-          "url": "https://join.specsavers.com/uk/job/audiology-practitioner-in-petersfield-south-jid-12938",
-          "email_type": "standard"
-        }
-      ]
-    },
-    "solihull-west-midlands": {
-      "job_count": 1,
-      "jobs": [
-        {
-          "id": "12917",
-          "title": "Dispensing Optician",
-          "url": "https://join.specsavers.com/uk/job/dispensing-optician-in-solihull-west-midlands-jid-12917",
-          "email_type": "standard"
-        }
-      ]
-    },
-    "stonehaven-scotland": {
-      "job_count": 1,
-      "jobs": [
-        {
-          "id": "12903",
-          "title": "Optical Assistant",
-          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-stonehaven-scotland-jid-12903",
-          "email_type": "standard"
-        }
-      ]
-    },
-    "sudbury-sudbury": {
-      "job_count": 1,
-      "jobs": [
-        {
-          "id": "12934",
+          "id": "12962",
           "title": "Home Visits Optical Assistant",
-          "url": "https://join.specsavers.com/uk/job/home-visits-optical-assistant-in-sudbury-sudbury-jid-12934",
+          "url": "https://join.specsavers.com/uk/job/home-visits-optical-assistant-in-shrewsbury-shrewsbury-jid-12962",
           "email_type": "standard"
         }
       ]
     },
-    "sunderland-north-east": {
+    "stoke-on-trent-stoke-on-trent": {
       "job_count": 1,
       "jobs": [
         {
-          "id": "12886",
-          "title": "Optical Assistant",
-          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-sunderland-north-east-jid-12886",
+          "id": "12964",
+          "title": "Home Visits Optical Assistant",
+          "url": "https://join.specsavers.com/uk/job/home-visits-optical-assistant-in-stoke-on-trent-stoke-on-trent-jid-12964",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "weston-super-mare-south-west": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "12967",
+          "title": "Home Visits Optical Assistant",
+          "url": "https://join.specsavers.com/uk/job/home-visits-optical-assistant-in-weston-super-mare-south-west-jid-12967",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "wolverhampton-wolverhampton": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "12966",
+          "title": "Home Visits Optical Assistant",
+          "url": "https://join.specsavers.com/uk/job/home-visits-optical-assistant-in-wolverhampton-wolverhampton-jid-12966",
           "email_type": "standard"
         }
       ]
