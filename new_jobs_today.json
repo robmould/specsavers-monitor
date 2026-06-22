@@ -1,37 +1,37 @@
 {
   "date": "2026-06-22",
-  "total_new_jobs": 13,
-  "total_stores": 13,
+  "total_new_jobs": 10,
+  "total_stores": 9,
   "stores": {
-    "athlone-ireland": {
+    "bath-south-west": {
       "job_count": 1,
       "jobs": [
         {
-          "id": "13069",
-          "title": "Optometrist",
-          "url": "https://join.specsavers.com/uk/job/optometrist-in-athlone-ireland-jid-13069",
+          "id": "13088",
+          "title": "Home Visits Hearing Aid Dispenser/Audiologist",
+          "url": "https://join.specsavers.com/uk/job/home-visits-hearing-aid-dispenser-audiologist-in-bath-south-west-jid-13088",
           "email_type": "standard"
         }
       ]
     },
-    "blanchardstown-ireland": {
+    "birmingham-west-midlands": {
       "job_count": 1,
       "jobs": [
         {
-          "id": "13071",
+          "id": "13084",
           "title": "Optometrist",
-          "url": "https://join.specsavers.com/uk/job/optometrist-in-blanchardstown-ireland-jid-13071",
+          "url": "https://join.specsavers.com/uk/job/optometrist-in-birmingham-west-midlands-jid-13084",
           "email_type": "standard"
         }
       ]
     },
-    "bootle-north-west": {
+    "bishop-auckland-north-east": {
       "job_count": 1,
       "jobs": [
         {
-          "id": "13065",
+          "id": "13078",
           "title": "Optometrist",
-          "url": "https://join.specsavers.com/uk/job/optometrist-in-bootle-north-west-jid-13065",
+          "url": "https://join.specsavers.com/uk/job/optometrist-in-bishop-auckland-north-east-jid-13078",
           "email_type": "standard"
         }
       ]
@@ -40,108 +40,70 @@
       "job_count": 1,
       "jobs": [
         {
-          "id": "13066",
-          "title": "Optometrist",
-          "url": "https://join.specsavers.com/uk/job/optometrist-in-cannock-west-midlands-jid-13066",
-          "email_type": "standard"
-        }
-      ]
-    },
-    "coatbridge-scotland": {
-      "job_count": 1,
-      "jobs": [
-        {
-          "id": "13074",
-          "title": "Optometrist",
-          "url": "https://join.specsavers.com/uk/job/optometrist-in-coatbridge-scotland-jid-13074",
-          "email_type": "standard"
-        }
-      ]
-    },
-    "finglas-ireland": {
-      "job_count": 1,
-      "jobs": [
-        {
-          "id": "13070",
-          "title": "Dispensing Optician",
-          "url": "https://join.specsavers.com/uk/job/dispensing-optician-in-finglas-ireland-jid-13070",
-          "email_type": "standard"
-        }
-      ]
-    },
-    "livingston-scotland": {
-      "job_count": 1,
-      "jobs": [
-        {
-          "id": "13073",
-          "title": "Optometrist",
-          "url": "https://join.specsavers.com/uk/job/optometrist-in-livingston-scotland-jid-13073",
-          "email_type": "standard"
-        }
-      ]
-    },
-    "london-greater-london": {
-      "job_count": 1,
-      "jobs": [
-        {
-          "id": "13068",
-          "title": "Contact Lens Assistant",
-          "url": "https://join.specsavers.com/uk/job/contact-lens-assistant-in-london-greater-london-jid-13068",
-          "email_type": "standard"
-        }
-      ]
-    },
-    "navan-ireland": {
-      "job_count": 1,
-      "jobs": [
-        {
-          "id": "13072",
-          "title": "Optometrist",
-          "url": "https://join.specsavers.com/uk/job/optometrist-in-navan-ireland-jid-13072",
-          "email_type": "standard"
-        }
-      ]
-    },
-    "romford-greater-london": {
-      "job_count": 1,
-      "jobs": [
-        {
-          "id": "13062",
+          "id": "13079",
           "title": "Optical Assistant",
-          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-romford-greater-london-jid-13062",
+          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-cannock-west-midlands-jid-13079",
           "email_type": "standard"
         }
       ]
     },
-    "ruislip-greater-london": {
+    "kilkenny-ireland": {
       "job_count": 1,
       "jobs": [
         {
-          "id": "13063",
-          "title": "Store Manager",
-          "url": "https://join.specsavers.com/uk/job/store-manager-in-ruislip-greater-london-jid-13063",
+          "id": "13080",
+          "title": "Trainee Audiology Practitioner",
+          "url": "https://join.specsavers.com/uk/job/trainee-audiology-practitioner-in-kilkenny-ireland-jid-13080",
           "email_type": "standard"
         }
       ]
     },
-    "stratford-greater-london": {
+    "quedgeley-west": {
       "job_count": 1,
       "jobs": [
         {
-          "id": "13064",
-          "title": "Assistant Manager",
-          "url": "https://join.specsavers.com/uk/job/assistant-manager-in-stratford-greater-london-jid-13064",
+          "id": "13086",
+          "title": "Home Visits Hearing Aid Dispenser/Audiologist",
+          "url": "https://join.specsavers.com/uk/job/home-visits-hearing-aid-dispenser-audiologist-in-quedgeley-west-jid-13086",
           "email_type": "standard"
         }
       ]
     },
-    "thorne-north-east": {
+    "stafford-west-midlands": {
+      "job_count": 2,
+      "jobs": [
+        {
+          "id": "13082",
+          "title": "Contact Lens Optician",
+          "url": "https://join.specsavers.com/uk/job/contact-lens-optician-in-stafford-west-midlands-jid-13082",
+          "email_type": "standard"
+        },
+        {
+          "id": "13081",
+          "title": "Trainee Contact Lens Optician",
+          "url": "https://join.specsavers.com/uk/job/trainee-contact-lens-optician-in-stafford-west-midlands-jid-13081",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "stroud-south": {
       "job_count": 1,
       "jobs": [
         {
-          "id": "13067",
-          "title": "Experienced Optical Assistant",
-          "url": "https://join.specsavers.com/uk/job/experienced-optical-assistant-in-thorne-north-east-jid-13067",
+          "id": "13087",
+          "title": "Home Visits Hearing Aid Dispenser/Audiologist",
+          "url": "https://join.specsavers.com/uk/job/home-visits-hearing-aid-dispenser-audiologist-in-stroud-south-jid-13087",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "swindon-south": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "13089",
+          "title": "Home Visits Hearing Aid Dispenser/Audiologist",
+          "url": "https://join.specsavers.com/uk/job/home-visits-hearing-aid-dispenser-audiologist-in-swindon-south-jid-13089",
           "email_type": "standard"
         }
       ]
