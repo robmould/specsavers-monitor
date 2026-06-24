@@ -1,6 +1,167 @@
 {
-  "date": "2026-06-23",
-  "total_new_jobs": 0,
-  "total_stores": 0,
-  "stores": {}
+  "date": "2026-06-24",
+  "total_new_jobs": 15,
+  "total_stores": 14,
+  "stores": {
+    "blaydon-north-east": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "13100",
+          "title": "Dispensing Optician",
+          "url": "https://join.specsavers.com/uk/job/dispensing-optician-in-blaydon-north-east-jid-13100",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "boston-east-midlands": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "13094",
+          "title": "Trainee Audiology Practitioner",
+          "url": "https://join.specsavers.com/uk/job/trainee-audiology-practitioner-in-boston-east-midlands-jid-13094",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "crumlin-ireland": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "13096",
+          "title": "Administrator",
+          "url": "https://join.specsavers.com/uk/job/administrator-in-crumlin-ireland-jid-13096",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "elgin-scotland": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "13112",
+          "title": "Trainee Optical Assistant",
+          "url": "https://join.specsavers.com/uk/job/trainee-optical-assistant-in-elgin-scotland-jid-13112",
+          "email_type": "trainee"
+        }
+      ]
+    },
+    "evesham-west-midlands": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "13103",
+          "title": "Hearing Aid Dispenser",
+          "url": "https://join.specsavers.com/uk/job/hearing-aid-dispenser-in-evesham-west-midlands-jid-13103",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "harrow-greater-london": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "13110",
+          "title": "Optical Assistant",
+          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-harrow-greater-london-jid-13110",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "holloway-greater-london": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "13106",
+          "title": "Optical Assistant",
+          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-holloway-greater-london-jid-13106",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "london-greater-london": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "13097",
+          "title": "Optical Assistant",
+          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-london-greater-london-jid-13097",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "manchester-north-west": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "13102",
+          "title": "Store Manager",
+          "url": "https://join.specsavers.com/uk/job/store-manager-in-manchester-north-west-jid-13102",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "morley-north-east": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "13093",
+          "title": "Optical Assistant",
+          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-morley-north-east-jid-13093",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "north-shields-north-east": {
+      "job_count": 2,
+      "jobs": [
+        {
+          "id": "13101",
+          "title": "Dispensing Optician",
+          "url": "https://join.specsavers.com/uk/job/dispensing-optician-in-north-shields-north-east-jid-13101",
+          "email_type": "standard"
+        },
+        {
+          "id": "13105",
+          "title": "Optical Assistant",
+          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-north-shields-north-east-jid-13105",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "purley-greater-london": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "13095",
+          "title": "Store Manager",
+          "url": "https://join.specsavers.com/uk/job/store-manager-in-purley-greater-london-jid-13095",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "slough-south": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "13113",
+          "title": "Dispensing Optician",
+          "url": "https://join.specsavers.com/uk/job/dispensing-optician-in-slough-south-jid-13113",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "stroud-south": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "13107",
+          "title": "Optical Assistant",
+          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-stroud-south-jid-13107",
+          "email_type": "standard"
+        }
+      ]
+    }
+  }
 }
