@@ -1,208 +1,136 @@
 {
   "date": "2026-06-25",
-  "total_new_jobs": 19,
-  "total_stores": 18,
+  "total_new_jobs": 12,
+  "total_stores": 12,
   "stores": {
-    "batley-north-west": {
+    "blanchardstown-ireland": {
       "job_count": 1,
       "jobs": [
         {
-          "id": "13132",
-          "title": "Home Visits Trainee Audiology Practitioner",
-          "url": "https://join.specsavers.com/uk/job/home-visits-trainee-audiology-practitioner-in-batley-north-west-jid-13132",
-          "email_type": "standard"
-        }
-      ]
-    },
-    "bradford-east-midlands": {
-      "job_count": 1,
-      "jobs": [
-        {
-          "id": "13129",
-          "title": "Home Visits Trainee Audiology Practitioner",
-          "url": "https://join.specsavers.com/uk/job/home-visits-trainee-audiology-practitioner-in-bradford-east-midlands-jid-13129",
-          "email_type": "standard"
-        }
-      ]
-    },
-    "burnely-north-west": {
-      "job_count": 1,
-      "jobs": [
-        {
-          "id": "13125",
-          "title": "Home Visits Trainee Audiology Practitioner",
-          "url": "https://join.specsavers.com/uk/job/home-visits-trainee-audiology-practitioner-in-burnely-north-west-jid-13125",
-          "email_type": "standard"
-        }
-      ]
-    },
-    "dalgety-bay-scotland": {
-      "job_count": 1,
-      "jobs": [
-        {
-          "id": "13138",
-          "title": "Optometrist",
-          "url": "https://join.specsavers.com/uk/job/optometrist-in-dalgety-bay-scotland-jid-13138",
-          "email_type": "standard"
-        }
-      ]
-    },
-    "fort-william-scotland": {
-      "job_count": 2,
-      "jobs": [
-        {
-          "id": "13150",
-          "title": "Assistant Store Manager",
-          "url": "https://join.specsavers.com/uk/job/assistant-store-manager-in-fort-william-scotland-jid-13150",
-          "email_type": "standard"
-        },
-        {
-          "id": "13149",
-          "title": "Trainee Optical Assistant",
-          "url": "https://join.specsavers.com/uk/job/trainee-optical-assistant-in-fort-william-scotland-jid-13149",
-          "email_type": "trainee"
-        }
-      ]
-    },
-    "harpenden-east-england": {
-      "job_count": 1,
-      "jobs": [
-        {
-          "id": "13142",
-          "title": "Dispensing Optician",
-          "url": "https://join.specsavers.com/uk/job/dispensing-optician-in-harpenden-east-england-jid-13142",
-          "email_type": "standard"
-        }
-      ]
-    },
-    "hemel-hempstead-east-england": {
-      "job_count": 1,
-      "jobs": [
-        {
-          "id": "13144",
-          "title": "Optometrist",
-          "url": "https://join.specsavers.com/uk/job/optometrist-in-hemel-hempstead-east-england-jid-13144",
-          "email_type": "standard"
-        }
-      ]
-    },
-    "huddersfield-huddersfield": {
-      "job_count": 1,
-      "jobs": [
-        {
-          "id": "13130",
-          "title": "Home Visits Trainee Audiology Practitioner",
-          "url": "https://join.specsavers.com/uk/job/home-visits-trainee-audiology-practitioner-in-huddersfield-huddersfield-jid-13130",
-          "email_type": "standard"
-        }
-      ]
-    },
-    "hull-north-east": {
-      "job_count": 1,
-      "jobs": [
-        {
-          "id": "13146",
-          "title": "Lab Administrator",
-          "url": "https://join.specsavers.com/uk/job/lab-administrator-in-hull-north-east-jid-13146",
-          "email_type": "standard"
-        }
-      ]
-    },
-    "keighley-keighley": {
-      "job_count": 1,
-      "jobs": [
-        {
-          "id": "13128",
-          "title": "Home Visits Trainee Audiology Practitioner",
-          "url": "https://join.specsavers.com/uk/job/home-visits-trainee-audiology-practitioner-in-keighley-keighley-jid-13128",
-          "email_type": "standard"
-        }
-      ]
-    },
-    "london-greater-london": {
-      "job_count": 1,
-      "jobs": [
-        {
-          "id": "13137",
-          "title": "Contact Lens Assistant",
-          "url": "https://join.specsavers.com/uk/job/contact-lens-assistant-in-london-greater-london-jid-13137",
-          "email_type": "standard"
-        }
-      ]
-    },
-    "oakham-east-midlands": {
-      "job_count": 1,
-      "jobs": [
-        {
-          "id": "13145",
-          "title": "Part Time Retail Assistant",
-          "url": "https://join.specsavers.com/uk/job/part-time-retail-assistant-in-oakham-east-midlands-jid-13145",
-          "email_type": "standard"
-        }
-      ]
-    },
-    "reading-south": {
-      "job_count": 1,
-      "jobs": [
-        {
-          "id": "13151",
-          "title": "Optometrist",
-          "url": "https://join.specsavers.com/uk/job/optometrist-in-reading-south-jid-13151",
-          "email_type": "standard"
-        }
-      ]
-    },
-    "skipton-skipton": {
-      "job_count": 1,
-      "jobs": [
-        {
-          "id": "13126",
-          "title": "Home Visits Trainee Audiology Practitioner",
-          "url": "https://join.specsavers.com/uk/job/home-visits-trainee-audiology-practitioner-in-skipton-skipton-jid-13126",
-          "email_type": "standard"
-        }
-      ]
-    },
-    "slough-south": {
-      "job_count": 1,
-      "jobs": [
-        {
-          "id": "13140",
-          "title": "Dispensing Optician",
-          "url": "https://join.specsavers.com/uk/job/dispensing-optician-in-slough-south-jid-13140",
-          "email_type": "standard"
-        }
-      ]
-    },
-    "threshfield-threshfield": {
-      "job_count": 1,
-      "jobs": [
-        {
-          "id": "13127",
-          "title": "Home Visits Trainee Audiology Practitioner",
-          "url": "https://join.specsavers.com/uk/job/home-visits-trainee-audiology-practitioner-in-threshfield-threshfield-jid-13127",
-          "email_type": "standard"
-        }
-      ]
-    },
-    "truro-south-west": {
-      "job_count": 1,
-      "jobs": [
-        {
-          "id": "13134",
+          "id": "13166",
           "title": "Optical Assistant",
-          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-truro-south-west-jid-13134",
+          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-blanchardstown-ireland-jid-13166",
           "email_type": "standard"
         }
       ]
     },
-    "wakefield-wakefield": {
+    "cleveleys-north-west": {
       "job_count": 1,
       "jobs": [
         {
-          "id": "13131",
-          "title": "Home Visits Trainee Audiology Practitioner",
-          "url": "https://join.specsavers.com/uk/job/home-visits-trainee-audiology-practitioner-in-wakefield-wakefield-jid-13131",
+          "id": "13168",
+          "title": "Trainee Audiology Practitioner",
+          "url": "https://join.specsavers.com/uk/job/trainee-audiology-practitioner-in-cleveleys-north-west-jid-13168",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "high-wycombe-south": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "13174",
+          "title": "Dispensing Optician",
+          "url": "https://join.specsavers.com/uk/job/dispensing-optician-in-high-wycombe-south-jid-13174",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "hitchin-east-england": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "13157",
+          "title": "Store Manager",
+          "url": "https://join.specsavers.com/uk/job/store-manager-in-hitchin-east-england-jid-13157",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "kilkenny-ireland": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "13167",
+          "title": "Audiologist/Hearing Aid Dispenser",
+          "url": "https://join.specsavers.com/uk/job/audiologist-hearing-aid-dispenser-in-kilkenny-ireland-jid-13167",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "larkhall-scotland": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "13175",
+          "title": "Optometrist",
+          "url": "https://join.specsavers.com/uk/job/optometrist-in-larkhall-scotland-jid-13175",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "leicester-east-midlands": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "13162",
+          "title": "Assistant Manager",
+          "url": "https://join.specsavers.com/uk/job/assistant-manager-in-leicester-east-midlands-jid-13162",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "perth-scotland": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "13158",
+          "title": "Dispensing Optician/Trainee CLO",
+          "url": "https://join.specsavers.com/uk/job/dispensing-optician-trainee-clo-in-perth-scotland-jid-13158",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "santry-ireland": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "13164",
+          "title": "Optical Assistant",
+          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-santry-ireland-jid-13164",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "scunthorpe-north-east": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "13170",
+          "title": "Optical Assistant",
+          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-scunthorpe-north-east-jid-13170",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "west-thurrock-east-england": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "13159",
+          "title": "Admin Assistant",
+          "url": "https://join.specsavers.com/uk/job/admin-assistant-in-west-thurrock-east-england-jid-13159",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "winsford-north-west": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "13169",
+          "title": "Experienced Optical Assistant",
+          "url": "https://join.specsavers.com/uk/job/experienced-optical-assistant-in-winsford-north-west-jid-13169",
           "email_type": "standard"
         }
       ]
