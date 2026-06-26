@@ -1,136 +1,103 @@
 {
-  "date": "2026-06-25",
-  "total_new_jobs": 12,
-  "total_stores": 12,
+  "date": "2026-06-26",
+  "total_new_jobs": 9,
+  "total_stores": 9,
   "stores": {
-    "blanchardstown-ireland": {
+    "abergavenny-wales": {
       "job_count": 1,
       "jobs": [
         {
-          "id": "13166",
+          "id": "13183",
           "title": "Optical Assistant",
-          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-blanchardstown-ireland-jid-13166",
+          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-abergavenny-wales-jid-13183",
           "email_type": "standard"
         }
       ]
     },
-    "cleveleys-north-west": {
+    "burton-on-trent-west-midlands": {
       "job_count": 1,
       "jobs": [
         {
-          "id": "13168",
-          "title": "Trainee Audiology Practitioner",
-          "url": "https://join.specsavers.com/uk/job/trainee-audiology-practitioner-in-cleveleys-north-west-jid-13168",
+          "id": "13187",
+          "title": "Weekend Optical Assistant",
+          "url": "https://join.specsavers.com/uk/job/weekend-optical-assistant-in-burton-on-trent-west-midlands-jid-13187",
           "email_type": "standard"
         }
       ]
     },
-    "high-wycombe-south": {
+    "chatham-south-east": {
       "job_count": 1,
       "jobs": [
         {
-          "id": "13174",
-          "title": "Dispensing Optician",
-          "url": "https://join.specsavers.com/uk/job/dispensing-optician-in-high-wycombe-south-jid-13174",
+          "id": "13181",
+          "title": "Scheduler/Administrator",
+          "url": "https://join.specsavers.com/uk/job/scheduler-administrator-in-chatham-south-east-jid-13181",
           "email_type": "standard"
         }
       ]
     },
-    "hitchin-east-england": {
+    "edinburgh-scotland": {
       "job_count": 1,
       "jobs": [
         {
-          "id": "13157",
-          "title": "Store Manager",
-          "url": "https://join.specsavers.com/uk/job/store-manager-in-hitchin-east-england-jid-13157",
-          "email_type": "standard"
-        }
-      ]
-    },
-    "kilkenny-ireland": {
-      "job_count": 1,
-      "jobs": [
-        {
-          "id": "13167",
-          "title": "Audiologist/Hearing Aid Dispenser",
-          "url": "https://join.specsavers.com/uk/job/audiologist-hearing-aid-dispenser-in-kilkenny-ireland-jid-13167",
-          "email_type": "standard"
-        }
-      ]
-    },
-    "larkhall-scotland": {
-      "job_count": 1,
-      "jobs": [
-        {
-          "id": "13175",
+          "id": "13190",
           "title": "Optometrist",
-          "url": "https://join.specsavers.com/uk/job/optometrist-in-larkhall-scotland-jid-13175",
+          "url": "https://join.specsavers.com/uk/job/optometrist-in-edinburgh-scotland-jid-13190",
           "email_type": "standard"
         }
       ]
     },
-    "leicester-east-midlands": {
+    "lerwick-scotland": {
       "job_count": 1,
       "jobs": [
         {
-          "id": "13162",
-          "title": "Assistant Manager",
-          "url": "https://join.specsavers.com/uk/job/assistant-manager-in-leicester-east-midlands-jid-13162",
+          "id": "13179",
+          "title": "Optometrist",
+          "url": "https://join.specsavers.com/uk/job/optometrist-in-lerwick-scotland-jid-13179",
           "email_type": "standard"
         }
       ]
     },
-    "perth-scotland": {
+    "radstock-south-west": {
       "job_count": 1,
       "jobs": [
         {
-          "id": "13158",
-          "title": "Dispensing Optician/Trainee CLO",
-          "url": "https://join.specsavers.com/uk/job/dispensing-optician-trainee-clo-in-perth-scotland-jid-13158",
-          "email_type": "standard"
-        }
-      ]
-    },
-    "santry-ireland": {
-      "job_count": 1,
-      "jobs": [
-        {
-          "id": "13164",
+          "id": "13184",
           "title": "Optical Assistant",
-          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-santry-ireland-jid-13164",
+          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-radstock-south-west-jid-13184",
           "email_type": "standard"
         }
       ]
     },
-    "scunthorpe-north-east": {
+    "ruislip-greater-london": {
       "job_count": 1,
       "jobs": [
         {
-          "id": "13170",
+          "id": "13182",
+          "title": "Store Manager",
+          "url": "https://join.specsavers.com/uk/job/store-manager-in-ruislip-greater-london-jid-13182",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "stonehaven-scotland": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "13180",
+          "title": "Optometrist",
+          "url": "https://join.specsavers.com/uk/job/optometrist-in-stonehaven-scotland-jid-13180",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "wilmslow-north-west": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "13185",
           "title": "Optical Assistant",
-          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-scunthorpe-north-east-jid-13170",
-          "email_type": "standard"
-        }
-      ]
-    },
-    "west-thurrock-east-england": {
-      "job_count": 1,
-      "jobs": [
-        {
-          "id": "13159",
-          "title": "Admin Assistant",
-          "url": "https://join.specsavers.com/uk/job/admin-assistant-in-west-thurrock-east-england-jid-13159",
-          "email_type": "standard"
-        }
-      ]
-    },
-    "winsford-north-west": {
-      "job_count": 1,
-      "jobs": [
-        {
-          "id": "13169",
-          "title": "Experienced Optical Assistant",
-          "url": "https://join.specsavers.com/uk/job/experienced-optical-assistant-in-winsford-north-west-jid-13169",
+          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-wilmslow-north-west-jid-13185",
           "email_type": "standard"
         }
       ]
