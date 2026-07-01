@@ -1,6 +1,168 @@
 {
-  "date": "2026-06-30",
-  "total_new_jobs": 0,
-  "total_stores": 0,
-  "stores": {}
+  "date": "2026-07-01",
+  "total_new_jobs": 16,
+  "total_stores": 13,
+  "stores": {
+    "bathgate-scotland": {
+      "job_count": 2,
+      "jobs": [
+        {
+          "id": "13300",
+          "title": "Contact Lens Optician",
+          "url": "https://join.specsavers.com/uk/job/contact-lens-optician-in-bathgate-scotland-jid-13300",
+          "email_type": "standard"
+        },
+        {
+          "id": "13299",
+          "title": "Dispensing Optician",
+          "url": "https://join.specsavers.com/uk/job/dispensing-optician-in-bathgate-scotland-jid-13299",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "bradford-north-east": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "13288",
+          "title": "Optical Assistant",
+          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-bradford-north-east-jid-13288",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "clacton-on-sea-east-england": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "13303",
+          "title": "Dispensing Optician",
+          "url": "https://join.specsavers.com/uk/job/dispensing-optician-in-clacton-on-sea-east-england-jid-13303",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "downpatrick-northern-ireland": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "13318",
+          "title": "Store Manager",
+          "url": "https://join.specsavers.com/uk/job/store-manager-in-downpatrick-northern-ireland-jid-13318",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "fort-william-scotland": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "13293",
+          "title": "Optometrist",
+          "url": "https://join.specsavers.com/uk/job/optometrist-in-fort-william-scotland-jid-13293",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "ilford-greater-london": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "13313",
+          "title": "Store Manager",
+          "url": "https://join.specsavers.com/uk/job/store-manager-in-ilford-greater-london-jid-13313",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "kenilworth-west-midlands": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "13305",
+          "title": "Optical Assistant",
+          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-kenilworth-west-midlands-jid-13305",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "london-greater-london": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "13322",
+          "title": "Home Visits Administrator",
+          "url": "https://join.specsavers.com/uk/job/home-visits-administrator-in-london-greater-london-jid-13322",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "oban-scotland": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "13291",
+          "title": "Optometrist",
+          "url": "https://join.specsavers.com/uk/job/optometrist-in-oban-scotland-jid-13291",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "poole-south-west": {
+      "job_count": 2,
+      "jobs": [
+        {
+          "id": "13315",
+          "title": "Optical Assistant (Part Time)",
+          "url": "https://join.specsavers.com/uk/job/optical-assistant-part-time-in-poole-south-west-jid-13315",
+          "email_type": "standard"
+        },
+        {
+          "id": "13314",
+          "title": "Optical Assistant",
+          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-poole-south-west-jid-13314",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "sevenoaks-south-east": {
+      "job_count": 2,
+      "jobs": [
+        {
+          "id": "13321",
+          "title": "Optometrist",
+          "url": "https://join.specsavers.com/uk/job/optometrist-in-sevenoaks-south-east-jid-13321",
+          "email_type": "standard"
+        },
+        {
+          "id": "13323",
+          "title": "Hearing Aid Dispenser",
+          "url": "https://join.specsavers.com/uk/job/hearing-aid-dispenser-in-sevenoaks-south-east-jid-13323",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "tallaght-ireland": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "13312",
+          "title": "Optical Assistant",
+          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-tallaght-ireland-jid-13312",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "wandsworth-greater-london": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "13307",
+          "title": "Optical Assistant",
+          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-wandsworth-greater-london-jid-13307",
+          "email_type": "standard"
+        }
+      ]
+    }
+  }
 }
