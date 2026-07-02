@@ -1,98 +1,48 @@
 {
   "date": "2026-07-02",
-  "total_new_jobs": 23,
-  "total_stores": 22,
+  "total_new_jobs": 9,
+  "total_stores": 9,
   "stores": {
-    "aberdeen-scotland": {
+    "dumfries-scotland": {
       "job_count": 1,
       "jobs": [
         {
-          "id": "13344",
-          "title": "Dispensing Optician",
-          "url": "https://join.specsavers.com/uk/job/dispensing-optician-in-aberdeen-scotland-jid-13344",
+          "id": "13379",
+          "title": "Trainee Lab Technician",
+          "url": "https://join.specsavers.com/uk/job/trainee-lab-technician-in-dumfries-scotland-jid-13379",
+          "email_type": "trainee"
+        }
+      ]
+    },
+    "eltham-greater-london": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "13378",
+          "title": "Optical Assistant",
+          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-eltham-greater-london-jid-13378",
           "email_type": "standard"
         }
       ]
     },
-    "brecon-wales": {
+    "falkirk-scotland": {
       "job_count": 1,
       "jobs": [
         {
-          "id": "13346",
-          "title": "Optometrist",
-          "url": "https://join.specsavers.com/uk/job/optometrist-in-brecon-wales-jid-13346",
-          "email_type": "standard"
+          "id": "13375",
+          "title": "Trainee Lab Technician",
+          "url": "https://join.specsavers.com/uk/job/trainee-lab-technician-in-falkirk-scotland-jid-13375",
+          "email_type": "trainee"
         }
       ]
     },
-    "brixton-wales": {
+    "gateshead-north-east": {
       "job_count": 1,
       "jobs": [
         {
-          "id": "13364",
-          "title": "Home Visits Optical Assistant (Part-Time)",
-          "url": "https://join.specsavers.com/uk/job/home-visits-optical-assistant-part-time-in-brixton-wales-jid-13364",
-          "email_type": "standard"
-        }
-      ]
-    },
-    "canterbury-south-east": {
-      "job_count": 1,
-      "jobs": [
-        {
-          "id": "13354",
-          "title": "Home Visits Hearing Aid Dispenser/Audiologist",
-          "url": "https://join.specsavers.com/uk/job/home-visits-hearing-aid-dispenser-audiologist-in-canterbury-south-east-jid-13354",
-          "email_type": "standard"
-        }
-      ]
-    },
-    "chatham-south-east": {
-      "job_count": 1,
-      "jobs": [
-        {
-          "id": "13353",
-          "title": "Home Visits Hearing Aid Dispenser/Audiologist",
-          "url": "https://join.specsavers.com/uk/job/home-visits-hearing-aid-dispenser-audiologist-in-chatham-south-east-jid-13353",
-          "email_type": "standard"
-        }
-      ]
-    },
-    "dundee-scotland": {
-      "job_count": 1,
-      "jobs": [
-        {
-          "id": "13333",
-          "title": "Optometrist",
-          "url": "https://join.specsavers.com/uk/job/optometrist-in-dundee-scotland-jid-13333",
-          "email_type": "standard"
-        }
-      ]
-    },
-    "ealing-ealing": {
-      "job_count": 1,
-      "jobs": [
-        {
-          "id": "13367",
-          "title": "Home Visits Optical Assistant (Part-Time)",
-          "url": "https://join.specsavers.com/uk/job/home-visits-optical-assistant-part-time-in-ealing-ealing-jid-13367",
-          "email_type": "standard"
-        }
-      ]
-    },
-    "elgin-scotland": {
-      "job_count": 2,
-      "jobs": [
-        {
-          "id": "13348",
-          "title": "Newly Qualified Optometrist",
-          "url": "https://join.specsavers.com/uk/job/newly-qualified-optometrist-in-elgin-scotland-jid-13348",
-          "email_type": "standard"
-        },
-        {
-          "id": "13347",
-          "title": "Optometrist",
-          "url": "https://join.specsavers.com/uk/job/optometrist-in-elgin-scotland-jid-13347",
+          "id": "13372",
+          "title": "Store Manager",
+          "url": "https://join.specsavers.com/uk/job/store-manager-in-gateshead-north-east-jid-13372",
           "email_type": "standard"
         }
       ]
@@ -101,86 +51,31 @@
       "job_count": 1,
       "jobs": [
         {
-          "id": "13345",
-          "title": "Hearing Aid Dispenser",
-          "url": "https://join.specsavers.com/uk/job/hearing-aid-dispenser-in-glasgow-scotland-jid-13345",
+          "id": "13374",
+          "title": "General Manager",
+          "url": "https://join.specsavers.com/uk/job/general-manager-in-glasgow-scotland-jid-13374",
           "email_type": "standard"
         }
       ]
     },
-    "grangemouth-scotland": {
+    "ruislip-greater-london": {
       "job_count": 1,
       "jobs": [
         {
-          "id": "13340",
-          "title": "Optometrist",
-          "url": "https://join.specsavers.com/uk/job/optometrist-in-grangemouth-scotland-jid-13340",
+          "id": "13377",
+          "title": "Optical Assistant 1",
+          "url": "https://join.specsavers.com/uk/job/optical-assistant-1-in-ruislip-greater-london-jid-13377",
           "email_type": "standard"
         }
       ]
     },
-    "harrow-harrow": {
+    "shirley-west-midlands": {
       "job_count": 1,
       "jobs": [
         {
-          "id": "13360",
-          "title": "Home Visits Optical Assistant (Part-Time)",
-          "url": "https://join.specsavers.com/uk/job/home-visits-optical-assistant-part-time-in-harrow-harrow-jid-13360",
-          "email_type": "standard"
-        }
-      ]
-    },
-    "hounslow-hounslow": {
-      "job_count": 1,
-      "jobs": [
-        {
-          "id": "13365",
-          "title": "Home Visits Optical Assistant (Part-Time)",
-          "url": "https://join.specsavers.com/uk/job/home-visits-optical-assistant-part-time-in-hounslow-hounslow-jid-13365",
-          "email_type": "standard"
-        }
-      ]
-    },
-    "kingston-upon-thames-kingston-upon-thames": {
-      "job_count": 1,
-      "jobs": [
-        {
-          "id": "13362",
-          "title": "Home Visits Optical Assistant (Part-Time)",
-          "url": "https://join.specsavers.com/uk/job/home-visits-optical-assistant-part-time-in-kingston-upon-thames-kingston-upon-thames-jid-13362",
-          "email_type": "standard"
-        }
-      ]
-    },
-    "lewisham-greater-london": {
-      "job_count": 1,
-      "jobs": [
-        {
-          "id": "13342",
-          "title": "Team Leader",
-          "url": "https://join.specsavers.com/uk/job/team-leader-in-lewisham-greater-london-jid-13342",
-          "email_type": "standard"
-        }
-      ]
-    },
-    "ringwood-south": {
-      "job_count": 1,
-      "jobs": [
-        {
-          "id": "13352",
-          "title": "Store Manager",
-          "url": "https://join.specsavers.com/uk/job/store-manager-in-ringwood-south-jid-13352",
-          "email_type": "standard"
-        }
-      ]
-    },
-    "ruislip-ruislip": {
-      "job_count": 1,
-      "jobs": [
-        {
-          "id": "13361",
-          "title": "Home Visits Optical Assistant (Part-Time)",
-          "url": "https://join.specsavers.com/uk/job/home-visits-optical-assistant-part-time-in-ruislip-ruislip-jid-13361",
+          "id": "13376",
+          "title": "Weekend Optical Assistant",
+          "url": "https://join.specsavers.com/uk/job/weekend-optical-assistant-in-shirley-west-midlands-jid-13376",
           "email_type": "standard"
         }
       ]
@@ -189,64 +84,20 @@
       "job_count": 1,
       "jobs": [
         {
-          "id": "13358",
-          "title": "Optometrist",
-          "url": "https://join.specsavers.com/uk/job/optometrist-in-slough-south-jid-13358",
+          "id": "13380",
+          "title": "Optical Assistant",
+          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-slough-south-jid-13380",
           "email_type": "standard"
         }
       ]
     },
-    "staines-upon-thames-staines-upon-thames": {
+    "wokingham-south": {
       "job_count": 1,
       "jobs": [
         {
-          "id": "13368",
-          "title": "Home Visits Optical Assistant (Part-Time)",
-          "url": "https://join.specsavers.com/uk/job/home-visits-optical-assistant-part-time-in-staines-upon-thames-staines-upon-thames-jid-13368",
-          "email_type": "standard"
-        }
-      ]
-    },
-    "sydenham-sydenham": {
-      "job_count": 1,
-      "jobs": [
-        {
-          "id": "13363",
-          "title": "Home Visits Optical Assistant (Part-Time)",
-          "url": "https://join.specsavers.com/uk/job/home-visits-optical-assistant-part-time-in-sydenham-sydenham-jid-13363",
-          "email_type": "standard"
-        }
-      ]
-    },
-    "tonbridge-south-east": {
-      "job_count": 1,
-      "jobs": [
-        {
-          "id": "13356",
-          "title": "Home Visits Hearing Aid Dispenser/Audiologist",
-          "url": "https://join.specsavers.com/uk/job/home-visits-hearing-aid-dispenser-audiologist-in-tonbridge-south-east-jid-13356",
-          "email_type": "standard"
-        }
-      ]
-    },
-    "tunbridge-wells-south-east": {
-      "job_count": 1,
-      "jobs": [
-        {
-          "id": "13355",
-          "title": "Home Visits Hearing Aid Dispenser/Audiologist",
-          "url": "https://join.specsavers.com/uk/job/home-visits-hearing-aid-dispenser-audiologist-in-tunbridge-wells-south-east-jid-13355",
-          "email_type": "standard"
-        }
-      ]
-    },
-    "uxbridge-uxbridge": {
-      "job_count": 1,
-      "jobs": [
-        {
-          "id": "13366",
-          "title": "Home Visits Optical Assistant (Part-Time)",
-          "url": "https://join.specsavers.com/uk/job/home-visits-optical-assistant-part-time-in-uxbridge-uxbridge-jid-13366",
+          "id": "13373",
+          "title": "Admin Assistant",
+          "url": "https://join.specsavers.com/uk/job/admin-assistant-in-wokingham-south-jid-13373",
           "email_type": "standard"
         }
       ]
