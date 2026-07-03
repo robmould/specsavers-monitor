@@ -1,65 +1,59 @@
 {
   "date": "2026-07-03",
-  "total_new_jobs": 6,
+  "total_new_jobs": 5,
   "total_stores": 5,
   "stores": {
-    "edinburgh-scotland": {
+    "arbroath-scotland": {
       "job_count": 1,
       "jobs": [
         {
-          "id": "13393",
+          "id": "13396",
+          "title": "Home Visits Optometrist",
+          "url": "https://join.specsavers.com/uk/job/home-visits-optometrist-in-arbroath-scotland-jid-13396",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "forfar-scotland": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "13398",
+          "title": "Home Visits Optometrist",
+          "url": "https://join.specsavers.com/uk/job/home-visits-optometrist-in-forfar-scotland-jid-13398",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "gartcosh-scotland": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "13397",
+          "title": "Home Visits Optometrist",
+          "url": "https://join.specsavers.com/uk/job/home-visits-optometrist-in-gartcosh-scotland-jid-13397",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "hoddesdon-east-england": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "13400",
           "title": "Optical Assistant",
-          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-edinburgh-scotland-jid-13393",
+          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-hoddesdon-east-england-jid-13400",
           "email_type": "standard"
         }
       ]
     },
-    "gloucester-south": {
-      "job_count": 2,
+    "welwyn-garden-city-east-england": {
+      "job_count": 1,
       "jobs": [
         {
-          "id": "13390",
+          "id": "13399",
           "title": "Optical Assistant",
-          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-gloucester-south-jid-13390",
-          "email_type": "standard"
-        },
-        {
-          "id": "13389",
-          "title": "Store Manager",
-          "url": "https://join.specsavers.com/uk/job/store-manager-in-gloucester-south-jid-13389",
-          "email_type": "standard"
-        }
-      ]
-    },
-    "hexham-north-east": {
-      "job_count": 1,
-      "jobs": [
-        {
-          "id": "13392",
-          "title": "Dispensing Optician Manager",
-          "url": "https://join.specsavers.com/uk/job/dispensing-optician-manager-in-hexham-north-east-jid-13392",
-          "email_type": "standard"
-        }
-      ]
-    },
-    "marlow-south": {
-      "job_count": 1,
-      "jobs": [
-        {
-          "id": "13385",
-          "title": "Dispensing Optician",
-          "url": "https://join.specsavers.com/uk/job/dispensing-optician-in-marlow-south-jid-13385",
-          "email_type": "standard"
-        }
-      ]
-    },
-    "warrington-north-west": {
-      "job_count": 1,
-      "jobs": [
-        {
-          "id": "13387",
-          "title": "Hearing Aid Dispenser",
-          "url": "https://join.specsavers.com/uk/job/hearing-aid-dispenser-in-warrington-north-west-jid-13387",
+          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-welwyn-garden-city-east-england-jid-13399",
           "email_type": "standard"
         }
       ]
