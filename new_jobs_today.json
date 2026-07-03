@@ -1,103 +1,65 @@
 {
-  "date": "2026-07-02",
-  "total_new_jobs": 9,
-  "total_stores": 9,
+  "date": "2026-07-03",
+  "total_new_jobs": 6,
+  "total_stores": 5,
   "stores": {
-    "dumfries-scotland": {
+    "edinburgh-scotland": {
       "job_count": 1,
       "jobs": [
         {
-          "id": "13379",
-          "title": "Trainee Lab Technician",
-          "url": "https://join.specsavers.com/uk/job/trainee-lab-technician-in-dumfries-scotland-jid-13379",
-          "email_type": "trainee"
-        }
-      ]
-    },
-    "eltham-greater-london": {
-      "job_count": 1,
-      "jobs": [
-        {
-          "id": "13378",
+          "id": "13393",
           "title": "Optical Assistant",
-          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-eltham-greater-london-jid-13378",
+          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-edinburgh-scotland-jid-13393",
           "email_type": "standard"
         }
       ]
     },
-    "falkirk-scotland": {
-      "job_count": 1,
+    "gloucester-south": {
+      "job_count": 2,
       "jobs": [
         {
-          "id": "13375",
-          "title": "Trainee Lab Technician",
-          "url": "https://join.specsavers.com/uk/job/trainee-lab-technician-in-falkirk-scotland-jid-13375",
-          "email_type": "trainee"
-        }
-      ]
-    },
-    "gateshead-north-east": {
-      "job_count": 1,
-      "jobs": [
+          "id": "13390",
+          "title": "Optical Assistant",
+          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-gloucester-south-jid-13390",
+          "email_type": "standard"
+        },
         {
-          "id": "13372",
+          "id": "13389",
           "title": "Store Manager",
-          "url": "https://join.specsavers.com/uk/job/store-manager-in-gateshead-north-east-jid-13372",
+          "url": "https://join.specsavers.com/uk/job/store-manager-in-gloucester-south-jid-13389",
           "email_type": "standard"
         }
       ]
     },
-    "glasgow-scotland": {
+    "hexham-north-east": {
       "job_count": 1,
       "jobs": [
         {
-          "id": "13374",
-          "title": "General Manager",
-          "url": "https://join.specsavers.com/uk/job/general-manager-in-glasgow-scotland-jid-13374",
+          "id": "13392",
+          "title": "Dispensing Optician Manager",
+          "url": "https://join.specsavers.com/uk/job/dispensing-optician-manager-in-hexham-north-east-jid-13392",
           "email_type": "standard"
         }
       ]
     },
-    "ruislip-greater-london": {
+    "marlow-south": {
       "job_count": 1,
       "jobs": [
         {
-          "id": "13377",
-          "title": "Optical Assistant 1",
-          "url": "https://join.specsavers.com/uk/job/optical-assistant-1-in-ruislip-greater-london-jid-13377",
+          "id": "13385",
+          "title": "Dispensing Optician",
+          "url": "https://join.specsavers.com/uk/job/dispensing-optician-in-marlow-south-jid-13385",
           "email_type": "standard"
         }
       ]
     },
-    "shirley-west-midlands": {
+    "warrington-north-west": {
       "job_count": 1,
       "jobs": [
         {
-          "id": "13376",
-          "title": "Weekend Optical Assistant",
-          "url": "https://join.specsavers.com/uk/job/weekend-optical-assistant-in-shirley-west-midlands-jid-13376",
-          "email_type": "standard"
-        }
-      ]
-    },
-    "slough-south": {
-      "job_count": 1,
-      "jobs": [
-        {
-          "id": "13380",
-          "title": "Optical Assistant",
-          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-slough-south-jid-13380",
-          "email_type": "standard"
-        }
-      ]
-    },
-    "wokingham-south": {
-      "job_count": 1,
-      "jobs": [
-        {
-          "id": "13373",
-          "title": "Admin Assistant",
-          "url": "https://join.specsavers.com/uk/job/admin-assistant-in-wokingham-south-jid-13373",
+          "id": "13387",
+          "title": "Hearing Aid Dispenser",
+          "url": "https://join.specsavers.com/uk/job/hearing-aid-dispenser-in-warrington-north-west-jid-13387",
           "email_type": "standard"
         }
       ]
