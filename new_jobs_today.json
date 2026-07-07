@@ -1,6 +1,62 @@
 {
-  "date": "2026-07-06",
-  "total_new_jobs": 0,
-  "total_stores": 0,
-  "stores": {}
+  "date": "2026-07-07",
+  "total_new_jobs": 5,
+  "total_stores": 5,
+  "stores": {
+    "burton-on-trent-west-midlands": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "13418",
+          "title": "Weekend Optical Assistant",
+          "url": "https://join.specsavers.com/uk/job/weekend-optical-assistant-in-burton-on-trent-west-midlands-jid-13418",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "caernarfon-wales": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "13429",
+          "title": "Optical Assistant",
+          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-caernarfon-wales-jid-13429",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "haywards-heath-south-east": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "13422",
+          "title": "Admin Assistant",
+          "url": "https://join.specsavers.com/uk/job/admin-assistant-in-haywards-heath-south-east-jid-13422",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "loughton-greater-london": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "13427",
+          "title": "Optical Assistant",
+          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-loughton-greater-london-jid-13427",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "new-malden-greater-london": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "13424",
+          "title": "Optical Assistant",
+          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-new-malden-greater-london-jid-13424",
+          "email_type": "standard"
+        }
+      ]
+    }
+  }
 }
