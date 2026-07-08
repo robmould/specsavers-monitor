@@ -1,6 +1,139 @@
 {
-  "date": "2026-07-07",
-  "total_new_jobs": 0,
-  "total_stores": 0,
-  "stores": {}
+  "date": "2026-07-08",
+  "total_new_jobs": 12,
+  "total_stores": 12,
+  "stores": {
+    "billericay-east-england": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "13442",
+          "title": "Optical Assistant",
+          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-billericay-east-england-jid-13442",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "chingford-greater-london": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "13438",
+          "title": "Optical Assistant",
+          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-chingford-greater-london-jid-13438",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "cosham-south": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "13437",
+          "title": "Optical Assistant",
+          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-cosham-south-jid-13437",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "cottingham-north-east": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "13449",
+          "title": "Assistant Manager",
+          "url": "https://join.specsavers.com/uk/job/assistant-manager-in-cottingham-north-east-jid-13449",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "dunfermline-scotland": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "13435",
+          "title": "Home Visits Optometrist",
+          "url": "https://join.specsavers.com/uk/job/home-visits-optometrist-in-dunfermline-scotland-jid-13435",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "glenrothes-scotland": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "13434",
+          "title": "Home Visits Optometrist",
+          "url": "https://join.specsavers.com/uk/job/home-visits-optometrist-in-glenrothes-scotland-jid-13434",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "grangemouth-scotland": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "13441",
+          "title": "Optical Assistant",
+          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-grangemouth-scotland-jid-13441",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "hull-north-east": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "13444",
+          "title": "Store Manager",
+          "url": "https://join.specsavers.com/uk/job/store-manager-in-hull-north-east-jid-13444",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "morpeth-north-east": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "13451",
+          "title": "Assistant Manager",
+          "url": "https://join.specsavers.com/uk/job/assistant-manager-in-morpeth-north-east-jid-13451",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "slough-south": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "13443",
+          "title": "Optometrist",
+          "url": "https://join.specsavers.com/uk/job/optometrist-in-slough-south-jid-13443",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "st-andrews-scotland": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "13436",
+          "title": "Home Visits Optometrist",
+          "url": "https://join.specsavers.com/uk/job/home-visits-optometrist-in-st-andrews-scotland-jid-13436",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "welshpool-wales": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "13453",
+          "title": "Optical Assistant",
+          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-welshpool-wales-jid-13453",
+          "email_type": "standard"
+        }
+      ]
+    }
+  }
 }
