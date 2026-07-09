@@ -1,6 +1,260 @@
 {
-  "date": "2026-07-08",
-  "total_new_jobs": 0,
-  "total_stores": 0,
-  "stores": {}
+  "date": "2026-07-09",
+  "total_new_jobs": 23,
+  "total_stores": 23,
+  "stores": {
+    "birmingham-west-midlands": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "13468",
+          "title": "Optical Assistant",
+          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-birmingham-west-midlands-jid-13468",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "driffield-driffield": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "13478",
+          "title": "Home Visits Optical Assistant",
+          "url": "https://join.specsavers.com/uk/job/home-visits-optical-assistant-in-driffield-driffield-jid-13478",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "east-grinstead-south-east": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "13461",
+          "title": "Optical Assistant",
+          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-east-grinstead-south-east-jid-13461",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "exeter-south-west": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "13460",
+          "title": "Optical Assistant",
+          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-exeter-south-west-jid-13460",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "fareham-south": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "13464",
+          "title": "Dispensing Optician",
+          "url": "https://join.specsavers.com/uk/job/dispensing-optician-in-fareham-south-jid-13464",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "harrogate-harrogate": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "13480",
+          "title": "Home Visits Optical Assistant",
+          "url": "https://join.specsavers.com/uk/job/home-visits-optical-assistant-in-harrogate-harrogate-jid-13480",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "hawes-hawes": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "13479",
+          "title": "Home Visits Optical Assistant",
+          "url": "https://join.specsavers.com/uk/job/home-visits-optical-assistant-in-hawes-hawes-jid-13479",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "hessle-north-east": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "13458",
+          "title": "Optical Assistant",
+          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-hessle-north-east-jid-13458",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "high-wycombe-south": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "13487",
+          "title": "Optical Assistant",
+          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-high-wycombe-south-jid-13487",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "hoddesdon-east-england": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "13463",
+          "title": "Assistant Store Manager",
+          "url": "https://join.specsavers.com/uk/job/assistant-store-manager-in-hoddesdon-east-england-jid-13463",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "horley-south-east": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "13462",
+          "title": "Optical Assistant",
+          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-horley-south-east-jid-13462",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "malton-malton": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "13484",
+          "title": "Home Visits Optical Assistant",
+          "url": "https://join.specsavers.com/uk/job/home-visits-optical-assistant-in-malton-malton-jid-13484",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "mold-wales": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "13489",
+          "title": "Part Time Administrator & Scheduler",
+          "url": "https://join.specsavers.com/uk/job/part-time-administrator-and-scheduler-in-mold-wales-jid-13489",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "nottingham-nottingham": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "13475",
+          "title": "Home Visits Optical Assistant",
+          "url": "https://join.specsavers.com/uk/job/home-visits-optical-assistant-in-nottingham-nottingham-jid-13475",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "richmond-greater-london": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "13488",
+          "title": "Optometrist",
+          "url": "https://join.specsavers.com/uk/job/optometrist-in-richmond-greater-london-jid-13488",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "ripon-ripon": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "13481",
+          "title": "Home Visits Optical Assistant",
+          "url": "https://join.specsavers.com/uk/job/home-visits-optical-assistant-in-ripon-ripon-jid-13481",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "royston-east-england": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "13471",
+          "title": "Optical Assistant",
+          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-royston-east-england-jid-13471",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "scarborough-scarborough": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "13483",
+          "title": "Home Visits Optical Assistant",
+          "url": "https://join.specsavers.com/uk/job/home-visits-optical-assistant-in-scarborough-scarborough-jid-13483",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "selby-selby": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "13486",
+          "title": "Home Visits Optical Assistant",
+          "url": "https://join.specsavers.com/uk/job/home-visits-optical-assistant-in-selby-selby-jid-13486",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "sleights-sleights": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "13485",
+          "title": "Home Visits Optical Assistant",
+          "url": "https://join.specsavers.com/uk/job/home-visits-optical-assistant-in-sleights-sleights-jid-13485",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "whitstable-south-east": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "13473",
+          "title": "Optical Assistant",
+          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-whitstable-south-east-jid-13473",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "winchester-south": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "13467",
+          "title": "Optical Assistant",
+          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-winchester-south-jid-13467",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "york-york": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "13482",
+          "title": "Home Visits Optical Assistant",
+          "url": "https://join.specsavers.com/uk/job/home-visits-optical-assistant-in-york-york-jid-13482",
+          "email_type": "standard"
+        }
+      ]
+    }
+  }
 }
