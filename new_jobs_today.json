@@ -1,6 +1,183 @@
 {
-  "date": "2026-07-09",
-  "total_new_jobs": 0,
-  "total_stores": 0,
-  "stores": {}
+  "date": "2026-07-10",
+  "total_new_jobs": 16,
+  "total_stores": 16,
+  "stores": {
+    "chelmsford-east-england": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "13519",
+          "title": "Home Visits Optical Assistant",
+          "url": "https://join.specsavers.com/uk/job/home-visits-optical-assistant-in-chelmsford-east-england-jid-13519",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "edinburgh-scotland": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "13496",
+          "title": "Domiciliary Optometrist",
+          "url": "https://join.specsavers.com/uk/job/domiciliary-optometrist-in-edinburgh-scotland-jid-13496",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "galashiels-scotland": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "13499",
+          "title": "Domiciliary Optometrist",
+          "url": "https://join.specsavers.com/uk/job/domiciliary-optometrist-in-galashiels-scotland-jid-13499",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "gorseinon-wales": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "13508",
+          "title": "Optical Assistant",
+          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-gorseinon-wales-jid-13508",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "guildford-south-east": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "13493",
+          "title": "Trainee Audiology Practitioner",
+          "url": "https://join.specsavers.com/uk/job/trainee-audiology-practitioner-in-guildford-south-east-jid-13493",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "haddington-scotland": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "13498",
+          "title": "Domiciliary Optometrist",
+          "url": "https://join.specsavers.com/uk/job/domiciliary-optometrist-in-haddington-scotland-jid-13498",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "harpurhey-north-west": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "13492",
+          "title": "Dispensing Optician",
+          "url": "https://join.specsavers.com/uk/job/dispensing-optician-in-harpurhey-north-west-jid-13492",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "haywards-heath-south-east": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "13516",
+          "title": "Admin Assistant",
+          "url": "https://join.specsavers.com/uk/job/admin-assistant-in-haywards-heath-south-east-jid-13516",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "hoddesdon-east-england": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "13515",
+          "title": "Dispensing Optician Assistant Manager",
+          "url": "https://join.specsavers.com/uk/job/dispensing-optician-assistant-manager-in-hoddesdon-east-england-jid-13515",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "horncastle-east": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "13510",
+          "title": "PT Optometrist",
+          "url": "https://join.specsavers.com/uk/job/pt-optometrist-in-horncastle-east-jid-13510",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "livingston-scotland": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "13500",
+          "title": "Domiciliary Optometrist",
+          "url": "https://join.specsavers.com/uk/job/domiciliary-optometrist-in-livingston-scotland-jid-13500",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "luton-east-england": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "13501",
+          "title": "Audiologist/Hearing Aid Dispenser",
+          "url": "https://join.specsavers.com/uk/job/audiologist-hearing-aid-dispenser-in-luton-east-england-jid-13501",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "mexborough-north-east": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "13520",
+          "title": "Optometrist",
+          "url": "https://join.specsavers.com/uk/job/optometrist-in-mexborough-north-east-jid-13520",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "morpeth-north-east": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "13509",
+          "title": "Optometrist",
+          "url": "https://join.specsavers.com/uk/job/optometrist-in-morpeth-north-east-jid-13509",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "perth-scotland": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "13507",
+          "title": "Home Visits Optometrist",
+          "url": "https://join.specsavers.com/uk/job/home-visits-optometrist-in-perth-scotland-jid-13507",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "walthamstow-greater-london": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "13506",
+          "title": "Optical Assistant",
+          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-walthamstow-greater-london-jid-13506",
+          "email_type": "standard"
+        }
+      ]
+    }
+  }
 }
