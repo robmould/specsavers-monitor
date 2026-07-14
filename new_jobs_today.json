@@ -1,6 +1,194 @@
 {
-  "date": "2026-07-13",
-  "total_new_jobs": 0,
-  "total_stores": 0,
-  "stores": {}
+  "date": "2026-07-14",
+  "total_new_jobs": 17,
+  "total_stores": 17,
+  "stores": {
+    "braintree-east-of-england": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "13563",
+          "title": "Home Visits Optical Assistant",
+          "url": "https://join.specsavers.com/uk/job/home-visits-optical-assistant-in-braintree-east-of-england-jid-13563",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "brentwood-wales": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "13561",
+          "title": "Home Visits Optical Assistant",
+          "url": "https://join.specsavers.com/uk/job/home-visits-optical-assistant-in-brentwood-wales-jid-13561",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "chatham-south-east": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "13555",
+          "title": "Home Visits Hearing Aid Dispenser/Audiologist",
+          "url": "https://join.specsavers.com/uk/job/home-visits-hearing-aid-dispenser-audiologist-in-chatham-south-east-jid-13555",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "colchester-east-of-england": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "13566",
+          "title": "Home Visits Optical Assistant",
+          "url": "https://join.specsavers.com/uk/job/home-visits-optical-assistant-in-colchester-east-of-england-jid-13566",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "epping-epping": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "13562",
+          "title": "Home Visits Optical Assistant",
+          "url": "https://join.specsavers.com/uk/job/home-visits-optical-assistant-in-epping-epping-jid-13562",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "grays-grays": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "13567",
+          "title": "Home Visits Optical Assistant",
+          "url": "https://join.specsavers.com/uk/job/home-visits-optical-assistant-in-grays-grays-jid-13567",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "maldon-maldon": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "13565",
+          "title": "Home Visits Optical Assistant",
+          "url": "https://join.specsavers.com/uk/job/home-visits-optical-assistant-in-maldon-maldon-jid-13565",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "mansfield-east-midlands": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "13553",
+          "title": "Home Visits Administrator/Scheduler",
+          "url": "https://join.specsavers.com/uk/job/home-visits-administrator-scheduler-in-mansfield-east-midlands-jid-13553",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "market-harborough-east-midlands": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "13551",
+          "title": "Optometrist",
+          "url": "https://join.specsavers.com/uk/job/optometrist-in-market-harborough-east-midlands-jid-13551",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "north-shields-north-east": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "13557",
+          "title": "Optical Assistant",
+          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-north-shields-north-east-jid-13557",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "romford-romford": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "13569",
+          "title": "Home Visits Optical Assistant",
+          "url": "https://join.specsavers.com/uk/job/home-visits-optical-assistant-in-romford-romford-jid-13569",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "sale-north-west": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "13554",
+          "title": "Hearing Aid Dispenser",
+          "url": "https://join.specsavers.com/uk/job/hearing-aid-dispenser-in-sale-north-west-jid-13554",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "southend-on-sea-southend-on-sea": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "13568",
+          "title": "Home Visits Optical Assistant",
+          "url": "https://join.specsavers.com/uk/job/home-visits-optical-assistant-in-southend-on-sea-southend-on-sea-jid-13568",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "stone-west-midlands": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "13550",
+          "title": "Dispensing Optician",
+          "url": "https://join.specsavers.com/uk/job/dispensing-optician-in-stone-west-midlands-jid-13550",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "tetbury-south": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "13559",
+          "title": "Dispensing Optician",
+          "url": "https://join.specsavers.com/uk/job/dispensing-optician-in-tetbury-south-jid-13559",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "torbay-south-west": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "13537",
+          "title": "Optometrist",
+          "url": "https://join.specsavers.com/uk/job/optometrist-in-torbay-south-west-jid-13537",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "witham-witham": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "13564",
+          "title": "Home Visits Optical Assistant",
+          "url": "https://join.specsavers.com/uk/job/home-visits-optical-assistant-in-witham-witham-jid-13564",
+          "email_type": "standard"
+        }
+      ]
+    }
+  }
 }
