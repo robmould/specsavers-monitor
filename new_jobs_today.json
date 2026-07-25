@@ -1,6 +1,84 @@
 {
-  "date": "2026-07-24",
-  "total_new_jobs": 0,
-  "total_stores": 0,
-  "stores": {}
+  "date": "2026-07-25",
+  "total_new_jobs": 7,
+  "total_stores": 7,
+  "stores": {
+    "altrincham-north-west": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "13808",
+          "title": "Optical Assistant",
+          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-altrincham-north-west-jid-13808",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "banstead-south-east": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "13812",
+          "title": "Optometrist",
+          "url": "https://join.specsavers.com/uk/job/optometrist-in-banstead-south-east-jid-13812",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "burnley-north-west": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "13821",
+          "title": "Lab Technician",
+          "url": "https://join.specsavers.com/uk/job/lab-technician-in-burnley-north-west-jid-13821",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "burton-on-trent-west-midlands": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "13814",
+          "title": "Weekend Optical Assistant",
+          "url": "https://join.specsavers.com/uk/job/weekend-optical-assistant-in-burton-on-trent-west-midlands-jid-13814",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "gpo-arcade-ireland": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "13824",
+          "title": "Optical Assistant",
+          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-gpo-arcade-ireland-jid-13824",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "leicester-east-midlands": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "13818",
+          "title": "Optical Assistant",
+          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-leicester-east-midlands-jid-13818",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "swadlincote-west-midlands": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "13817",
+          "title": "Optical Assistant",
+          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-swadlincote-west-midlands-jid-13817",
+          "email_type": "standard"
+        }
+      ]
+    }
+  }
 }
