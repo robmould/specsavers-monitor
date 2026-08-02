@@ -1,87 +1,15 @@
 {
-  "date": "2026-08-01",
-  "total_new_jobs": 8,
-  "total_stores": 7,
+  "date": "2026-08-02",
+  "total_new_jobs": 1,
+  "total_stores": 1,
   "stores": {
-    "fort-william-scotland": {
+    "santry-ireland": {
       "job_count": 1,
       "jobs": [
         {
-          "id": "13939",
-          "title": "Optometrist",
-          "url": "https://join.specsavers.com/uk/job/optometrist-in-fort-william-scotland-jid-13939",
-          "email_type": "standard"
-        }
-      ]
-    },
-    "glasgow-scotland": {
-      "job_count": 1,
-      "jobs": [
-        {
-          "id": "13941",
-          "title": "Optometrist",
-          "url": "https://join.specsavers.com/uk/job/optometrist-in-glasgow-scotland-jid-13941",
-          "email_type": "standard"
-        }
-      ]
-    },
-    "ilford-greater-london": {
-      "job_count": 1,
-      "jobs": [
-        {
-          "id": "13927",
-          "title": "Store Manager",
-          "url": "https://join.specsavers.com/uk/job/store-manager-in-ilford-greater-london-jid-13927",
-          "email_type": "standard"
-        }
-      ]
-    },
-    "london-greater-london": {
-      "job_count": 2,
-      "jobs": [
-        {
-          "id": "13935",
-          "title": "Contact Lens Assistant",
-          "url": "https://join.specsavers.com/uk/job/contact-lens-assistant-in-london-greater-london-jid-13935",
-          "email_type": "standard"
-        },
-        {
-          "id": "13929",
-          "title": "Store Manager",
-          "url": "https://join.specsavers.com/uk/job/store-manager-in-london-greater-london-jid-13929",
-          "email_type": "standard"
-        }
-      ]
-    },
-    "oban-scotland": {
-      "job_count": 1,
-      "jobs": [
-        {
-          "id": "13937",
-          "title": "Optometrist",
-          "url": "https://join.specsavers.com/uk/job/optometrist-in-oban-scotland-jid-13937",
-          "email_type": "standard"
-        }
-      ]
-    },
-    "sunderland-north-east": {
-      "job_count": 1,
-      "jobs": [
-        {
-          "id": "13930",
-          "title": "Home Visits Optical Assistant",
-          "url": "https://join.specsavers.com/uk/job/home-visits-optical-assistant-in-sunderland-north-east-jid-13930",
-          "email_type": "standard"
-        }
-      ]
-    },
-    "west-bridgford-east-midlands": {
-      "job_count": 1,
-      "jobs": [
-        {
-          "id": "13924",
-          "title": "Optometrist",
-          "url": "https://join.specsavers.com/uk/job/optometrist-in-west-bridgford-east-midlands-jid-13924",
+          "id": "13947",
+          "title": "Assistant Manager",
+          "url": "https://join.specsavers.com/uk/job/assistant-manager-in-santry-ireland-jid-13947",
           "email_type": "standard"
         }
       ]
