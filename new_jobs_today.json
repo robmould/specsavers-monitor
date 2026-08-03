@@ -1,18 +1,6 @@
 {
-  "date": "2026-08-02",
-  "total_new_jobs": 1,
-  "total_stores": 1,
-  "stores": {
-    "santry-ireland": {
-      "job_count": 1,
-      "jobs": [
-        {
-          "id": "13947",
-          "title": "Assistant Manager",
-          "url": "https://join.specsavers.com/uk/job/assistant-manager-in-santry-ireland-jid-13947",
-          "email_type": "standard"
-        }
-      ]
-    }
-  }
+  "date": "2026-08-03",
+  "total_new_jobs": 0,
+  "total_stores": 0,
+  "stores": {}
 }
