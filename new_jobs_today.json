@@ -1,62 +1,6 @@
 {
   "date": "2026-08-04",
-  "total_new_jobs": 5,
-  "total_stores": 5,
-  "stores": {
-    "bradford-north-east": {
-      "job_count": 1,
-      "jobs": [
-        {
-          "id": "13961",
-          "title": "Care Home Coordinator",
-          "url": "https://join.specsavers.com/uk/job/care-home-coordinator-in-bradford-north-east-jid-13961",
-          "email_type": "standard"
-        }
-      ]
-    },
-    "bradford-west-yorkshire": {
-      "job_count": 1,
-      "jobs": [
-        {
-          "id": "13959",
-          "title": "Optical Assistant",
-          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-bradford-west-yorkshire-jid-13959",
-          "email_type": "standard"
-        }
-      ]
-    },
-    "cannock-west-midlands": {
-      "job_count": 1,
-      "jobs": [
-        {
-          "id": "13963",
-          "title": "Optical Assistant",
-          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-cannock-west-midlands-jid-13963",
-          "email_type": "standard"
-        }
-      ]
-    },
-    "london-greater-london": {
-      "job_count": 1,
-      "jobs": [
-        {
-          "id": "13952",
-          "title": "Optical Assistant",
-          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-london-greater-london-jid-13952",
-          "email_type": "standard"
-        }
-      ]
-    },
-    "shrewsbury-west-midlands": {
-      "job_count": 1,
-      "jobs": [
-        {
-          "id": "13948",
-          "title": "Contact Lens Optician",
-          "url": "https://join.specsavers.com/uk/job/contact-lens-optician-in-shrewsbury-west-midlands-jid-13948",
-          "email_type": "standard"
-        }
-      ]
-    }
-  }
+  "total_new_jobs": 0,
+  "total_stores": 0,
+  "stores": {}
 }
