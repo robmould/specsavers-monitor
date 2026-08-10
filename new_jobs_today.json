@@ -1,40 +1,6 @@
 {
   "date": "2026-08-10",
-  "total_new_jobs": 3,
-  "total_stores": 3,
-  "stores": {
-    "aberdeen-scotland": {
-      "job_count": 1,
-      "jobs": [
-        {
-          "id": "14096",
-          "title": "Dispensing Optician",
-          "url": "https://join.specsavers.com/uk/job/dispensing-optician-in-aberdeen-scotland-jid-14096",
-          "email_type": "standard"
-        }
-      ]
-    },
-    "elgin-scotland": {
-      "job_count": 1,
-      "jobs": [
-        {
-          "id": "14097",
-          "title": "Optometrist",
-          "url": "https://join.specsavers.com/uk/job/optometrist-in-elgin-scotland-jid-14097",
-          "email_type": "standard"
-        }
-      ]
-    },
-    "grangemouth-scotland": {
-      "job_count": 1,
-      "jobs": [
-        {
-          "id": "14095",
-          "title": "Optometrist",
-          "url": "https://join.specsavers.com/uk/job/optometrist-in-grangemouth-scotland-jid-14095",
-          "email_type": "standard"
-        }
-      ]
-    }
-  }
+  "total_new_jobs": 0,
+  "total_stores": 0,
+  "stores": {}
 }
