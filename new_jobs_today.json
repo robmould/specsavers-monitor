@@ -1,6 +1,117 @@
 {
-  "date": "2026-08-10",
-  "total_new_jobs": 0,
-  "total_stores": 0,
-  "stores": {}
+  "date": "2026-08-11",
+  "total_new_jobs": 10,
+  "total_stores": 10,
+  "stores": {
+    "abergavenny-wales": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "14111",
+          "title": "Optometrist",
+          "url": "https://join.specsavers.com/uk/job/optometrist-in-abergavenny-wales-jid-14111",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "banbury-south": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "14110",
+          "title": "Audiologist/Hearing Aid Dispenser",
+          "url": "https://join.specsavers.com/uk/job/audiologist-hearing-aid-dispenser-in-banbury-south-jid-14110",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "bedworth-west-midlands": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "14121",
+          "title": "Optometrist",
+          "url": "https://join.specsavers.com/uk/job/optometrist-in-bedworth-west-midlands-jid-14121",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "bridgwater-south-west": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "14115",
+          "title": "Retail Supervisor",
+          "url": "https://join.specsavers.com/uk/job/retail-supervisor-in-bridgwater-south-west-jid-14115",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "chelmsford-east-england": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "14101",
+          "title": "Optical Assistant",
+          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-chelmsford-east-england-jid-14101",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "glasgow-scotland": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "14120",
+          "title": "Optical Assistant",
+          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-glasgow-scotland-jid-14120",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "high-wycombe-south": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "14107",
+          "title": "Admin Assistant",
+          "url": "https://join.specsavers.com/uk/job/admin-assistant-in-high-wycombe-south-jid-14107",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "liverpool-north-west": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "14100",
+          "title": "Hearing Aid Dispenser",
+          "url": "https://join.specsavers.com/uk/job/hearing-aid-dispenser-in-liverpool-north-west-jid-14100",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "sale-north-west": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "14118",
+          "title": "Assistant Store Manager",
+          "url": "https://join.specsavers.com/uk/job/assistant-store-manager-in-sale-north-west-jid-14118",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "wigan-north-west": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "14116",
+          "title": "Optical Assistant",
+          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-wigan-north-west-jid-14116",
+          "email_type": "standard"
+        }
+      ]
+    }
+  }
 }
