@@ -1,6 +1,135 @@
 {
-  "date": "2026-08-11",
-  "total_new_jobs": 0,
-  "total_stores": 0,
-  "stores": {}
+  "date": "2026-08-12",
+  "total_new_jobs": 13,
+  "total_stores": 10,
+  "stores": {
+    "berwick-upon-tweed-north-east": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "14127",
+          "title": "Trainee Lab Technician",
+          "url": "https://join.specsavers.com/uk/job/trainee-lab-technician-in-berwick-upon-tweed-north-east-jid-14127",
+          "email_type": "trainee"
+        }
+      ]
+    },
+    "bishop-s-stortford-east-england": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "14139",
+          "title": "Optical Assistant",
+          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-bishop-s-stortford-east-england-jid-14139",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "carlisle-north-west": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "14129",
+          "title": "Home Visits Optometrist",
+          "url": "https://join.specsavers.com/uk/job/home-visits-optometrist-in-carlisle-north-west-jid-14129",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "chelmsford-east-england": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "14133",
+          "title": "Store Manager",
+          "url": "https://join.specsavers.com/uk/job/store-manager-in-chelmsford-east-england-jid-14133",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "croydon-greater-london": {
+      "job_count": 2,
+      "jobs": [
+        {
+          "id": "14149",
+          "title": "Trainee Audiology Practitioner",
+          "url": "https://join.specsavers.com/uk/job/trainee-audiology-practitioner-in-croydon-greater-london-jid-14149",
+          "email_type": "standard"
+        },
+        {
+          "id": "14148",
+          "title": "Assistant Store Manager",
+          "url": "https://join.specsavers.com/uk/job/assistant-store-manager-in-croydon-greater-london-jid-14148",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "gerrards-cross-south": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "14141",
+          "title": "Optical Assistant",
+          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-gerrards-cross-south-jid-14141",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "golders-green-greater-london": {
+      "job_count": 3,
+      "jobs": [
+        {
+          "id": "14147",
+          "title": "Assistant Store Manager",
+          "url": "https://join.specsavers.com/uk/job/assistant-store-manager-in-golders-green-greater-london-jid-14147",
+          "email_type": "standard"
+        },
+        {
+          "id": "14145",
+          "title": "Optical Assistant",
+          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-golders-green-greater-london-jid-14145",
+          "email_type": "standard"
+        },
+        {
+          "id": "14142",
+          "title": "Store Manager",
+          "url": "https://join.specsavers.com/uk/job/store-manager-in-golders-green-greater-london-jid-14142",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "kenilworth-west-midlands": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "14132",
+          "title": "Optical Assistant",
+          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-kenilworth-west-midlands-jid-14132",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "penrith-north-west": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "14144",
+          "title": "Optometrist",
+          "url": "https://join.specsavers.com/uk/job/optometrist-in-penrith-north-west-jid-14144",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "whitehaven-north-west": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "14130",
+          "title": "Home Visits Optometrist",
+          "url": "https://join.specsavers.com/uk/job/home-visits-optometrist-in-whitehaven-north-west-jid-14130",
+          "email_type": "standard"
+        }
+      ]
+    }
+  }
 }
