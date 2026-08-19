@@ -1,6 +1,173 @@
 {
-  "date": "2026-08-18",
-  "total_new_jobs": 0,
-  "total_stores": 0,
-  "stores": {}
+  "date": "2026-08-19",
+  "total_new_jobs": 16,
+  "total_stores": 14,
+  "stores": {
+    "aberdeen-scotland": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "14325",
+          "title": "Home Visits Optical Assistant",
+          "url": "https://join.specsavers.com/uk/job/home-visits-optical-assistant-in-aberdeen-scotland-jid-14325",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "barnsley-north-east": {
+      "job_count": 2,
+      "jobs": [
+        {
+          "id": "14316",
+          "title": "Store Manager",
+          "url": "https://join.specsavers.com/uk/job/store-manager-in-barnsley-north-east-jid-14316",
+          "email_type": "standard"
+        },
+        {
+          "id": "14315",
+          "title": "Optical Assistant",
+          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-barnsley-north-east-jid-14315",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "boston-east-midlands": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "14335",
+          "title": "Optical Assistant",
+          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-boston-east-midlands-jid-14335",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "croydon-greater-london": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "14332",
+          "title": "Optical Assistant",
+          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-croydon-greater-london-jid-14332",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "ealing-greater-london": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "14322",
+          "title": "Store Manager",
+          "url": "https://join.specsavers.com/uk/job/store-manager-in-ealing-greater-london-jid-14322",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "eltham-greater-london": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "14328",
+          "title": "Optical Assistant",
+          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-eltham-greater-london-jid-14328",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "evesham-west-midlands": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "14331",
+          "title": "Optical Assistant",
+          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-evesham-west-midlands-jid-14331",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "holmfirth-north": {
+      "job_count": 2,
+      "jobs": [
+        {
+          "id": "14309",
+          "title": "Optical Assistant",
+          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-holmfirth-north-jid-14309",
+          "email_type": "standard"
+        },
+        {
+          "id": "14308",
+          "title": "Store Manager",
+          "url": "https://join.specsavers.com/uk/job/store-manager-in-holmfirth-north-jid-14308",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "hull-north-east": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "14321",
+          "title": "Assistant Manager",
+          "url": "https://join.specsavers.com/uk/job/assistant-manager-in-hull-north-east-jid-14321",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "newbury-south": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "14307",
+          "title": "Optical Assistant",
+          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-newbury-south-jid-14307",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "redhill-south-east": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "14326",
+          "title": "Administrator",
+          "url": "https://join.specsavers.com/uk/job/administrator-in-redhill-south-east-jid-14326",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "sidcup-greater-london": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "14327",
+          "title": "Optical Assistant",
+          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-sidcup-greater-london-jid-14327",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "stoke-on-trent-west-midlands": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "14330",
+          "title": "Trainee Lab/ Workshop Technician",
+          "url": "https://join.specsavers.com/uk/job/trainee-lab-workshop-technician-in-stoke-on-trent-west-midlands-jid-14330",
+          "email_type": "trainee"
+        }
+      ]
+    },
+    "wandsworth-greater-london": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "14339",
+          "title": "Optometrist",
+          "url": "https://join.specsavers.com/uk/job/optometrist-in-wandsworth-greater-london-jid-14339",
+          "email_type": "standard"
+        }
+      ]
+    }
+  }
 }
