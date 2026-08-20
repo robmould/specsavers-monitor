@@ -1,6 +1,112 @@
 {
-  "date": "2026-08-19",
-  "total_new_jobs": 0,
-  "total_stores": 0,
-  "stores": {}
+  "date": "2026-08-20",
+  "total_new_jobs": 10,
+  "total_stores": 9,
+  "stores": {
+    "arnold-east-midlands": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "14353",
+          "title": "PT Optometrist",
+          "url": "https://join.specsavers.com/uk/job/pt-optometrist-in-arnold-east-midlands-jid-14353",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "billericay-east-england": {
+      "job_count": 2,
+      "jobs": [
+        {
+          "id": "14360",
+          "title": "Dispensing Optician",
+          "url": "https://join.specsavers.com/uk/job/dispensing-optician-in-billericay-east-england-jid-14360",
+          "email_type": "standard"
+        },
+        {
+          "id": "14355",
+          "title": "Optometrist",
+          "url": "https://join.specsavers.com/uk/job/optometrist-in-billericay-east-england-jid-14355",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "burnley-north-west": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "14347",
+          "title": "Trainee Optical Assistant",
+          "url": "https://join.specsavers.com/uk/job/trainee-optical-assistant-in-burnley-north-west-jid-14347",
+          "email_type": "trainee"
+        }
+      ]
+    },
+    "east-grinstead-south-east": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "14357",
+          "title": "Optical Assistant",
+          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-east-grinstead-south-east-jid-14357",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "exeter-south-west": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "14352",
+          "title": "Optical Administrator/Scheduler",
+          "url": "https://join.specsavers.com/uk/job/optical-administrator-scheduler-in-exeter-south-west-jid-14352",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "farnborough-south": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "14361",
+          "title": "Optical Assistant",
+          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-farnborough-south-jid-14361",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "feltham-greater-london": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "14363",
+          "title": "Optometrist",
+          "url": "https://join.specsavers.com/uk/job/optometrist-in-feltham-greater-london-jid-14363",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "kingswinford-west-midlands": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "14365",
+          "title": "Optical Assistant",
+          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-kingswinford-west-midlands-jid-14365",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "st-ives-east-england": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "14356",
+          "title": "Optometrist",
+          "url": "https://join.specsavers.com/uk/job/optometrist-in-st-ives-east-england-jid-14356",
+          "email_type": "standard"
+        }
+      ]
+    }
+  }
 }
