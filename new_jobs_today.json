@@ -1,6 +1,128 @@
 {
-  "date": "2026-08-20",
-  "total_new_jobs": 0,
-  "total_stores": 0,
-  "stores": {}
+  "date": "2026-08-21",
+  "total_new_jobs": 11,
+  "total_stores": 11,
+  "stores": {
+    "banstead-south-east": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "14380",
+          "title": "Assistant Manager",
+          "url": "https://join.specsavers.com/uk/job/assistant-manager-in-banstead-south-east-jid-14380",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "edinburgh-scotland": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "14386",
+          "title": "Optical Assistant",
+          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-edinburgh-scotland-jid-14386",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "glenrothes-scotland": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "14375",
+          "title": "Optometrist",
+          "url": "https://join.specsavers.com/uk/job/optometrist-in-glenrothes-scotland-jid-14375",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "irvine-scotland": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "14374",
+          "title": "Optometrist",
+          "url": "https://join.specsavers.com/uk/job/optometrist-in-irvine-scotland-jid-14374",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "manchester-north-west": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "14372",
+          "title": "Store Manager",
+          "url": "https://join.specsavers.com/uk/job/store-manager-in-manchester-north-west-jid-14372",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "melksham-south": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "14371",
+          "title": "Optical Assistant",
+          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-melksham-south-jid-14371",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "plymouth-south-west": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "14385",
+          "title": "Retail Manager",
+          "url": "https://join.specsavers.com/uk/job/retail-manager-in-plymouth-south-west-jid-14385",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "poole-south-west": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "14382",
+          "title": "Contact Lens Assistant",
+          "url": "https://join.specsavers.com/uk/job/contact-lens-assistant-in-poole-south-west-jid-14382",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "reigate-south-east": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "14383",
+          "title": "Optical Assistant",
+          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-reigate-south-east-jid-14383",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "sheffield-south-yorkshire": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "14370",
+          "title": "Optical Assistant",
+          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-sheffield-south-yorkshire-jid-14370",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "workington-north-west": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "14384",
+          "title": "Optical Assistant",
+          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-workington-north-west-jid-14384",
+          "email_type": "standard"
+        }
+      ]
+    }
+  }
 }
