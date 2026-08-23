@@ -1,62 +1,6 @@
 {
-  "date": "2026-08-22",
-  "total_new_jobs": 5,
-  "total_stores": 5,
-  "stores": {
-    "ballina-ireland": {
-      "job_count": 1,
-      "jobs": [
-        {
-          "id": "14398",
-          "title": "Retail Supervisor",
-          "url": "https://join.specsavers.com/uk/job/retail-supervisor-in-ballina-ireland-jid-14398",
-          "email_type": "standard"
-        }
-      ]
-    },
-    "hailsham-south-east": {
-      "job_count": 1,
-      "jobs": [
-        {
-          "id": "14403",
-          "title": "Optical Assistant",
-          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-hailsham-south-east-jid-14403",
-          "email_type": "standard"
-        }
-      ]
-    },
-    "harrogate-north-east": {
-      "job_count": 1,
-      "jobs": [
-        {
-          "id": "14396",
-          "title": "Clinic Coordinator",
-          "url": "https://join.specsavers.com/uk/job/clinic-coordinator-in-harrogate-north-east-jid-14396",
-          "email_type": "standard"
-        }
-      ]
-    },
-    "high-wycombe-south": {
-      "job_count": 1,
-      "jobs": [
-        {
-          "id": "14404",
-          "title": "Optical Assistant",
-          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-high-wycombe-south-jid-14404",
-          "email_type": "standard"
-        }
-      ]
-    },
-    "newton-abbot-south-west": {
-      "job_count": 1,
-      "jobs": [
-        {
-          "id": "14406",
-          "title": "Optical Assistant",
-          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-newton-abbot-south-west-jid-14406",
-          "email_type": "standard"
-        }
-      ]
-    }
-  }
+  "date": "2026-08-23",
+  "total_new_jobs": 0,
+  "total_stores": 0,
+  "stores": {}
 }
