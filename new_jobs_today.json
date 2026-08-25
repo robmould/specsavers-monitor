@@ -1,6 +1,168 @@
 {
-  "date": "2026-08-24",
-  "total_new_jobs": 0,
-  "total_stores": 0,
-  "stores": {}
+  "date": "2026-08-25",
+  "total_new_jobs": 16,
+  "total_stores": 13,
+  "stores": {
+    "bootle-north-west": {
+      "job_count": 2,
+      "jobs": [
+        {
+          "id": "14423",
+          "title": "Trainee Optical Lab Technician",
+          "url": "https://join.specsavers.com/uk/job/trainee-optical-lab-technician-in-bootle-north-west-jid-14423",
+          "email_type": "standard"
+        },
+        {
+          "id": "14422",
+          "title": "Optical Lab Technician",
+          "url": "https://join.specsavers.com/uk/job/optical-lab-technician-in-bootle-north-west-jid-14422",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "burton-on-trent-west-midlands": {
+      "job_count": 2,
+      "jobs": [
+        {
+          "id": "14421",
+          "title": "Hearing Aid Dispenser",
+          "url": "https://join.specsavers.com/uk/job/hearing-aid-dispenser-in-burton-on-trent-west-midlands-jid-14421",
+          "email_type": "standard"
+        },
+        {
+          "id": "14439",
+          "title": "Optical Assistant",
+          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-burton-on-trent-west-midlands-jid-14439",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "cleveleys-north-west": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "14419",
+          "title": "Hearing Aid Dispenser",
+          "url": "https://join.specsavers.com/uk/job/hearing-aid-dispenser-in-cleveleys-north-west-jid-14419",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "eltham-greater-london": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "14435",
+          "title": "Store Manager",
+          "url": "https://join.specsavers.com/uk/job/store-manager-in-eltham-greater-london-jid-14435",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "harborne-west-midlands": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "14436",
+          "title": "Hearing Aid Dispenser",
+          "url": "https://join.specsavers.com/uk/job/hearing-aid-dispenser-in-harborne-west-midlands-jid-14436",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "kings-lynn-east-england": {
+      "job_count": 2,
+      "jobs": [
+        {
+          "id": "14432",
+          "title": "Contact Lense Optician",
+          "url": "https://join.specsavers.com/uk/job/contact-lense-optician-in-kings-lynn-east-england-jid-14432",
+          "email_type": "standard"
+        },
+        {
+          "id": "14431",
+          "title": "Optometrist",
+          "url": "https://join.specsavers.com/uk/job/optometrist-in-kings-lynn-east-england-jid-14431",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "london-greater-london": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "14415",
+          "title": "Team Leader",
+          "url": "https://join.specsavers.com/uk/job/team-leader-in-london-greater-london-jid-14415",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "potters-bar-east-england": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "14416",
+          "title": "Optical Assistant",
+          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-potters-bar-east-england-jid-14416",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "reading-south": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "14417",
+          "title": "Optical Assistant",
+          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-reading-south-jid-14417",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "shrewsbury-west-midlands": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "14428",
+          "title": "Optical Assistant",
+          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-shrewsbury-west-midlands-jid-14428",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "stirling-scotland": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "14426",
+          "title": "Optical Assistant",
+          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-stirling-scotland-jid-14426",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "wandsworth-greater-london": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "14414",
+          "title": "Optical Assistant",
+          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-wandsworth-greater-london-jid-14414",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "wellington-west-midlands": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "14424",
+          "title": "Optometrist",
+          "url": "https://join.specsavers.com/uk/job/optometrist-in-wellington-west-midlands-jid-14424",
+          "email_type": "standard"
+        }
+      ]
+    }
+  }
 }
