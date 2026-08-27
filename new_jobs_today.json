@@ -1,175 +1,136 @@
 {
   "date": "2026-08-27",
-  "total_new_jobs": 16,
-  "total_stores": 15,
+  "total_new_jobs": 12,
+  "total_stores": 12,
   "stores": {
-    "bath-north-west": {
+    "billericay-east-england": {
       "job_count": 1,
       "jobs": [
         {
-          "id": "14509",
-          "title": "Home Visits Optical Assistant",
-          "url": "https://join.specsavers.com/uk/job/home-visits-optical-assistant-in-bath-north-west-jid-14509",
-          "email_type": "standard"
-        }
-      ]
-    },
-    "birmingham-west-midlands": {
-      "job_count": 1,
-      "jobs": [
-        {
-          "id": "14512",
-          "title": "Home Visits Optical Assistant",
-          "url": "https://join.specsavers.com/uk/job/home-visits-optical-assistant-in-birmingham-west-midlands-jid-14512",
-          "email_type": "standard"
-        }
-      ]
-    },
-    "bristol-wales": {
-      "job_count": 1,
-      "jobs": [
-        {
-          "id": "14505",
-          "title": "Home Visits Optical Assistant",
-          "url": "https://join.specsavers.com/uk/job/home-visits-optical-assistant-in-bristol-wales-jid-14505",
-          "email_type": "standard"
-        }
-      ]
-    },
-    "chingford-greater-london": {
-      "job_count": 1,
-      "jobs": [
-        {
-          "id": "14518",
+          "id": "14532",
           "title": "Optical Assistant",
-          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-chingford-greater-london-jid-14518",
+          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-billericay-east-england-jid-14532",
           "email_type": "standard"
         }
       ]
     },
-    "cirencester-east-midlands": {
+    "brentwood-east-england": {
       "job_count": 1,
       "jobs": [
         {
-          "id": "14506",
-          "title": "Home Visits Optical Assistant",
-          "url": "https://join.specsavers.com/uk/job/home-visits-optical-assistant-in-cirencester-east-midlands-jid-14506",
+          "id": "14545",
+          "title": "Home Visits Optometrist",
+          "url": "https://join.specsavers.com/uk/job/home-visits-optometrist-in-brentwood-east-england-jid-14545",
           "email_type": "standard"
         }
       ]
     },
-    "mansfield-east-midlands": {
+    "bromley-greater-london": {
       "job_count": 1,
       "jobs": [
         {
-          "id": "14519",
-          "title": "Optical Scheduler",
-          "url": "https://join.specsavers.com/uk/job/optical-scheduler-in-mansfield-east-midlands-jid-14519",
+          "id": "14548",
+          "title": "Dispensing Optician",
+          "url": "https://join.specsavers.com/uk/job/dispensing-optician-in-bromley-greater-london-jid-14548",
           "email_type": "standard"
         }
       ]
     },
-    "remote": {
+    "chelmsford-east-england": {
       "job_count": 1,
       "jobs": [
         {
-          "id": "14503",
-          "title": "Clinical Performance Consultant",
-          "url": "https://join.specsavers.com/uk/job/clinical-performance-consultant-in-remote-jid-14503",
+          "id": "14537",
+          "title": "Home Visits Optometrist",
+          "url": "https://join.specsavers.com/uk/job/home-visits-optometrist-in-chelmsford-east-england-jid-14537",
           "email_type": "standard"
         }
       ]
     },
-    "richmond-greater-london": {
+    "dagenham-greater-london": {
       "job_count": 1,
       "jobs": [
         {
-          "id": "14499",
-          "title": "Admin Assistant",
-          "url": "https://join.specsavers.com/uk/job/admin-assistant-in-richmond-greater-london-jid-14499",
+          "id": "14541",
+          "title": "Home Visits Optometrist",
+          "url": "https://join.specsavers.com/uk/job/home-visits-optometrist-in-dagenham-greater-london-jid-14541",
           "email_type": "standard"
         }
       ]
     },
-    "sale-north-west": {
+    "hayes-greater-london": {
       "job_count": 1,
       "jobs": [
         {
-          "id": "14502",
-          "title": "Deputy Manager",
-          "url": "https://join.specsavers.com/uk/job/deputy-manager-in-sale-north-west-jid-14502",
+          "id": "14531",
+          "title": "Optical Assistant",
+          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-hayes-greater-london-jid-14531",
           "email_type": "standard"
         }
       ]
     },
-    "st-helier-jersey": {
-      "job_count": 2,
+    "hounslow-greater-london": {
+      "job_count": 1,
       "jobs": [
         {
-          "id": "14517",
+          "id": "14534",
+          "title": "Optical Assistant",
+          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-hounslow-greater-london-jid-14534",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "leigh-on-sea-east-england": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "14542",
+          "title": "Home Visits Optometrist",
+          "url": "https://join.specsavers.com/uk/job/home-visits-optometrist-in-leigh-on-sea-east-england-jid-14542",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "lisduggan-ireland": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "14533",
+          "title": "Optical Assistant",
+          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-lisduggan-ireland-jid-14533",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "romford-greater-london": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "14544",
+          "title": "Home Visits Optometrist",
+          "url": "https://join.specsavers.com/uk/job/home-visits-optometrist-in-romford-greater-london-jid-14544",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "st-ives-east-england": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "14530",
           "title": "Optometrist",
-          "url": "https://join.specsavers.com/uk/job/optometrist-in-st-helier-jersey-jid-14517",
-          "email_type": "standard"
-        },
-        {
-          "id": "14523",
-          "title": "Domiciliary Optometrist",
-          "url": "https://join.specsavers.com/uk/job/domiciliary-optometrist-in-st-helier-jersey-jid-14523",
+          "url": "https://join.specsavers.com/uk/job/optometrist-in-st-ives-east-england-jid-14530",
           "email_type": "standard"
         }
       ]
     },
-    "sunderland-north-east": {
+    "wickford-east-england": {
       "job_count": 1,
       "jobs": [
         {
-          "id": "14504",
-          "title": "Home Visits Optical Assistant",
-          "url": "https://join.specsavers.com/uk/job/home-visits-optical-assistant-in-sunderland-north-east-jid-14504",
-          "email_type": "standard"
-        }
-      ]
-    },
-    "swindon-swindon": {
-      "job_count": 1,
-      "jobs": [
-        {
-          "id": "14510",
-          "title": "Home Visits Optical Assistant",
-          "url": "https://join.specsavers.com/uk/job/home-visits-optical-assistant-in-swindon-swindon-jid-14510",
-          "email_type": "standard"
-        }
-      ]
-    },
-    "tetbury-tetbury": {
-      "job_count": 1,
-      "jobs": [
-        {
-          "id": "14507",
-          "title": "Home Visits Optical Assistant",
-          "url": "https://join.specsavers.com/uk/job/home-visits-optical-assistant-in-tetbury-tetbury-jid-14507",
-          "email_type": "standard"
-        }
-      ]
-    },
-    "warrington-north-west": {
-      "job_count": 1,
-      "jobs": [
-        {
-          "id": "14514",
-          "title": "Part Time Domiciliary Optical Assistant",
-          "url": "https://join.specsavers.com/uk/job/part-time-domiciliary-optical-assistant-in-warrington-north-west-jid-14514",
-          "email_type": "standard"
-        }
-      ]
-    },
-    "weston-super-mare-weston-super-mare": {
-      "job_count": 1,
-      "jobs": [
-        {
-          "id": "14508",
-          "title": "Home Visits Optical Assistant",
-          "url": "https://join.specsavers.com/uk/job/home-visits-optical-assistant-in-weston-super-mare-weston-super-mare-jid-14508",
+          "id": "14543",
+          "title": "Home Visits Optometrist",
+          "url": "https://join.specsavers.com/uk/job/home-visits-optometrist-in-wickford-east-england-jid-14543",
           "email_type": "standard"
         }
       ]
