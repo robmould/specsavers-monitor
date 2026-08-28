@@ -1,136 +1,290 @@
 {
-  "date": "2026-08-27",
-  "total_new_jobs": 12,
-  "total_stores": 12,
+  "date": "2026-08-28",
+  "total_new_jobs": 26,
+  "total_stores": 26,
   "stores": {
-    "billericay-east-england": {
+    "aberdeen-scotland": {
       "job_count": 1,
       "jobs": [
         {
-          "id": "14532",
-          "title": "Optical Assistant",
-          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-billericay-east-england-jid-14532",
-          "email_type": "standard"
-        }
-      ]
-    },
-    "brentwood-east-england": {
-      "job_count": 1,
-      "jobs": [
-        {
-          "id": "14545",
-          "title": "Home Visits Optometrist",
-          "url": "https://join.specsavers.com/uk/job/home-visits-optometrist-in-brentwood-east-england-jid-14545",
-          "email_type": "standard"
-        }
-      ]
-    },
-    "bromley-greater-london": {
-      "job_count": 1,
-      "jobs": [
-        {
-          "id": "14548",
+          "id": "14583",
           "title": "Dispensing Optician",
-          "url": "https://join.specsavers.com/uk/job/dispensing-optician-in-bromley-greater-london-jid-14548",
+          "url": "https://join.specsavers.com/uk/job/dispensing-optician-in-aberdeen-scotland-jid-14583",
           "email_type": "standard"
         }
       ]
     },
-    "chelmsford-east-england": {
+    "beccles-east-england": {
       "job_count": 1,
       "jobs": [
         {
-          "id": "14537",
-          "title": "Home Visits Optometrist",
-          "url": "https://join.specsavers.com/uk/job/home-visits-optometrist-in-chelmsford-east-england-jid-14537",
-          "email_type": "standard"
-        }
-      ]
-    },
-    "dagenham-greater-london": {
-      "job_count": 1,
-      "jobs": [
-        {
-          "id": "14541",
-          "title": "Home Visits Optometrist",
-          "url": "https://join.specsavers.com/uk/job/home-visits-optometrist-in-dagenham-greater-london-jid-14541",
-          "email_type": "standard"
-        }
-      ]
-    },
-    "hayes-greater-london": {
-      "job_count": 1,
-      "jobs": [
-        {
-          "id": "14531",
-          "title": "Optical Assistant",
-          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-hayes-greater-london-jid-14531",
-          "email_type": "standard"
-        }
-      ]
-    },
-    "hounslow-greater-london": {
-      "job_count": 1,
-      "jobs": [
-        {
-          "id": "14534",
-          "title": "Optical Assistant",
-          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-hounslow-greater-london-jid-14534",
-          "email_type": "standard"
-        }
-      ]
-    },
-    "leigh-on-sea-east-england": {
-      "job_count": 1,
-      "jobs": [
-        {
-          "id": "14542",
-          "title": "Home Visits Optometrist",
-          "url": "https://join.specsavers.com/uk/job/home-visits-optometrist-in-leigh-on-sea-east-england-jid-14542",
-          "email_type": "standard"
-        }
-      ]
-    },
-    "lisduggan-ireland": {
-      "job_count": 1,
-      "jobs": [
-        {
-          "id": "14533",
-          "title": "Optical Assistant",
-          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-lisduggan-ireland-jid-14533",
-          "email_type": "standard"
-        }
-      ]
-    },
-    "romford-greater-london": {
-      "job_count": 1,
-      "jobs": [
-        {
-          "id": "14544",
-          "title": "Home Visits Optometrist",
-          "url": "https://join.specsavers.com/uk/job/home-visits-optometrist-in-romford-greater-london-jid-14544",
-          "email_type": "standard"
-        }
-      ]
-    },
-    "st-ives-east-england": {
-      "job_count": 1,
-      "jobs": [
-        {
-          "id": "14530",
+          "id": "14555",
           "title": "Optometrist",
-          "url": "https://join.specsavers.com/uk/job/optometrist-in-st-ives-east-england-jid-14530",
+          "url": "https://join.specsavers.com/uk/job/optometrist-in-beccles-east-england-jid-14555",
           "email_type": "standard"
         }
       ]
     },
-    "wickford-east-england": {
+    "bishopbriggs-scotland": {
       "job_count": 1,
       "jobs": [
         {
-          "id": "14543",
-          "title": "Home Visits Optometrist",
-          "url": "https://join.specsavers.com/uk/job/home-visits-optometrist-in-wickford-east-england-jid-14543",
+          "id": "14572",
+          "title": "Domiciliary Optometrist",
+          "url": "https://join.specsavers.com/uk/job/domiciliary-optometrist-in-bishopbriggs-scotland-jid-14572",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "braintree-east-of-england": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "14561",
+          "title": "Home Visits Optical Assistant",
+          "url": "https://join.specsavers.com/uk/job/home-visits-optical-assistant-in-braintree-east-of-england-jid-14561",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "brentwood-wales": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "14559",
+          "title": "Home Visits Optical Assistant",
+          "url": "https://join.specsavers.com/uk/job/home-visits-optical-assistant-in-brentwood-wales-jid-14559",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "chelmsford-north-east": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "14558",
+          "title": "Home Visits Optical Assistant",
+          "url": "https://join.specsavers.com/uk/job/home-visits-optical-assistant-in-chelmsford-north-east-jid-14558",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "clydebank-scotland": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "14571",
+          "title": "Domiciliary Optometrist",
+          "url": "https://join.specsavers.com/uk/job/domiciliary-optometrist-in-clydebank-scotland-jid-14571",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "colchester-east-of-england": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "14564",
+          "title": "Home Visits Optical Assistant",
+          "url": "https://join.specsavers.com/uk/job/home-visits-optical-assistant-in-colchester-east-of-england-jid-14564",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "dereham-east-england": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "14568",
+          "title": "Part Time Domiciliary Optical Assistant",
+          "url": "https://join.specsavers.com/uk/job/part-time-domiciliary-optical-assistant-in-dereham-east-england-jid-14568",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "east-riding-north-east": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "14575",
+          "title": "Domiciliary Optometrist",
+          "url": "https://join.specsavers.com/uk/job/domiciliary-optometrist-in-east-riding-north-east-jid-14575",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "epping-epping": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "14560",
+          "title": "Home Visits Optical Assistant",
+          "url": "https://join.specsavers.com/uk/job/home-visits-optical-assistant-in-epping-epping-jid-14560",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "grays-grays": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "14565",
+          "title": "Home Visits Optical Assistant",
+          "url": "https://join.specsavers.com/uk/job/home-visits-optical-assistant-in-grays-grays-jid-14565",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "great-dunmow-east-england": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "14581",
+          "title": "Dispensing Optician Manager",
+          "url": "https://join.specsavers.com/uk/job/dispensing-optician-manager-in-great-dunmow-east-england-jid-14581",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "helensburgh-scotland": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "14573",
+          "title": "Domiciliary Optometrist",
+          "url": "https://join.specsavers.com/uk/job/domiciliary-optometrist-in-helensburgh-scotland-jid-14573",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "kilmarnock-scotland": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "14557",
+          "title": "Domiciliary Optometrist",
+          "url": "https://join.specsavers.com/uk/job/domiciliary-optometrist-in-kilmarnock-scotland-jid-14557",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "kingston-upon-hull-east-riding-of-yorkshire": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "14576",
+          "title": "Domiciliary Optometrist",
+          "url": "https://join.specsavers.com/uk/job/domiciliary-optometrist-in-kingston-upon-hull-east-riding-of-yorkshire-jid-14576",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "london-greater-london": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "14552",
+          "title": "Contact Lens Assistant",
+          "url": "https://join.specsavers.com/uk/job/contact-lens-assistant-in-london-greater-london-jid-14552",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "lymington-south": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "14549",
+          "title": "Optical Assistant",
+          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-lymington-south-jid-14549",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "maldon-maldon": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "14563",
+          "title": "Home Visits Optical Assistant",
+          "url": "https://join.specsavers.com/uk/job/home-visits-optical-assistant-in-maldon-maldon-jid-14563",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "oban-scotland": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "14574",
+          "title": "Domiciliary Optometrist",
+          "url": "https://join.specsavers.com/uk/job/domiciliary-optometrist-in-oban-scotland-jid-14574",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "preston-north-west": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "14553",
+          "title": "Optical Assistant",
+          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-preston-north-west-jid-14553",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "purley-greater-london": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "14570",
+          "title": "Optical Assistant",
+          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-purley-greater-london-jid-14570",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "romford-romford": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "14567",
+          "title": "Home Visits Optical Assistant",
+          "url": "https://join.specsavers.com/uk/job/home-visits-optical-assistant-in-romford-romford-jid-14567",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "southend-on-sea-southend-on-sea": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "14566",
+          "title": "Home Visits Optical Assistant",
+          "url": "https://join.specsavers.com/uk/job/home-visits-optical-assistant-in-southend-on-sea-southend-on-sea-jid-14566",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "sutton-coldfield-west-midlands": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "14554",
+          "title": "Optical Assistant",
+          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-sutton-coldfield-west-midlands-jid-14554",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "witham-witham": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "14562",
+          "title": "Home Visits Optical Assistant",
+          "url": "https://join.specsavers.com/uk/job/home-visits-optical-assistant-in-witham-witham-jid-14562",
           "email_type": "standard"
         }
       ]
