@@ -1,81 +1,54 @@
 {
-  "date": "2026-08-28",
-  "total_new_jobs": 7,
-  "total_stores": 7,
+  "date": "2026-08-29",
+  "total_new_jobs": 5,
+  "total_stores": 4,
   "stores": {
-    "berwick-upon-tweed-north-east": {
+    "bath-south-west": {
       "job_count": 1,
       "jobs": [
         {
-          "id": "14588",
-          "title": "Trainee Lab Technician",
-          "url": "https://join.specsavers.com/uk/job/trainee-lab-technician-in-berwick-upon-tweed-north-east-jid-14588",
-          "email_type": "trainee"
+          "id": "14609",
+          "title": "Dispensing Optician Manager",
+          "url": "https://join.specsavers.com/uk/job/dispensing-optician-manager-in-bath-south-west-jid-14609",
+          "email_type": "standard"
         }
       ]
     },
-    "birmingham-west-midlands": {
+    "harlow-east-england": {
       "job_count": 1,
       "jobs": [
         {
-          "id": "14590",
+          "id": "14601",
           "title": "Optometrist",
-          "url": "https://join.specsavers.com/uk/job/optometrist-in-birmingham-west-midlands-jid-14590",
+          "url": "https://join.specsavers.com/uk/job/optometrist-in-harlow-east-england-jid-14601",
           "email_type": "standard"
         }
       ]
     },
-    "bodmin-south-west": {
-      "job_count": 1,
+    "shirley-west-midlands": {
+      "job_count": 2,
       "jobs": [
         {
-          "id": "14602",
-          "title": "Home Visits Optometrist",
-          "url": "https://join.specsavers.com/uk/job/home-visits-optometrist-in-bodmin-south-west-jid-14602",
+          "id": "14606",
+          "title": "Assistant Manager",
+          "url": "https://join.specsavers.com/uk/job/assistant-manager-in-shirley-west-midlands-jid-14606",
           "email_type": "standard"
-        }
-      ]
-    },
-    "ilford-greater-london": {
-      "job_count": 1,
-      "jobs": [
+        },
         {
-          "id": "14593",
+          "id": "14605",
           "title": "Optical Assistant",
-          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-ilford-greater-london-jid-14593",
+          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-shirley-west-midlands-jid-14605",
           "email_type": "standard"
         }
       ]
     },
-    "newquay-south-west": {
+    "wellingborough-east-midlands": {
       "job_count": 1,
       "jobs": [
         {
-          "id": "14604",
-          "title": "Home Visits Optometrist",
-          "url": "https://join.specsavers.com/uk/job/home-visits-optometrist-in-newquay-south-west-jid-14604",
-          "email_type": "standard"
-        }
-      ]
-    },
-    "st-austell-south-west": {
-      "job_count": 1,
-      "jobs": [
-        {
-          "id": "14603",
-          "title": "Home Visits Optometrist",
-          "url": "https://join.specsavers.com/uk/job/home-visits-optometrist-in-st-austell-south-west-jid-14603",
-          "email_type": "standard"
-        }
-      ]
-    },
-    "truro-south-west": {
-      "job_count": 1,
-      "jobs": [
-        {
-          "id": "14598",
-          "title": "Home Visits Optometrist",
-          "url": "https://join.specsavers.com/uk/job/home-visits-optometrist-in-truro-south-west-jid-14598",
+          "id": "14607",
+          "title": "Audiologist/Hearing Aid Dispenser",
+          "url": "https://join.specsavers.com/uk/job/audiologist-hearing-aid-dispenser-in-wellingborough-east-midlands-jid-14607",
           "email_type": "standard"
         }
       ]
