@@ -1,57 +1,6 @@
 {
-  "date": "2026-08-29",
-  "total_new_jobs": 5,
-  "total_stores": 4,
-  "stores": {
-    "bath-south-west": {
-      "job_count": 1,
-      "jobs": [
-        {
-          "id": "14609",
-          "title": "Dispensing Optician Manager",
-          "url": "https://join.specsavers.com/uk/job/dispensing-optician-manager-in-bath-south-west-jid-14609",
-          "email_type": "standard"
-        }
-      ]
-    },
-    "harlow-east-england": {
-      "job_count": 1,
-      "jobs": [
-        {
-          "id": "14601",
-          "title": "Optometrist",
-          "url": "https://join.specsavers.com/uk/job/optometrist-in-harlow-east-england-jid-14601",
-          "email_type": "standard"
-        }
-      ]
-    },
-    "shirley-west-midlands": {
-      "job_count": 2,
-      "jobs": [
-        {
-          "id": "14606",
-          "title": "Assistant Manager",
-          "url": "https://join.specsavers.com/uk/job/assistant-manager-in-shirley-west-midlands-jid-14606",
-          "email_type": "standard"
-        },
-        {
-          "id": "14605",
-          "title": "Optical Assistant",
-          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-shirley-west-midlands-jid-14605",
-          "email_type": "standard"
-        }
-      ]
-    },
-    "wellingborough-east-midlands": {
-      "job_count": 1,
-      "jobs": [
-        {
-          "id": "14607",
-          "title": "Audiologist/Hearing Aid Dispenser",
-          "url": "https://join.specsavers.com/uk/job/audiologist-hearing-aid-dispenser-in-wellingborough-east-midlands-jid-14607",
-          "email_type": "standard"
-        }
-      ]
-    }
-  }
+  "date": "2026-08-30",
+  "total_new_jobs": 0,
+  "total_stores": 0,
+  "stores": {}
 }
