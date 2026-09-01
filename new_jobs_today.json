@@ -3,13 +3,13 @@
   "total_new_jobs": 1,
   "total_stores": 1,
   "stores": {
-    "dunfermline-scotland": {
+    "hendon-greater-london": {
       "job_count": 1,
       "jobs": [
         {
-          "id": "14620",
-          "title": "Domiciliary Optical Assistant Fife",
-          "url": "https://join.specsavers.com/uk/job/domiciliary-optical-assistant-fife-in-dunfermline-scotland-jid-14620",
+          "id": "14621",
+          "title": "Optical Assistant",
+          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-hendon-greater-london-jid-14621",
           "email_type": "standard"
         }
       ]
