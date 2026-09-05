@@ -1,6 +1,249 @@
 {
-  "date": "2026-09-04",
-  "total_new_jobs": 0,
-  "total_stores": 0,
-  "stores": {}
+  "date": "2026-09-05",
+  "total_new_jobs": 22,
+  "total_stores": 22,
+  "stores": {
+    "aberystwyth-south-east": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "14744",
+          "title": "Home Visits Optical Assistant",
+          "url": "https://join.specsavers.com/uk/job/home-visits-optical-assistant-in-aberystwyth-south-east-jid-14744",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "bala-scotland": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "14748",
+          "title": "Home Visits Optical Assistant",
+          "url": "https://join.specsavers.com/uk/job/home-visits-optical-assistant-in-bala-scotland-jid-14748",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "bangor-north-west": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "14750",
+          "title": "Home Visits Optical Assistant",
+          "url": "https://join.specsavers.com/uk/job/home-visits-optical-assistant-in-bangor-north-west-jid-14750",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "barnet-greater-london": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "14726",
+          "title": "Home Visits Optical Assistant",
+          "url": "https://join.specsavers.com/uk/job/home-visits-optical-assistant-in-barnet-greater-london-jid-14726",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "barry-wales": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "14725",
+          "title": "Home Visits Optical Assistant",
+          "url": "https://join.specsavers.com/uk/job/home-visits-optical-assistant-in-barry-wales-jid-14725",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "bognor-regis-south-east": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "14733",
+          "title": "Assistant Manager",
+          "url": "https://join.specsavers.com/uk/job/assistant-manager-in-bognor-regis-south-east-jid-14733",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "colwyn-bay-east-of-england": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "14745",
+          "title": "Home Visits Optical Assistant",
+          "url": "https://join.specsavers.com/uk/job/home-visits-optical-assistant-in-colwyn-bay-east-of-england-jid-14745",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "cowley-south": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "14739",
+          "title": "Optometrist",
+          "url": "https://join.specsavers.com/uk/job/optometrist-in-cowley-south-jid-14739",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "denbigh-north-east": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "14746",
+          "title": "Home Visits Optical Assistant",
+          "url": "https://join.specsavers.com/uk/job/home-visits-optical-assistant-in-denbigh-north-east-jid-14746",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "london-greater-london": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "14722",
+          "title": "Optometrist",
+          "url": "https://join.specsavers.com/uk/job/optometrist-in-london-greater-london-jid-14722",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "macclesfield-north-west": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "14729",
+          "title": "Home Visits Optical Assistant Macclesfield",
+          "url": "https://join.specsavers.com/uk/job/home-visits-optical-assistant-macclesfield-in-macclesfield-north-west-jid-14729",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "oswestry-oswestry": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "14752",
+          "title": "Home Visits Optical Assistant",
+          "url": "https://join.specsavers.com/uk/job/home-visits-optical-assistant-in-oswestry-oswestry-jid-14752",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "oxford-south": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "14740",
+          "title": "Optometrist",
+          "url": "https://join.specsavers.com/uk/job/optometrist-in-oxford-south-jid-14740",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "porthmadog-porthmadog": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "14749",
+          "title": "Home Visits Optical Assistant",
+          "url": "https://join.specsavers.com/uk/job/home-visits-optical-assistant-in-porthmadog-porthmadog-jid-14749",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "royston-east-england": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "14737",
+          "title": "Optometrist",
+          "url": "https://join.specsavers.com/uk/job/optometrist-in-royston-east-england-jid-14737",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "ruislip-greater-london": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "14734",
+          "title": "Optometrist",
+          "url": "https://join.specsavers.com/uk/job/optometrist-in-ruislip-greater-london-jid-14734",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "rustington-south-east": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "14738",
+          "title": "Trainee Lab Technician",
+          "url": "https://join.specsavers.com/uk/job/trainee-lab-technician-in-rustington-south-east-jid-14738",
+          "email_type": "trainee"
+        }
+      ]
+    },
+    "st-albans-east-england": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "14728",
+          "title": "Trainee Audiology Practitioner",
+          "url": "https://join.specsavers.com/uk/job/trainee-audiology-practitioner-in-st-albans-east-england-jid-14728",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "stafford-west-midlands": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "14730",
+          "title": "Home Visits Optical Assistant/Trainee Optical Assistant",
+          "url": "https://join.specsavers.com/uk/job/home-visits-optical-assistant-trainee-optical-assistant-in-stafford-west-midlands-jid-14730",
+          "email_type": "trainee"
+        }
+      ]
+    },
+    "walthamstow-greater-london": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "14743",
+          "title": "Clinic Coordinator",
+          "url": "https://join.specsavers.com/uk/job/clinic-coordinator-in-walthamstow-greater-london-jid-14743",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "welshpool-welshpool": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "14751",
+          "title": "Home Visits Optical Assistant",
+          "url": "https://join.specsavers.com/uk/job/home-visits-optical-assistant-in-welshpool-welshpool-jid-14751",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "wrexham-wrexham": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "14747",
+          "title": "Home Visits Optical Assistant",
+          "url": "https://join.specsavers.com/uk/job/home-visits-optical-assistant-in-wrexham-wrexham-jid-14747",
+          "email_type": "standard"
+        }
+      ]
+    }
+  }
 }
