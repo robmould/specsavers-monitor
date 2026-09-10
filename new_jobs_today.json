@@ -1,6 +1,106 @@
 {
-  "date": "2026-09-09",
-  "total_new_jobs": 0,
-  "total_stores": 0,
-  "stores": {}
+  "date": "2026-09-10",
+  "total_new_jobs": 9,
+  "total_stores": 9,
+  "stores": {
+    "bar-hill-east-england": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "14856",
+          "title": "Optometrist",
+          "url": "https://join.specsavers.com/uk/job/optometrist-in-bar-hill-east-england-jid-14856",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "chesham-east-england": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "14853",
+          "title": "Optometrist",
+          "url": "https://join.specsavers.com/uk/job/optometrist-in-chesham-east-england-jid-14853",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "chorley-north-west": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "14847",
+          "title": "Trainee Audiology Practitioner",
+          "url": "https://join.specsavers.com/uk/job/trainee-audiology-practitioner-in-chorley-north-west-jid-14847",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "colchester-east-england": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "14841",
+          "title": "Home Visits Optometrist",
+          "url": "https://join.specsavers.com/uk/job/home-visits-optometrist-in-colchester-east-england-jid-14841",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "east-grinstead-south-east": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "14849",
+          "title": "Optical Assistant",
+          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-east-grinstead-south-east-jid-14849",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "ipswich-east-england": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "14840",
+          "title": "Home Visits Optometrist",
+          "url": "https://join.specsavers.com/uk/job/home-visits-optometrist-in-ipswich-east-england-jid-14840",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "lincoln-east-midlands": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "14852",
+          "title": "Hearcare Administrator",
+          "url": "https://join.specsavers.com/uk/job/hearcare-administrator-in-lincoln-east-midlands-jid-14852",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "norwich-east-england": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "14839",
+          "title": "Home Visits Optometrist",
+          "url": "https://join.specsavers.com/uk/job/home-visits-optometrist-in-norwich-east-england-jid-14839",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "windsor-south": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "14854",
+          "title": "Optical Assistant",
+          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-windsor-south-jid-14854",
+          "email_type": "standard"
+        }
+      ]
+    }
+  }
 }
