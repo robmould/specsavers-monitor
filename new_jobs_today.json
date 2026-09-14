@@ -1,191 +1,257 @@
 {
-  "date": "2026-09-11",
-  "total_new_jobs": 17,
-  "total_stores": 17,
+  "date": "2026-09-14",
+  "total_new_jobs": 23,
+  "total_stores": 23,
   "stores": {
-    "chingford-greater-london": {
+    "brecon-east-midlands": {
       "job_count": 1,
       "jobs": [
         {
-          "id": "14883",
-          "title": "Optical Assistant",
-          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-chingford-greater-london-jid-14883",
+          "id": "14914",
+          "title": "Home Visits Optical Assistant",
+          "url": "https://join.specsavers.com/uk/job/home-visits-optical-assistant-in-brecon-east-midlands-jid-14914",
           "email_type": "standard"
         }
       ]
     },
-    "chorley-north-west": {
+    "burnley-north-west": {
       "job_count": 1,
       "jobs": [
         {
-          "id": "14898",
-          "title": "Hearing Aid Dispenser",
-          "url": "https://join.specsavers.com/uk/job/hearing-aid-dispenser-in-chorley-north-west-jid-14898",
+          "id": "14901",
+          "title": "Lab Technician",
+          "url": "https://join.specsavers.com/uk/job/lab-technician-in-burnley-north-west-jid-14901",
           "email_type": "standard"
         }
       ]
     },
-    "dereham-east-england": {
+    "cardiff-north-west": {
       "job_count": 1,
       "jobs": [
         {
-          "id": "14874",
-          "title": "Business Development Associate",
-          "url": "https://join.specsavers.com/uk/job/business-development-associate-in-dereham-east-england-jid-14874",
+          "id": "14915",
+          "title": "Home Visits Optical Assistant",
+          "url": "https://join.specsavers.com/uk/job/home-visits-optical-assistant-in-cardiff-north-west-jid-14915",
           "email_type": "standard"
         }
       ]
     },
-    "dorking-south-east": {
+    "cardigan-northern-ireland": {
       "job_count": 1,
       "jobs": [
         {
-          "id": "14884",
-          "title": "Optical Assistant",
-          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-dorking-south-east-jid-14884",
+          "id": "14911",
+          "title": "Home Visits Optical Assistant",
+          "url": "https://join.specsavers.com/uk/job/home-visits-optical-assistant-in-cardigan-northern-ireland-jid-14911",
           "email_type": "standard"
         }
       ]
     },
-    "dunfermline-scotland": {
+    "drogheda-ireland": {
       "job_count": 1,
       "jobs": [
         {
-          "id": "14877",
-          "title": "Clinical Supervisor",
-          "url": "https://join.specsavers.com/uk/job/clinical-supervisor-in-dunfermline-scotland-jid-14877",
-          "email_type": "standard"
-        }
-      ]
-    },
-    "galway-ireland": {
-      "job_count": 1,
-      "jobs": [
-        {
-          "id": "14862",
-          "title": "Headford Road",
-          "url": "https://join.specsavers.com/uk/job/headford-road-in-galway-ireland-jid-14862",
-          "email_type": "standard"
-        }
-      ]
-    },
-    "high-wycombe-south": {
-      "job_count": 1,
-      "jobs": [
-        {
-          "id": "14873",
-          "title": "Optical Assistant",
-          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-high-wycombe-south-jid-14873",
-          "email_type": "standard"
-        }
-      ]
-    },
-    "horley-south-east": {
-      "job_count": 1,
-      "jobs": [
-        {
-          "id": "14879",
-          "title": "Optical Assistant",
-          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-horley-south-east-jid-14879",
-          "email_type": "standard"
-        }
-      ]
-    },
-    "melksham-south": {
-      "job_count": 1,
-      "jobs": [
-        {
-          "id": "14868",
-          "title": "Dispensing Optician",
-          "url": "https://join.specsavers.com/uk/job/dispensing-optician-in-melksham-south-jid-14868",
-          "email_type": "standard"
-        }
-      ]
-    },
-    "shepherds-bush-greater-london": {
-      "job_count": 1,
-      "jobs": [
-        {
-          "id": "14887",
-          "title": "Optical Assistant",
-          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-shepherds-bush-greater-london-jid-14887",
-          "email_type": "standard"
-        }
-      ]
-    },
-    "south-wirral-north-west": {
-      "job_count": 1,
-      "jobs": [
-        {
-          "id": "14888",
-          "title": "Optical Assistant",
-          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-south-wirral-north-west-jid-14888",
-          "email_type": "standard"
-        }
-      ]
-    },
-    "southampton-south": {
-      "job_count": 1,
-      "jobs": [
-        {
-          "id": "14896",
-          "title": "Experienced Optical Assistant or Retail Supervisor",
-          "url": "https://join.specsavers.com/uk/job/experienced-optical-assistant-or-retail-supervisor-in-southampton-south-jid-14896",
-          "email_type": "standard"
-        }
-      ]
-    },
-    "stoke-on-trent-west-midlands": {
-      "job_count": 1,
-      "jobs": [
-        {
-          "id": "14893",
-          "title": "Trainee Lab/ Workshop Technician",
-          "url": "https://join.specsavers.com/uk/job/trainee-lab-workshop-technician-in-stoke-on-trent-west-midlands-jid-14893",
-          "email_type": "trainee"
-        }
-      ]
-    },
-    "torbay-south-west": {
-      "job_count": 1,
-      "jobs": [
-        {
-          "id": "14899",
+          "id": "14930",
           "title": "Optometrist",
-          "url": "https://join.specsavers.com/uk/job/optometrist-in-torbay-south-west-jid-14899",
+          "url": "https://join.specsavers.com/uk/job/optometrist-in-drogheda-ireland-jid-14930",
           "email_type": "standard"
         }
       ]
     },
-    "wilmslow-north-west": {
+    "durham-north-east": {
       "job_count": 1,
       "jobs": [
         {
-          "id": "14880",
+          "id": "14935",
           "title": "Optical Assistant",
-          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-wilmslow-north-west-jid-14880",
+          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-durham-north-east-jid-14935",
           "email_type": "standard"
         }
       ]
     },
-    "wokingham-south": {
+    "elgin-scotland": {
       "job_count": 1,
       "jobs": [
         {
-          "id": "14897",
-          "title": "Dispensing Optician",
-          "url": "https://join.specsavers.com/uk/job/dispensing-optician-in-wokingham-south-jid-14897",
+          "id": "14927",
+          "title": "Optometrist",
+          "url": "https://join.specsavers.com/uk/job/optometrist-in-elgin-scotland-jid-14927",
           "email_type": "standard"
         }
       ]
     },
-    "york-north-east": {
+    "grangemouth-scotland": {
       "job_count": 1,
       "jobs": [
         {
-          "id": "14892",
-          "title": "Cleaner",
-          "url": "https://join.specsavers.com/uk/job/cleaner-in-york-north-east-jid-14892",
+          "id": "14926",
+          "title": "Optometrist",
+          "url": "https://join.specsavers.com/uk/job/optometrist-in-grangemouth-scotland-jid-14926",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "holloway-greater-london": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "14924",
+          "title": "Optical Assistant",
+          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-holloway-greater-london-jid-14924",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "kidwelly-wales": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "14909",
+          "title": "Home Visits Optical Assistant",
+          "url": "https://join.specsavers.com/uk/job/home-visits-optical-assistant-in-kidwelly-wales-jid-14909",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "kirkintilloch-scotland": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "14928",
+          "title": "Optometrist",
+          "url": "https://join.specsavers.com/uk/job/optometrist-in-kirkintilloch-scotland-jid-14928",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "lampeter-wales": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "14912",
+          "title": "Home Visits Optical Assistant",
+          "url": "https://join.specsavers.com/uk/job/home-visits-optical-assistant-in-lampeter-wales-jid-14912",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "llandeilo-wales": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "14910",
+          "title": "Home Visits Optical Assistant",
+          "url": "https://join.specsavers.com/uk/job/home-visits-optical-assistant-in-llandeilo-wales-jid-14910",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "llandrindod-wells-wales": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "14913",
+          "title": "Home Visits Optical Assistant",
+          "url": "https://join.specsavers.com/uk/job/home-visits-optical-assistant-in-llandrindod-wells-wales-jid-14913",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "margate-south-east": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "14905",
+          "title": "Optical Assistant",
+          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-margate-south-east-jid-14905",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "morley-north-east": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "14906",
+          "title": "Audiologist/Hearing Aid Dispenser",
+          "url": "https://join.specsavers.com/uk/job/audiologist-hearing-aid-dispenser-in-morley-north-east-jid-14906",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "penrith-north-west": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "14921",
+          "title": "Home Visits Optical Assistant",
+          "url": "https://join.specsavers.com/uk/job/home-visits-optical-assistant-in-penrith-north-west-jid-14921",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "shrewsbury-west-midlands": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "14917",
+          "title": "Optical Assistant",
+          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-shrewsbury-west-midlands-jid-14917",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "stone-west-midlands": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "14919",
+          "title": "Optical Assistant",
+          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-stone-west-midlands-jid-14919",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "swansea-wales": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "14916",
+          "title": "Home Visits Optical Assistant",
+          "url": "https://join.specsavers.com/uk/job/home-visits-optical-assistant-in-swansea-wales-jid-14916",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "wantage-south": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "14903",
+          "title": "Optometrist",
+          "url": "https://join.specsavers.com/uk/job/optometrist-in-wantage-south-jid-14903",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "weston-super-mare-south-west": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "14920",
+          "title": "Optical Assistant",
+          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-weston-super-mare-south-west-jid-14920",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "woodley-south": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "14933",
+          "title": "Optical Assistant",
+          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-woodley-south-jid-14933",
           "email_type": "standard"
         }
       ]
