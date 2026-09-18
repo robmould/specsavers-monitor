@@ -1,26 +1,70 @@
 {
-  "date": "2026-09-17",
-  "total_new_jobs": 7,
-  "total_stores": 7,
+  "date": "2026-09-18",
+  "total_new_jobs": 10,
+  "total_stores": 10,
   "stores": {
-    "crawley-south-east": {
+    "barnsley-north-east": {
       "job_count": 1,
       "jobs": [
         {
-          "id": "15013",
-          "title": "Management Trainee",
-          "url": "https://join.specsavers.com/uk/job/management-trainee-in-crawley-south-east-jid-15013",
+          "id": "15029",
+          "title": "Store Manager",
+          "url": "https://join.specsavers.com/uk/job/store-manager-in-barnsley-north-east-jid-15029",
           "email_type": "standard"
         }
       ]
     },
-    "elgin-scotland": {
+    "bournemouth-south-west": {
       "job_count": 1,
       "jobs": [
         {
-          "id": "15000",
-          "title": "Newly Qualified Optometrist",
-          "url": "https://join.specsavers.com/uk/job/newly-qualified-optometrist-in-elgin-scotland-jid-15000",
+          "id": "15040",
+          "title": "Retail Store Manager",
+          "url": "https://join.specsavers.com/uk/job/retail-store-manager-in-bournemouth-south-west-jid-15040",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "bradford-north-east": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "15023",
+          "title": "Scheduler/Administrator",
+          "url": "https://join.specsavers.com/uk/job/scheduler-administrator-in-bradford-north-east-jid-15023",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "cookstown-northern-ireland": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "15033",
+          "title": "Home Visits Optical Assistant",
+          "url": "https://join.specsavers.com/uk/job/home-visits-optical-assistant-in-cookstown-northern-ireland-jid-15033",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "eltham-greater-london": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "15038",
+          "title": "Optical Assistant",
+          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-eltham-greater-london-jid-15038",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "enniskillen-northern-ireland": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "15031",
+          "title": "Home Visits Optical Assistant",
+          "url": "https://join.specsavers.com/uk/job/home-visits-optical-assistant-in-enniskillen-northern-ireland-jid-15031",
           "email_type": "standard"
         }
       ]
@@ -29,53 +73,42 @@
       "job_count": 1,
       "jobs": [
         {
-          "id": "15007",
-          "title": "Optometrist",
-          "url": "https://join.specsavers.com/uk/job/optometrist-in-exeter-south-west-jid-15007",
+          "id": "15027",
+          "title": "Optical Assistant",
+          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-exeter-south-west-jid-15027",
           "email_type": "standard"
         }
       ]
     },
-    "harlow-east-england": {
+    "newton-mearns-scotland": {
       "job_count": 1,
       "jobs": [
         {
-          "id": "15010",
-          "title": "Store Manager",
-          "url": "https://join.specsavers.com/uk/job/store-manager-in-harlow-east-england-jid-15010",
-          "email_type": "standard"
-        }
-      ]
-    },
-    "milton-keynes-east-england": {
-      "job_count": 1,
-      "jobs": [
-        {
-          "id": "15004",
-          "title": "Assistant Store Manager",
-          "url": "https://join.specsavers.com/uk/job/assistant-store-manager-in-milton-keynes-east-england-jid-15004",
-          "email_type": "standard"
-        }
-      ]
-    },
-    "southampton-south": {
-      "job_count": 1,
-      "jobs": [
-        {
-          "id": "15014",
-          "title": "Optical Assistant / Trainee Optical Assistant",
-          "url": "https://join.specsavers.com/uk/job/optical-assistant-trainee-optical-assistant-in-southampton-south-jid-15014",
+          "id": "15026",
+          "title": "Trainee Optical Assistant",
+          "url": "https://join.specsavers.com/uk/job/trainee-optical-assistant-in-newton-mearns-scotland-jid-15026",
           "email_type": "trainee"
         }
       ]
     },
-    "stirling-scotland": {
+    "omagh-northern-ireland": {
       "job_count": 1,
       "jobs": [
         {
-          "id": "15009",
-          "title": "Optical Assistant",
-          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-stirling-scotland-jid-15009",
+          "id": "15032",
+          "title": "Home Visits Optical Assistant",
+          "url": "https://join.specsavers.com/uk/job/home-visits-optical-assistant-in-omagh-northern-ireland-jid-15032",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "saltash-south-west": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "7370",
+          "title": "Dispensing Optician",
+          "url": "https://join.specsavers.com/uk/job/dispensing-optician-in-saltash-south-west-jid-7370",
           "email_type": "standard"
         }
       ]
