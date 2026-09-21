@@ -1,26 +1,15 @@
 {
-  "date": "2026-09-18",
-  "total_new_jobs": 10,
-  "total_stores": 10,
+  "date": "2026-09-21",
+  "total_new_jobs": 5,
+  "total_stores": 5,
   "stores": {
-    "barnsley-north-east": {
+    "birmingham-west-midlands": {
       "job_count": 1,
       "jobs": [
         {
-          "id": "15029",
-          "title": "Store Manager",
-          "url": "https://join.specsavers.com/uk/job/store-manager-in-barnsley-north-east-jid-15029",
-          "email_type": "standard"
-        }
-      ]
-    },
-    "bournemouth-south-west": {
-      "job_count": 1,
-      "jobs": [
-        {
-          "id": "15040",
-          "title": "Retail Store Manager",
-          "url": "https://join.specsavers.com/uk/job/retail-store-manager-in-bournemouth-south-west-jid-15040",
+          "id": "15064",
+          "title": "Optical Lab Manager",
+          "url": "https://join.specsavers.com/uk/job/optical-lab-manager-in-birmingham-west-midlands-jid-15064",
           "email_type": "standard"
         }
       ]
@@ -29,86 +18,42 @@
       "job_count": 1,
       "jobs": [
         {
-          "id": "15023",
-          "title": "Scheduler/Administrator",
-          "url": "https://join.specsavers.com/uk/job/scheduler-administrator-in-bradford-north-east-jid-15023",
+          "id": "15059",
+          "title": "Hearing Aid Dispenser",
+          "url": "https://join.specsavers.com/uk/job/hearing-aid-dispenser-in-bradford-north-east-jid-15059",
           "email_type": "standard"
         }
       ]
     },
-    "cookstown-northern-ireland": {
+    "honiton-south-west": {
       "job_count": 1,
       "jobs": [
         {
-          "id": "15033",
-          "title": "Home Visits Optical Assistant",
-          "url": "https://join.specsavers.com/uk/job/home-visits-optical-assistant-in-cookstown-northern-ireland-jid-15033",
+          "id": "15047",
+          "title": "Optometrist",
+          "url": "https://join.specsavers.com/uk/job/optometrist-in-honiton-south-west-jid-15047",
           "email_type": "standard"
         }
       ]
     },
-    "eltham-greater-london": {
+    "kingswood-south-west": {
       "job_count": 1,
       "jobs": [
         {
-          "id": "15038",
-          "title": "Optical Assistant",
-          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-eltham-greater-london-jid-15038",
+          "id": "15058",
+          "title": "Store Manager",
+          "url": "https://join.specsavers.com/uk/job/store-manager-in-kingswood-south-west-jid-15058",
           "email_type": "standard"
         }
       ]
     },
-    "enniskillen-northern-ireland": {
+    "morley-north-east": {
       "job_count": 1,
       "jobs": [
         {
-          "id": "15031",
-          "title": "Home Visits Optical Assistant",
-          "url": "https://join.specsavers.com/uk/job/home-visits-optical-assistant-in-enniskillen-northern-ireland-jid-15031",
-          "email_type": "standard"
-        }
-      ]
-    },
-    "exeter-south-west": {
-      "job_count": 1,
-      "jobs": [
-        {
-          "id": "15027",
-          "title": "Optical Assistant",
-          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-exeter-south-west-jid-15027",
-          "email_type": "standard"
-        }
-      ]
-    },
-    "newton-mearns-scotland": {
-      "job_count": 1,
-      "jobs": [
-        {
-          "id": "15026",
-          "title": "Trainee Optical Assistant",
-          "url": "https://join.specsavers.com/uk/job/trainee-optical-assistant-in-newton-mearns-scotland-jid-15026",
-          "email_type": "trainee"
-        }
-      ]
-    },
-    "omagh-northern-ireland": {
-      "job_count": 1,
-      "jobs": [
-        {
-          "id": "15032",
-          "title": "Home Visits Optical Assistant",
-          "url": "https://join.specsavers.com/uk/job/home-visits-optical-assistant-in-omagh-northern-ireland-jid-15032",
-          "email_type": "standard"
-        }
-      ]
-    },
-    "saltash-south-west": {
-      "job_count": 1,
-      "jobs": [
-        {
-          "id": "7370",
-          "title": "Dispensing Optician",
-          "url": "https://join.specsavers.com/uk/job/dispensing-optician-in-saltash-south-west-jid-7370",
+          "id": "15060",
+          "title": "Audiologist/Hearing Aid Dispenser",
+          "url": "https://join.specsavers.com/uk/job/audiologist-hearing-aid-dispenser-in-morley-north-east-jid-15060",
           "email_type": "standard"
         }
       ]
