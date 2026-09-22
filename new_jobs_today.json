@@ -1,59 +1,115 @@
 {
-  "date": "2026-09-21",
-  "total_new_jobs": 5,
-  "total_stores": 5,
+  "date": "2026-09-22",
+  "total_new_jobs": 11,
+  "total_stores": 9,
   "stores": {
-    "birmingham-west-midlands": {
+    "bedworth-west-midlands": {
       "job_count": 1,
       "jobs": [
         {
-          "id": "15064",
-          "title": "Optical Lab Manager",
-          "url": "https://join.specsavers.com/uk/job/optical-lab-manager-in-birmingham-west-midlands-jid-15064",
-          "email_type": "standard"
-        }
-      ]
-    },
-    "bradford-north-east": {
-      "job_count": 1,
-      "jobs": [
-        {
-          "id": "15059",
-          "title": "Hearing Aid Dispenser",
-          "url": "https://join.specsavers.com/uk/job/hearing-aid-dispenser-in-bradford-north-east-jid-15059",
-          "email_type": "standard"
-        }
-      ]
-    },
-    "honiton-south-west": {
-      "job_count": 1,
-      "jobs": [
-        {
-          "id": "15047",
+          "id": "15075",
           "title": "Optometrist",
-          "url": "https://join.specsavers.com/uk/job/optometrist-in-honiton-south-west-jid-15047",
+          "url": "https://join.specsavers.com/uk/job/optometrist-in-bedworth-west-midlands-jid-15075",
           "email_type": "standard"
         }
       ]
     },
-    "kingswood-south-west": {
-      "job_count": 1,
+    "croydon-greater-london": {
+      "job_count": 2,
       "jobs": [
         {
-          "id": "15058",
-          "title": "Store Manager",
-          "url": "https://join.specsavers.com/uk/job/store-manager-in-kingswood-south-west-jid-15058",
+          "id": "15083",
+          "title": "Optical Assistant",
+          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-croydon-greater-london-jid-15083",
+          "email_type": "standard"
+        },
+        {
+          "id": "15082",
+          "title": "Assistant Store Manager",
+          "url": "https://join.specsavers.com/uk/job/assistant-store-manager-in-croydon-greater-london-jid-15082",
           "email_type": "standard"
         }
       ]
     },
-    "morley-north-east": {
+    "crumlin-ireland": {
       "job_count": 1,
       "jobs": [
         {
-          "id": "15060",
-          "title": "Audiologist/Hearing Aid Dispenser",
-          "url": "https://join.specsavers.com/uk/job/audiologist-hearing-aid-dispenser-in-morley-north-east-jid-15060",
+          "id": "15081",
+          "title": "Part Time Optical Assistant",
+          "url": "https://join.specsavers.com/uk/job/part-time-optical-assistant-in-crumlin-ireland-jid-15081",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "daventry-east-midlands": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "15072",
+          "title": "Newly Qualified Optometrist",
+          "url": "https://join.specsavers.com/uk/job/newly-qualified-optometrist-in-daventry-east-midlands-jid-15072",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "horsham-south-east": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "15071",
+          "title": "Domiciliary Optical Assistant",
+          "url": "https://join.specsavers.com/uk/job/domiciliary-optical-assistant-in-horsham-south-east-jid-15071",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "kenilworth-west-midlands": {
+      "job_count": 2,
+      "jobs": [
+        {
+          "id": "15084",
+          "title": "Optometrist",
+          "url": "https://join.specsavers.com/uk/job/optometrist-in-kenilworth-west-midlands-jid-15084",
+          "email_type": "standard"
+        },
+        {
+          "id": "15089",
+          "title": "Optical Assistant",
+          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-kenilworth-west-midlands-jid-15089",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "london-colney-east-england": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "15077",
+          "title": "Optical Assistant",
+          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-london-colney-east-england-jid-15077",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "sale-north-west": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "15078",
+          "title": "Hearing Aid Dispenser",
+          "url": "https://join.specsavers.com/uk/job/hearing-aid-dispenser-in-sale-north-west-jid-15078",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "swadlincote-west-midlands": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "15079",
+          "title": "Lab Manager",
+          "url": "https://join.specsavers.com/uk/job/lab-manager-in-swadlincote-west-midlands-jid-15079",
           "email_type": "standard"
         }
       ]
