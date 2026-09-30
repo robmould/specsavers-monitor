@@ -1,81 +1,81 @@
 {
-  "date": "2026-09-29",
-  "total_new_jobs": 9,
-  "total_stores": 9,
+  "date": "2026-09-30",
+  "total_new_jobs": 12,
+  "total_stores": 11,
   "stores": {
-    "brighton-south-east": {
+    "bury-north-west": {
       "job_count": 1,
       "jobs": [
         {
-          "id": "15274",
+          "id": "15296",
+          "title": "Home Visits Optical Assistant",
+          "url": "https://join.specsavers.com/uk/job/home-visits-optical-assistant-in-bury-north-west-jid-15296",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "hoddesdon-east-england": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "15294",
+          "title": "Assistant Store Manager",
+          "url": "https://join.specsavers.com/uk/job/assistant-store-manager-in-hoddesdon-east-england-jid-15294",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "kingston-upon-hull-east-riding-of-yorkshire": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "15292",
+          "title": "Lab Administrator",
+          "url": "https://join.specsavers.com/uk/job/lab-administrator-in-kingston-upon-hull-east-riding-of-yorkshire-jid-15292",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "lincoln-east-midlands": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "15315",
+          "title": "Hearcare Administrator",
+          "url": "https://join.specsavers.com/uk/job/hearcare-administrator-in-lincoln-east-midlands-jid-15315",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "lisburn-northern-ireland": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "15320",
+          "title": "Audiologist/Hearing Aid Dispenser",
+          "url": "https://join.specsavers.com/uk/job/audiologist-hearing-aid-dispenser-in-lisburn-northern-ireland-jid-15320",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "manchester-north-west": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "15309",
           "title": "Optical Assistant",
-          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-brighton-south-east-jid-15274",
+          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-manchester-north-west-jid-15309",
           "email_type": "standard"
         }
       ]
     },
-    "cosham-south": {
+    "marple-west": {
       "job_count": 1,
       "jobs": [
         {
-          "id": "15269",
-          "title": "Dispensing Optician 1",
-          "url": "https://join.specsavers.com/uk/job/dispensing-optician-1-in-cosham-south-jid-15269",
-          "email_type": "standard"
-        }
-      ]
-    },
-    "crawley-south-east": {
-      "job_count": 1,
-      "jobs": [
-        {
-          "id": "15273",
-          "title": "Call Hub Advisor",
-          "url": "https://join.specsavers.com/uk/job/call-hub-advisor-in-crawley-south-east-jid-15273",
-          "email_type": "standard"
-        }
-      ]
-    },
-    "london-greater-london": {
-      "job_count": 1,
-      "jobs": [
-        {
-          "id": "15278",
-          "title": "Optical Assistant",
-          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-london-greater-london-jid-15278",
-          "email_type": "standard"
-        }
-      ]
-    },
-    "petersfield-south": {
-      "job_count": 1,
-      "jobs": [
-        {
-          "id": "15275",
-          "title": "Optical Assistant",
-          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-petersfield-south-jid-15275",
-          "email_type": "standard"
-        }
-      ]
-    },
-    "preston-north-west": {
-      "job_count": 1,
-      "jobs": [
-        {
-          "id": "15271",
-          "title": "Optical Assistant",
-          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-preston-north-west-jid-15271",
-          "email_type": "standard"
-        }
-      ]
-    },
-    "rawtenstall-west": {
-      "job_count": 1,
-      "jobs": [
-        {
-          "id": "15277",
-          "title": "Optical Assistant",
-          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-rawtenstall-west-jid-15277",
+          "id": "15310",
+          "title": "Dispensing Optician",
+          "url": "https://join.specsavers.com/uk/job/dispensing-optician-in-marple-west-jid-15310",
           "email_type": "standard"
         }
       ]
@@ -84,9 +84,37 @@
       "job_count": 1,
       "jobs": [
         {
-          "id": "15282",
+          "id": "15306",
           "title": "Clinical Performance Consultant",
-          "url": "https://join.specsavers.com/uk/job/clinical-performance-consultant-in-remote-jid-15282",
+          "url": "https://join.specsavers.com/uk/job/clinical-performance-consultant-in-remote-jid-15306",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "sutton-coldfield-west-midlands": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "15298",
+          "title": "Optical Assistant",
+          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-sutton-coldfield-west-midlands-jid-15298",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "wantage-south": {
+      "job_count": 2,
+      "jobs": [
+        {
+          "id": "15313",
+          "title": "Optical Assistant",
+          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-wantage-south-jid-15313",
+          "email_type": "standard"
+        },
+        {
+          "id": "15311",
+          "title": "Store Manager",
+          "url": "https://join.specsavers.com/uk/job/store-manager-in-wantage-south-jid-15311",
           "email_type": "standard"
         }
       ]
@@ -95,9 +123,9 @@
       "job_count": 1,
       "jobs": [
         {
-          "id": "15270",
+          "id": "15305",
           "title": "Optical Assistant",
-          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-whitchurch-west-midlands-jid-15270",
+          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-whitchurch-west-midlands-jid-15305",
           "email_type": "standard"
         }
       ]
