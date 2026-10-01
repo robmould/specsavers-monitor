@@ -1,131 +1,98 @@
 {
-  "date": "2026-09-30",
-  "total_new_jobs": 12,
-  "total_stores": 11,
+  "date": "2026-10-01",
+  "total_new_jobs": 9,
+  "total_stores": 8,
   "stores": {
-    "bury-north-west": {
+    "aberdeen-scotland": {
       "job_count": 1,
       "jobs": [
         {
-          "id": "15296",
-          "title": "Home Visits Optical Assistant",
-          "url": "https://join.specsavers.com/uk/job/home-visits-optical-assistant-in-bury-north-west-jid-15296",
-          "email_type": "standard"
-        }
-      ]
-    },
-    "hoddesdon-east-england": {
-      "job_count": 1,
-      "jobs": [
-        {
-          "id": "15294",
-          "title": "Assistant Store Manager",
-          "url": "https://join.specsavers.com/uk/job/assistant-store-manager-in-hoddesdon-east-england-jid-15294",
-          "email_type": "standard"
-        }
-      ]
-    },
-    "kingston-upon-hull-east-riding-of-yorkshire": {
-      "job_count": 1,
-      "jobs": [
-        {
-          "id": "15292",
-          "title": "Lab Administrator",
-          "url": "https://join.specsavers.com/uk/job/lab-administrator-in-kingston-upon-hull-east-riding-of-yorkshire-jid-15292",
-          "email_type": "standard"
-        }
-      ]
-    },
-    "lincoln-east-midlands": {
-      "job_count": 1,
-      "jobs": [
-        {
-          "id": "15315",
-          "title": "Hearcare Administrator",
-          "url": "https://join.specsavers.com/uk/job/hearcare-administrator-in-lincoln-east-midlands-jid-15315",
-          "email_type": "standard"
-        }
-      ]
-    },
-    "lisburn-northern-ireland": {
-      "job_count": 1,
-      "jobs": [
-        {
-          "id": "15320",
-          "title": "Audiologist/Hearing Aid Dispenser",
-          "url": "https://join.specsavers.com/uk/job/audiologist-hearing-aid-dispenser-in-lisburn-northern-ireland-jid-15320",
-          "email_type": "standard"
-        }
-      ]
-    },
-    "manchester-north-west": {
-      "job_count": 1,
-      "jobs": [
-        {
-          "id": "15309",
-          "title": "Optical Assistant",
-          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-manchester-north-west-jid-15309",
-          "email_type": "standard"
-        }
-      ]
-    },
-    "marple-west": {
-      "job_count": 1,
-      "jobs": [
-        {
-          "id": "15310",
+          "id": "15347",
           "title": "Dispensing Optician",
-          "url": "https://join.specsavers.com/uk/job/dispensing-optician-in-marple-west-jid-15310",
+          "url": "https://join.specsavers.com/uk/job/dispensing-optician-in-aberdeen-scotland-jid-15347",
           "email_type": "standard"
         }
       ]
     },
-    "remote": {
+    "burton-on-trent-west-midlands": {
       "job_count": 1,
       "jobs": [
         {
-          "id": "15306",
-          "title": "Clinical Performance Consultant",
-          "url": "https://join.specsavers.com/uk/job/clinical-performance-consultant-in-remote-jid-15306",
+          "id": "15332",
+          "title": "Hearing Aid Dispenser",
+          "url": "https://join.specsavers.com/uk/job/hearing-aid-dispenser-in-burton-on-trent-west-midlands-jid-15332",
           "email_type": "standard"
         }
       ]
     },
-    "sutton-coldfield-west-midlands": {
+    "nottingham-east-midlands": {
       "job_count": 1,
       "jobs": [
         {
-          "id": "15298",
-          "title": "Optical Assistant",
-          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-sutton-coldfield-west-midlands-jid-15298",
+          "id": "15331",
+          "title": "Administrator/Scheduler",
+          "url": "https://join.specsavers.com/uk/job/administrator-scheduler-in-nottingham-east-midlands-jid-15331",
           "email_type": "standard"
         }
       ]
     },
-    "wantage-south": {
+    "oldham-north-west": {
       "job_count": 2,
       "jobs": [
         {
-          "id": "15313",
-          "title": "Optical Assistant",
-          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-wantage-south-jid-15313",
+          "id": "15322",
+          "title": "Audiologist/Hearing Aid Dispenser",
+          "url": "https://join.specsavers.com/uk/job/audiologist-hearing-aid-dispenser-in-oldham-north-west-jid-15322",
           "email_type": "standard"
         },
         {
-          "id": "15311",
-          "title": "Store Manager",
-          "url": "https://join.specsavers.com/uk/job/store-manager-in-wantage-south-jid-15311",
+          "id": "15321",
+          "title": "Newly Qualified Audiologist/Hearing Aid Dispenser",
+          "url": "https://join.specsavers.com/uk/job/newly-qualified-audiologist-hearing-aid-dispenser-in-oldham-north-west-jid-15321",
           "email_type": "standard"
         }
       ]
     },
-    "whitchurch-west-midlands": {
+    "park-ryal-london": {
       "job_count": 1,
       "jobs": [
         {
-          "id": "15305",
+          "id": "15346",
+          "title": "Scheduling/Administration Assistant",
+          "url": "https://join.specsavers.com/uk/job/scheduling-administration-assistant-in-park-ryal-london-jid-15346",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "richmond-north-east": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "15325",
           "title": "Optical Assistant",
-          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-whitchurch-west-midlands-jid-15305",
+          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-richmond-north-east-jid-15325",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "sale-north-west": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "15335",
+          "title": "Hearing Aid Dispenser",
+          "url": "https://join.specsavers.com/uk/job/hearing-aid-dispenser-in-sale-north-west-jid-15335",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "slough-south": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "15323",
+          "title": "Trainee Audiology Practitioner",
+          "url": "https://join.specsavers.com/uk/job/trainee-audiology-practitioner-in-slough-south-jid-15323",
           "email_type": "standard"
         }
       ]
