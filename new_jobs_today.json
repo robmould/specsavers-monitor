@@ -1,159 +1,81 @@
 {
-  "date": "2026-10-08",
-  "total_new_jobs": 15,
-  "total_stores": 13,
+  "date": "2026-10-09",
+  "total_new_jobs": 7,
+  "total_stores": 7,
   "stores": {
-    "aberystwyth-wales": {
+    "bury-north-west": {
       "job_count": 1,
       "jobs": [
         {
-          "id": "15491",
-          "title": "Optical Assistant",
-          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-aberystwyth-wales-jid-15491",
-          "email_type": "standard"
-        }
-      ]
-    },
-    "aylesbury-south": {
-      "job_count": 1,
-      "jobs": [
-        {
-          "id": "15498",
-          "title": "Optical Assistant",
-          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-aylesbury-south-jid-15498",
-          "email_type": "standard"
-        }
-      ]
-    },
-    "bognor-regis-south-east": {
-      "job_count": 1,
-      "jobs": [
-        {
-          "id": "15476",
-          "title": "Optical Assistant",
-          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-bognor-regis-south-east-jid-15476",
-          "email_type": "standard"
-        }
-      ]
-    },
-    "chatham-south-east": {
-      "job_count": 1,
-      "jobs": [
-        {
-          "id": "14397",
-          "title": "Optical Lab Technician",
-          "url": "https://join.specsavers.com/uk/job/optical-lab-technician-in-chatham-south-east-jid-14397",
-          "email_type": "standard"
-        }
-      ]
-    },
-    "citywest-ireland": {
-      "job_count": 1,
-      "jobs": [
-        {
-          "id": "15482",
-          "title": "Optical Assistant",
-          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-citywest-ireland-jid-15482",
+          "id": "15506",
+          "title": "Audiologist/Hearing Aid Dispenser",
+          "url": "https://join.specsavers.com/uk/job/audiologist-hearing-aid-dispenser-in-bury-north-west-jid-15506",
           "email_type": "standard"
         }
       ]
     },
     "cockermouth-north": {
-      "job_count": 2,
+      "job_count": 1,
       "jobs": [
         {
-          "id": "15487",
-          "title": "Optical Assistant",
-          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-cockermouth-north-jid-15487",
+          "id": "15508",
+          "title": "Dispensing Optician",
+          "url": "https://join.specsavers.com/uk/job/dispensing-optician-in-cockermouth-north-jid-15508",
           "email_type": "standard"
-        },
+        }
+      ]
+    },
+    "cruises-street-ireland": {
+      "job_count": 1,
+      "jobs": [
         {
-          "id": "15485",
+          "id": "15500",
+          "title": "Optometrist",
+          "url": "https://join.specsavers.com/uk/job/optometrist-in-cruises-street-ireland-jid-15500",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "hammersmith-greater-london": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "15505",
+          "title": "Audiologist/Hearing Aid Dispenser",
+          "url": "https://join.specsavers.com/uk/job/audiologist-hearing-aid-dispenser-in-hammersmith-greater-london-jid-15505",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "leominster-west-midlands": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "15499",
+          "title": "Optical Assistant",
+          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-leominster-west-midlands-jid-15499",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "mill-hill-g-london-north": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "15503",
           "title": "Store Manager",
-          "url": "https://join.specsavers.com/uk/job/store-manager-in-cockermouth-north-jid-15485",
+          "url": "https://join.specsavers.com/uk/job/store-manager-in-mill-hill-g-london-north-jid-15503",
           "email_type": "standard"
         }
       ]
     },
-    "london-greater-london": {
+    "uxbridge-greater-london": {
       "job_count": 1,
       "jobs": [
         {
-          "id": "15492",
-          "title": "Contact Lens Assistant",
-          "url": "https://join.specsavers.com/uk/job/contact-lens-assistant-in-london-greater-london-jid-15492",
-          "email_type": "standard"
-        }
-      ]
-    },
-    "northallerton-north-east": {
-      "job_count": 1,
-      "jobs": [
-        {
-          "id": "15488",
-          "title": "Optical Assistant",
-          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-northallerton-north-east-jid-15488",
-          "email_type": "standard"
-        }
-      ]
-    },
-    "park-ryal-london": {
-      "job_count": 1,
-      "jobs": [
-        {
-          "id": "15480",
-          "title": "Scheduling/Administration Assistant",
-          "url": "https://join.specsavers.com/uk/job/scheduling-administration-assistant-in-park-ryal-london-jid-15480",
-          "email_type": "standard"
-        }
-      ]
-    },
-    "rawtenstall-west": {
-      "job_count": 1,
-      "jobs": [
-        {
-          "id": "15477",
-          "title": "Optical Assistant",
-          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-rawtenstall-west-jid-15477",
-          "email_type": "standard"
-        }
-      ]
-    },
-    "shepherds-bush-greater-london": {
-      "job_count": 2,
-      "jobs": [
-        {
-          "id": "15494",
-          "title": "Assistant Store Manager",
-          "url": "https://join.specsavers.com/uk/job/assistant-store-manager-in-shepherds-bush-greater-london-jid-15494",
-          "email_type": "standard"
-        },
-        {
-          "id": "15493",
-          "title": "Optical Assistant",
-          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-shepherds-bush-greater-london-jid-15493",
-          "email_type": "standard"
-        }
-      ]
-    },
-    "thirsk-north-east": {
-      "job_count": 1,
-      "jobs": [
-        {
-          "id": "15484",
-          "title": "Optical Assistant",
-          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-thirsk-north-east-jid-15484",
-          "email_type": "standard"
-        }
-      ]
-    },
-    "washington-north-east": {
-      "job_count": 1,
-      "jobs": [
-        {
-          "id": "15481",
-          "title": "Optical Assistant",
-          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-washington-north-east-jid-15481",
+          "id": "15504",
+          "title": "Clinical Supervisor",
+          "url": "https://join.specsavers.com/uk/job/clinical-supervisor-in-uxbridge-greater-london-jid-15504",
           "email_type": "standard"
         }
       ]
