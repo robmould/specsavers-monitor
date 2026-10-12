@@ -1,26 +1,81 @@
 {
-  "date": "2026-10-09",
-  "total_new_jobs": 7,
-  "total_stores": 7,
+  "date": "2026-10-12",
+  "total_new_jobs": 15,
+  "total_stores": 15,
   "stores": {
-    "bury-north-west": {
+    "barnet-greater-london": {
       "job_count": 1,
       "jobs": [
         {
-          "id": "15506",
-          "title": "Audiologist/Hearing Aid Dispenser",
-          "url": "https://join.specsavers.com/uk/job/audiologist-hearing-aid-dispenser-in-bury-north-west-jid-15506",
+          "id": "15519",
+          "title": "Home Visits Optical Assistant",
+          "url": "https://join.specsavers.com/uk/job/home-visits-optical-assistant-in-barnet-greater-london-jid-15519",
           "email_type": "standard"
         }
       ]
     },
-    "cockermouth-north": {
+    "bray-ireland": {
       "job_count": 1,
       "jobs": [
         {
-          "id": "15508",
-          "title": "Dispensing Optician",
-          "url": "https://join.specsavers.com/uk/job/dispensing-optician-in-cockermouth-north-jid-15508",
+          "id": "15530",
+          "title": "Trainee Audiology Practitioner",
+          "url": "https://join.specsavers.com/uk/job/trainee-audiology-practitioner-in-bray-ireland-jid-15530",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "bury-north-west": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "15523",
+          "title": "Optical Assistant",
+          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-bury-north-west-jid-15523",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "clapham-g-london-south": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "15526",
+          "title": "Apprentice Hearing Aid Dispenser (HAD)",
+          "url": "https://join.specsavers.com/uk/job/apprentice-hearing-aid-dispenser-had-in-clapham-g-london-south-jid-15526",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "colchester-east-england": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "15535",
+          "title": "Payroll Administrator",
+          "url": "https://join.specsavers.com/uk/job/payroll-administrator-in-colchester-east-england-jid-15535",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "crescent-centre-ireland": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "15525",
+          "title": "Optometrist",
+          "url": "https://join.specsavers.com/uk/job/optometrist-in-crescent-centre-ireland-jid-15525",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "croydon-greater-london": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "15520",
+          "title": "Audiology Practitioner",
+          "url": "https://join.specsavers.com/uk/job/audiology-practitioner-in-croydon-greater-london-jid-15520",
           "email_type": "standard"
         }
       ]
@@ -29,53 +84,86 @@
       "job_count": 1,
       "jobs": [
         {
-          "id": "15500",
-          "title": "Optometrist",
-          "url": "https://join.specsavers.com/uk/job/optometrist-in-cruises-street-ireland-jid-15500",
-          "email_type": "standard"
-        }
-      ]
-    },
-    "hammersmith-greater-london": {
-      "job_count": 1,
-      "jobs": [
-        {
-          "id": "15505",
+          "id": "15521",
           "title": "Audiologist/Hearing Aid Dispenser",
-          "url": "https://join.specsavers.com/uk/job/audiologist-hearing-aid-dispenser-in-hammersmith-greater-london-jid-15505",
+          "url": "https://join.specsavers.com/uk/job/audiologist-hearing-aid-dispenser-in-cruises-street-ireland-jid-15521",
           "email_type": "standard"
         }
       ]
     },
-    "leominster-west-midlands": {
+    "edinburgh-scotland": {
       "job_count": 1,
       "jobs": [
         {
-          "id": "15499",
+          "id": "15528",
+          "title": "Newly Qualified Optometrist",
+          "url": "https://join.specsavers.com/uk/job/newly-qualified-optometrist-in-edinburgh-scotland-jid-15528",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "heswall-north-west": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "15522",
+          "title": "Assistant Store Manager",
+          "url": "https://join.specsavers.com/uk/job/assistant-store-manager-in-heswall-north-west-jid-15522",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "holloway-greater-london": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "15529",
+          "title": "Optometrist",
+          "url": "https://join.specsavers.com/uk/job/optometrist-in-holloway-greater-london-jid-15529",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "london-greater-london": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "15517",
+          "title": "Supervisor: Strand",
+          "url": "https://join.specsavers.com/uk/job/supervisor-strand-in-london-greater-london-jid-15517",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "peterborough-east-england": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "15516",
+          "title": "Dispensing Optician",
+          "url": "https://join.specsavers.com/uk/job/dispensing-optician-in-peterborough-east-england-jid-15516",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "rustington-south-east": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "15532",
+          "title": "Trainee Lab Technician",
+          "url": "https://join.specsavers.com/uk/job/trainee-lab-technician-in-rustington-south-east-jid-15532",
+          "email_type": "trainee"
+        }
+      ]
+    },
+    "yardley-west-midlands": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "15524",
           "title": "Optical Assistant",
-          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-leominster-west-midlands-jid-15499",
-          "email_type": "standard"
-        }
-      ]
-    },
-    "mill-hill-g-london-north": {
-      "job_count": 1,
-      "jobs": [
-        {
-          "id": "15503",
-          "title": "Store Manager",
-          "url": "https://join.specsavers.com/uk/job/store-manager-in-mill-hill-g-london-north-jid-15503",
-          "email_type": "standard"
-        }
-      ]
-    },
-    "uxbridge-greater-london": {
-      "job_count": 1,
-      "jobs": [
-        {
-          "id": "15504",
-          "title": "Clinical Supervisor",
-          "url": "https://join.specsavers.com/uk/job/clinical-supervisor-in-uxbridge-greater-london-jid-15504",
+          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-yardley-west-midlands-jid-15524",
           "email_type": "standard"
         }
       ]
