@@ -1,81 +1,15 @@
 {
-  "date": "2026-10-12",
-  "total_new_jobs": 15,
-  "total_stores": 15,
+  "date": "2026-10-13",
+  "total_new_jobs": 5,
+  "total_stores": 5,
   "stores": {
-    "barnet-greater-london": {
+    "brentwood-east-england": {
       "job_count": 1,
       "jobs": [
         {
-          "id": "15519",
-          "title": "Home Visits Optical Assistant",
-          "url": "https://join.specsavers.com/uk/job/home-visits-optical-assistant-in-barnet-greater-london-jid-15519",
-          "email_type": "standard"
-        }
-      ]
-    },
-    "bray-ireland": {
-      "job_count": 1,
-      "jobs": [
-        {
-          "id": "15530",
-          "title": "Trainee Audiology Practitioner",
-          "url": "https://join.specsavers.com/uk/job/trainee-audiology-practitioner-in-bray-ireland-jid-15530",
-          "email_type": "standard"
-        }
-      ]
-    },
-    "bury-north-west": {
-      "job_count": 1,
-      "jobs": [
-        {
-          "id": "15523",
+          "id": "15554",
           "title": "Optical Assistant",
-          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-bury-north-west-jid-15523",
-          "email_type": "standard"
-        }
-      ]
-    },
-    "clapham-g-london-south": {
-      "job_count": 1,
-      "jobs": [
-        {
-          "id": "15526",
-          "title": "Apprentice Hearing Aid Dispenser (HAD)",
-          "url": "https://join.specsavers.com/uk/job/apprentice-hearing-aid-dispenser-had-in-clapham-g-london-south-jid-15526",
-          "email_type": "standard"
-        }
-      ]
-    },
-    "colchester-east-england": {
-      "job_count": 1,
-      "jobs": [
-        {
-          "id": "15535",
-          "title": "Payroll Administrator",
-          "url": "https://join.specsavers.com/uk/job/payroll-administrator-in-colchester-east-england-jid-15535",
-          "email_type": "standard"
-        }
-      ]
-    },
-    "crescent-centre-ireland": {
-      "job_count": 1,
-      "jobs": [
-        {
-          "id": "15525",
-          "title": "Optometrist",
-          "url": "https://join.specsavers.com/uk/job/optometrist-in-crescent-centre-ireland-jid-15525",
-          "email_type": "standard"
-        }
-      ]
-    },
-    "croydon-greater-london": {
-      "job_count": 1,
-      "jobs": [
-        {
-          "id": "15520",
-          "title": "Audiology Practitioner",
-          "url": "https://join.specsavers.com/uk/job/audiology-practitioner-in-croydon-greater-london-jid-15520",
+          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-brentwood-east-england-jid-15554",
           "email_type": "standard"
         }
       ]
@@ -84,86 +18,42 @@
       "job_count": 1,
       "jobs": [
         {
-          "id": "15521",
+          "id": "15546",
           "title": "Audiologist/Hearing Aid Dispenser",
-          "url": "https://join.specsavers.com/uk/job/audiologist-hearing-aid-dispenser-in-cruises-street-ireland-jid-15521",
+          "url": "https://join.specsavers.com/uk/job/audiologist-hearing-aid-dispenser-in-cruises-street-ireland-jid-15546",
           "email_type": "standard"
         }
       ]
     },
-    "edinburgh-scotland": {
+    "droitwich-west-midlands": {
       "job_count": 1,
       "jobs": [
         {
-          "id": "15528",
-          "title": "Newly Qualified Optometrist",
-          "url": "https://join.specsavers.com/uk/job/newly-qualified-optometrist-in-edinburgh-scotland-jid-15528",
+          "id": "15541",
+          "title": "Administrator",
+          "url": "https://join.specsavers.com/uk/job/administrator-in-droitwich-west-midlands-jid-15541",
           "email_type": "standard"
         }
       ]
     },
-    "heswall-north-west": {
+    "guildford-south-east": {
       "job_count": 1,
       "jobs": [
         {
-          "id": "15522",
-          "title": "Assistant Store Manager",
-          "url": "https://join.specsavers.com/uk/job/assistant-store-manager-in-heswall-north-west-jid-15522",
-          "email_type": "standard"
-        }
-      ]
-    },
-    "holloway-greater-london": {
-      "job_count": 1,
-      "jobs": [
-        {
-          "id": "15529",
-          "title": "Optometrist",
-          "url": "https://join.specsavers.com/uk/job/optometrist-in-holloway-greater-london-jid-15529",
-          "email_type": "standard"
-        }
-      ]
-    },
-    "london-greater-london": {
-      "job_count": 1,
-      "jobs": [
-        {
-          "id": "15517",
-          "title": "Supervisor: Strand",
-          "url": "https://join.specsavers.com/uk/job/supervisor-strand-in-london-greater-london-jid-15517",
-          "email_type": "standard"
-        }
-      ]
-    },
-    "peterborough-east-england": {
-      "job_count": 1,
-      "jobs": [
-        {
-          "id": "15516",
-          "title": "Dispensing Optician",
-          "url": "https://join.specsavers.com/uk/job/dispensing-optician-in-peterborough-east-england-jid-15516",
-          "email_type": "standard"
-        }
-      ]
-    },
-    "rustington-south-east": {
-      "job_count": 1,
-      "jobs": [
-        {
-          "id": "15532",
-          "title": "Trainee Lab Technician",
-          "url": "https://join.specsavers.com/uk/job/trainee-lab-technician-in-rustington-south-east-jid-15532",
-          "email_type": "trainee"
-        }
-      ]
-    },
-    "yardley-west-midlands": {
-      "job_count": 1,
-      "jobs": [
-        {
-          "id": "15524",
+          "id": "15555",
           "title": "Optical Assistant",
-          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-yardley-west-midlands-jid-15524",
+          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-guildford-south-east-jid-15555",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "oswestry-west-midlands": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "15547",
+          "title": "Assistant Manager",
+          "url": "https://join.specsavers.com/uk/job/assistant-manager-in-oswestry-west-midlands-jid-15547",
           "email_type": "standard"
         }
       ]
