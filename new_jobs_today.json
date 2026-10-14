@@ -1,59 +1,81 @@
 {
-  "date": "2026-10-13",
-  "total_new_jobs": 5,
-  "total_stores": 5,
+  "date": "2026-10-14",
+  "total_new_jobs": 7,
+  "total_stores": 7,
   "stores": {
-    "brentwood-east-england": {
+    "brighton-south-east": {
       "job_count": 1,
       "jobs": [
         {
-          "id": "15554",
-          "title": "Optical Assistant",
-          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-brentwood-east-england-jid-15554",
+          "id": "15557",
+          "title": "Audiology Practitioner",
+          "url": "https://join.specsavers.com/uk/job/audiology-practitioner-in-brighton-south-east-jid-15557",
           "email_type": "standard"
         }
       ]
     },
-    "cruises-street-ireland": {
+    "bury-north-west": {
       "job_count": 1,
       "jobs": [
         {
-          "id": "15546",
+          "id": "15556",
+          "title": "Dispensing Optician",
+          "url": "https://join.specsavers.com/uk/job/dispensing-optician-in-bury-north-west-jid-15556",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "crouch-end-greater-london": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "15560",
+          "title": "Optical Assistant",
+          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-crouch-end-greater-london-jid-15560",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "epsom-south-east": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "15558",
+          "title": "Patient Services Co-ordinator/Administrator",
+          "url": "https://join.specsavers.com/uk/job/patient-services-co-ordinator-administrator-in-epsom-south-east-jid-15558",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "marple-west": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "15559",
           "title": "Audiologist/Hearing Aid Dispenser",
-          "url": "https://join.specsavers.com/uk/job/audiologist-hearing-aid-dispenser-in-cruises-street-ireland-jid-15546",
+          "url": "https://join.specsavers.com/uk/job/audiologist-hearing-aid-dispenser-in-marple-west-jid-15559",
           "email_type": "standard"
         }
       ]
     },
-    "droitwich-west-midlands": {
+    "plymouth-south-west": {
       "job_count": 1,
       "jobs": [
         {
-          "id": "15541",
-          "title": "Administrator",
-          "url": "https://join.specsavers.com/uk/job/administrator-in-droitwich-west-midlands-jid-15541",
+          "id": "15563",
+          "title": "Dispensing Optician",
+          "url": "https://join.specsavers.com/uk/job/dispensing-optician-in-plymouth-south-west-jid-15563",
           "email_type": "standard"
         }
       ]
     },
-    "guildford-south-east": {
+    "watford-east-england": {
       "job_count": 1,
       "jobs": [
         {
-          "id": "15555",
-          "title": "Optical Assistant",
-          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-guildford-south-east-jid-15555",
-          "email_type": "standard"
-        }
-      ]
-    },
-    "oswestry-west-midlands": {
-      "job_count": 1,
-      "jobs": [
-        {
-          "id": "15547",
-          "title": "Assistant Manager",
-          "url": "https://join.specsavers.com/uk/job/assistant-manager-in-oswestry-west-midlands-jid-15547",
+          "id": "15565",
+          "title": "Trainee Audiology Practitioner",
+          "url": "https://join.specsavers.com/uk/job/trainee-audiology-practitioner-in-watford-east-england-jid-15565",
           "email_type": "standard"
         }
       ]
