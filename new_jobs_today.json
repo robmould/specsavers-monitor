@@ -1,81 +1,120 @@
 {
-  "date": "2026-10-14",
-  "total_new_jobs": 7,
-  "total_stores": 7,
+  "date": "2026-10-15",
+  "total_new_jobs": 11,
+  "total_stores": 10,
   "stores": {
-    "brighton-south-east": {
+    "belfast-northern-ireland": {
       "job_count": 1,
       "jobs": [
         {
-          "id": "15557",
-          "title": "Audiology Practitioner",
-          "url": "https://join.specsavers.com/uk/job/audiology-practitioner-in-brighton-south-east-jid-15557",
-          "email_type": "standard"
-        }
-      ]
-    },
-    "bury-north-west": {
-      "job_count": 1,
-      "jobs": [
-        {
-          "id": "15556",
+          "id": "15580",
           "title": "Dispensing Optician",
-          "url": "https://join.specsavers.com/uk/job/dispensing-optician-in-bury-north-west-jid-15556",
+          "url": "https://join.specsavers.com/uk/job/dispensing-optician-in-belfast-northern-ireland-jid-15580",
           "email_type": "standard"
         }
       ]
     },
-    "crouch-end-greater-london": {
+    "bloomsbury-greater-london": {
       "job_count": 1,
       "jobs": [
         {
-          "id": "15560",
+          "id": "15586",
+          "title": "Optometrist",
+          "url": "https://join.specsavers.com/uk/job/optometrist-in-bloomsbury-greater-london-jid-15586",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "leicester-east-midlands": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "15575",
+          "title": "Optometrist",
+          "url": "https://join.specsavers.com/uk/job/optometrist-in-leicester-east-midlands-jid-15575",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "loughton-greater-london": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "15572",
           "title": "Optical Assistant",
-          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-crouch-end-greater-london-jid-15560",
+          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-loughton-greater-london-jid-15572",
           "email_type": "standard"
         }
       ]
     },
-    "epsom-south-east": {
+    "motherwell-scotland": {
       "job_count": 1,
       "jobs": [
         {
-          "id": "15558",
-          "title": "Patient Services Co-ordinator/Administrator",
-          "url": "https://join.specsavers.com/uk/job/patient-services-co-ordinator-administrator-in-epsom-south-east-jid-15558",
+          "id": "15587",
+          "title": "Optometrist",
+          "url": "https://join.specsavers.com/uk/job/optometrist-in-motherwell-scotland-jid-15587",
           "email_type": "standard"
         }
       ]
     },
-    "marple-west": {
+    "salisbury-south": {
       "job_count": 1,
       "jobs": [
         {
-          "id": "15559",
+          "id": "15573",
+          "title": "Optometrist",
+          "url": "https://join.specsavers.com/uk/job/optometrist-in-salisbury-south-jid-15573",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "staines-south-east": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "15577",
+          "title": "Clinic Coordinator",
+          "url": "https://join.specsavers.com/uk/job/clinic-coordinator-in-staines-south-east-jid-15577",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "tenterden-south-east": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "15579",
           "title": "Audiologist/Hearing Aid Dispenser",
-          "url": "https://join.specsavers.com/uk/job/audiologist-hearing-aid-dispenser-in-marple-west-jid-15559",
+          "url": "https://join.specsavers.com/uk/job/audiologist-hearing-aid-dispenser-in-tenterden-south-east-jid-15579",
           "email_type": "standard"
         }
       ]
     },
-    "plymouth-south-west": {
-      "job_count": 1,
+    "wetherby-north-east": {
+      "job_count": 2,
       "jobs": [
         {
-          "id": "15563",
-          "title": "Dispensing Optician",
-          "url": "https://join.specsavers.com/uk/job/dispensing-optician-in-plymouth-south-west-jid-15563",
+          "id": "15578",
+          "title": "Optometrist",
+          "url": "https://join.specsavers.com/uk/job/optometrist-in-wetherby-north-east-jid-15578",
+          "email_type": "standard"
+        },
+        {
+          "id": "15585",
+          "title": "Lab Technician",
+          "url": "https://join.specsavers.com/uk/job/lab-technician-in-wetherby-north-east-jid-15585",
           "email_type": "standard"
         }
       ]
     },
-    "watford-east-england": {
+    "winsford-north-west": {
       "job_count": 1,
       "jobs": [
         {
-          "id": "15565",
-          "title": "Trainee Audiology Practitioner",
-          "url": "https://join.specsavers.com/uk/job/trainee-audiology-practitioner-in-watford-east-england-jid-15565",
+          "id": "15568",
+          "title": "Optical Assistant",
+          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-winsford-north-west-jid-15568",
           "email_type": "standard"
         }
       ]
