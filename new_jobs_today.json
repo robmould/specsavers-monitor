@@ -1,48 +1,131 @@
 {
-  "date": "2026-10-15",
-  "total_new_jobs": 11,
-  "total_stores": 10,
+  "date": "2026-10-16",
+  "total_new_jobs": 17,
+  "total_stores": 16,
   "stores": {
-    "belfast-northern-ireland": {
+    "alloa-scotland": {
       "job_count": 1,
       "jobs": [
         {
-          "id": "15580",
-          "title": "Dispensing Optician",
-          "url": "https://join.specsavers.com/uk/job/dispensing-optician-in-belfast-northern-ireland-jid-15580",
-          "email_type": "standard"
-        }
-      ]
-    },
-    "bloomsbury-greater-london": {
-      "job_count": 1,
-      "jobs": [
-        {
-          "id": "15586",
+          "id": "15606",
           "title": "Optometrist",
-          "url": "https://join.specsavers.com/uk/job/optometrist-in-bloomsbury-greater-london-jid-15586",
+          "url": "https://join.specsavers.com/uk/job/optometrist-in-alloa-scotland-jid-15606",
           "email_type": "standard"
         }
       ]
     },
-    "leicester-east-midlands": {
+    "ashington-north-east": {
       "job_count": 1,
       "jobs": [
         {
-          "id": "15575",
+          "id": "15617",
           "title": "Optometrist",
-          "url": "https://join.specsavers.com/uk/job/optometrist-in-leicester-east-midlands-jid-15575",
+          "url": "https://join.specsavers.com/uk/job/optometrist-in-ashington-north-east-jid-15617",
           "email_type": "standard"
         }
       ]
     },
-    "loughton-greater-london": {
+    "cleveleys-north-west": {
       "job_count": 1,
       "jobs": [
         {
-          "id": "15572",
+          "id": "15600",
+          "title": "NEW Hearing Aid Dispenser (Cleveleys)",
+          "url": "https://join.specsavers.com/uk/job/new-hearing-aid-dispenser-cleveleys-in-cleveleys-north-west-jid-15600",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "cruises-street-ireland": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "15613",
+          "title": "Audiologist/Hearing Aid Dispenser",
+          "url": "https://join.specsavers.com/uk/job/audiologist-hearing-aid-dispenser-in-cruises-street-ireland-jid-15613",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "crumlin-ireland": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "15612",
+          "title": "Optometrist",
+          "url": "https://join.specsavers.com/uk/job/optometrist-in-crumlin-ireland-jid-15612",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "enfield-greater-london": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "15601",
           "title": "Optical Assistant",
-          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-loughton-greater-london-jid-15572",
+          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-enfield-greater-london-jid-15601",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "hampton-greater-london": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "15603",
+          "title": "Optical Assistant",
+          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-hampton-greater-london-jid-15603",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "hounslow-greater-london": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "15602",
+          "title": "Optical Assistant",
+          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-hounslow-greater-london-jid-15602",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "islington-greater-london": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "15605",
+          "title": "Optical Assistant",
+          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-islington-greater-london-jid-15605",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "keynsham-south-west": {
+      "job_count": 2,
+      "jobs": [
+        {
+          "id": "15595",
+          "title": "Lab Technician",
+          "url": "https://join.specsavers.com/uk/job/lab-technician-in-keynsham-south-west-jid-15595",
+          "email_type": "standard"
+        },
+        {
+          "id": "15594",
+          "title": "Trainee Lab Technician",
+          "url": "https://join.specsavers.com/uk/job/trainee-lab-technician-in-keynsham-south-west-jid-15594",
+          "email_type": "trainee"
+        }
+      ]
+    },
+    "louth-east-midlands": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "15598",
+          "title": "Audiologist/Hearing Aid Dispenser",
+          "url": "https://join.specsavers.com/uk/job/audiologist-hearing-aid-dispenser-in-louth-east-midlands-jid-15598",
           "email_type": "standard"
         }
       ]
@@ -51,70 +134,53 @@
       "job_count": 1,
       "jobs": [
         {
-          "id": "15587",
-          "title": "Optometrist",
-          "url": "https://join.specsavers.com/uk/job/optometrist-in-motherwell-scotland-jid-15587",
-          "email_type": "standard"
-        }
-      ]
-    },
-    "salisbury-south": {
-      "job_count": 1,
-      "jobs": [
-        {
-          "id": "15573",
-          "title": "Optometrist",
-          "url": "https://join.specsavers.com/uk/job/optometrist-in-salisbury-south-jid-15573",
-          "email_type": "standard"
-        }
-      ]
-    },
-    "staines-south-east": {
-      "job_count": 1,
-      "jobs": [
-        {
-          "id": "15577",
-          "title": "Clinic Coordinator",
-          "url": "https://join.specsavers.com/uk/job/clinic-coordinator-in-staines-south-east-jid-15577",
-          "email_type": "standard"
-        }
-      ]
-    },
-    "tenterden-south-east": {
-      "job_count": 1,
-      "jobs": [
-        {
-          "id": "15579",
-          "title": "Audiologist/Hearing Aid Dispenser",
-          "url": "https://join.specsavers.com/uk/job/audiologist-hearing-aid-dispenser-in-tenterden-south-east-jid-15579",
-          "email_type": "standard"
-        }
-      ]
-    },
-    "wetherby-north-east": {
-      "job_count": 2,
-      "jobs": [
-        {
-          "id": "15578",
-          "title": "Optometrist",
-          "url": "https://join.specsavers.com/uk/job/optometrist-in-wetherby-north-east-jid-15578",
-          "email_type": "standard"
-        },
-        {
-          "id": "15585",
-          "title": "Lab Technician",
-          "url": "https://join.specsavers.com/uk/job/lab-technician-in-wetherby-north-east-jid-15585",
-          "email_type": "standard"
-        }
-      ]
-    },
-    "winsford-north-west": {
-      "job_count": 1,
-      "jobs": [
-        {
-          "id": "15568",
+          "id": "15607",
           "title": "Optical Assistant",
-          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-winsford-north-west-jid-15568",
+          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-motherwell-scotland-jid-15607",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "preston-north-west": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "15614",
+          "title": "In-Store Housekeeper",
+          "url": "https://join.specsavers.com/uk/job/in-store-housekeeper-in-preston-north-west-jid-15614",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "stratford-greater-london": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "15619",
+          "title": "Optometrist",
+          "url": "https://join.specsavers.com/uk/job/optometrist-in-stratford-greater-london-jid-15619",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "wednesbury-west-midlands": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "15597",
+          "title": "Home Visits Optical Assistant",
+          "url": "https://join.specsavers.com/uk/job/home-visits-optical-assistant-in-wednesbury-west-midlands-jid-15597",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "windsor-south": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "15608",
+          "title": "Supervisor",
+          "url": "https://join.specsavers.com/uk/job/supervisor-in-windsor-south-jid-15608",
           "email_type": "standard"
         }
       ]
