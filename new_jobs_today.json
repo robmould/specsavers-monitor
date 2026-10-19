@@ -1,131 +1,180 @@
 {
-  "date": "2026-10-16",
-  "total_new_jobs": 17,
-  "total_stores": 16,
+  "date": "2026-10-19",
+  "total_new_jobs": 29,
+  "total_stores": 27,
   "stores": {
-    "alloa-scotland": {
+    "bath-south-west": {
       "job_count": 1,
       "jobs": [
         {
-          "id": "15606",
+          "id": "15644",
+          "title": "Home Visits Optometrist",
+          "url": "https://join.specsavers.com/uk/job/home-visits-optometrist-in-bath-south-west-jid-15644",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "biggleswade-east-england": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "15629",
           "title": "Optometrist",
-          "url": "https://join.specsavers.com/uk/job/optometrist-in-alloa-scotland-jid-15606",
+          "url": "https://join.specsavers.com/uk/job/optometrist-in-biggleswade-east-england-jid-15629",
           "email_type": "standard"
         }
       ]
     },
-    "ashington-north-east": {
+    "boston-east-midlands": {
       "job_count": 1,
       "jobs": [
         {
-          "id": "15617",
-          "title": "Optometrist",
-          "url": "https://join.specsavers.com/uk/job/optometrist-in-ashington-north-east-jid-15617",
-          "email_type": "standard"
-        }
-      ]
-    },
-    "cleveleys-north-west": {
-      "job_count": 1,
-      "jobs": [
-        {
-          "id": "15600",
-          "title": "NEW Hearing Aid Dispenser (Cleveleys)",
-          "url": "https://join.specsavers.com/uk/job/new-hearing-aid-dispenser-cleveleys-in-cleveleys-north-west-jid-15600",
-          "email_type": "standard"
-        }
-      ]
-    },
-    "cruises-street-ireland": {
-      "job_count": 1,
-      "jobs": [
-        {
-          "id": "15613",
+          "id": "15654",
           "title": "Audiologist/Hearing Aid Dispenser",
-          "url": "https://join.specsavers.com/uk/job/audiologist-hearing-aid-dispenser-in-cruises-street-ireland-jid-15613",
+          "url": "https://join.specsavers.com/uk/job/audiologist-hearing-aid-dispenser-in-boston-east-midlands-jid-15654",
           "email_type": "standard"
         }
       ]
     },
-    "crumlin-ireland": {
+    "chepstow-wales": {
       "job_count": 1,
       "jobs": [
         {
-          "id": "15612",
+          "id": "15652",
+          "title": "Home Visits Optometrist",
+          "url": "https://join.specsavers.com/uk/job/home-visits-optometrist-in-chepstow-wales-jid-15652",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "chester-north-west": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "15634",
+          "title": "Domi OO Warrington",
+          "url": "https://join.specsavers.com/uk/job/domi-oo-warrington-in-chester-north-west-jid-15634",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "chippenham-south-west": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "15645",
+          "title": "Home Visits Optometrist",
+          "url": "https://join.specsavers.com/uk/job/home-visits-optometrist-in-chippenham-south-west-jid-15645",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "east-ham-greater-london": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "15653",
+          "title": "Audiologist/Hearing Aid Dispenser",
+          "url": "https://join.specsavers.com/uk/job/audiologist-hearing-aid-dispenser-in-east-ham-greater-london-jid-15653",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "elgin-scotland": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "15626",
           "title": "Optometrist",
-          "url": "https://join.specsavers.com/uk/job/optometrist-in-crumlin-ireland-jid-15612",
+          "url": "https://join.specsavers.com/uk/job/optometrist-in-elgin-scotland-jid-15626",
           "email_type": "standard"
         }
       ]
     },
-    "enfield-greater-london": {
+    "fallowfield-north-west": {
       "job_count": 1,
       "jobs": [
         {
-          "id": "15601",
-          "title": "Optical Assistant",
-          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-enfield-greater-london-jid-15601",
+          "id": "15638",
+          "title": "Dispensing Optician",
+          "url": "https://join.specsavers.com/uk/job/dispensing-optician-in-fallowfield-north-west-jid-15638",
           "email_type": "standard"
         }
       ]
     },
-    "hampton-greater-london": {
+    "gloucester-south": {
       "job_count": 1,
       "jobs": [
         {
-          "id": "15603",
-          "title": "Optical Assistant",
-          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-hampton-greater-london-jid-15603",
+          "id": "15643",
+          "title": "Home Visits Optometrist",
+          "url": "https://join.specsavers.com/uk/job/home-visits-optometrist-in-gloucester-south-jid-15643",
           "email_type": "standard"
         }
       ]
     },
-    "hounslow-greater-london": {
+    "hamilton-scotland": {
       "job_count": 1,
       "jobs": [
         {
-          "id": "15602",
-          "title": "Optical Assistant",
-          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-hounslow-greater-london-jid-15602",
-          "email_type": "standard"
-        }
-      ]
-    },
-    "islington-greater-london": {
-      "job_count": 1,
-      "jobs": [
-        {
-          "id": "15605",
-          "title": "Optical Assistant",
-          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-islington-greater-london-jid-15605",
-          "email_type": "standard"
-        }
-      ]
-    },
-    "keynsham-south-west": {
-      "job_count": 2,
-      "jobs": [
-        {
-          "id": "15595",
-          "title": "Lab Technician",
-          "url": "https://join.specsavers.com/uk/job/lab-technician-in-keynsham-south-west-jid-15595",
-          "email_type": "standard"
-        },
-        {
-          "id": "15594",
-          "title": "Trainee Lab Technician",
-          "url": "https://join.specsavers.com/uk/job/trainee-lab-technician-in-keynsham-south-west-jid-15594",
+          "id": "15628",
+          "title": "Trainee Optical Assistant",
+          "url": "https://join.specsavers.com/uk/job/trainee-optical-assistant-in-hamilton-scotland-jid-15628",
           "email_type": "trainee"
         }
       ]
     },
-    "louth-east-midlands": {
+    "hereford-west-midlands": {
       "job_count": 1,
       "jobs": [
         {
-          "id": "15598",
-          "title": "Audiologist/Hearing Aid Dispenser",
-          "url": "https://join.specsavers.com/uk/job/audiologist-hearing-aid-dispenser-in-louth-east-midlands-jid-15598",
+          "id": "15648",
+          "title": "Home Visits Optometrist",
+          "url": "https://join.specsavers.com/uk/job/home-visits-optometrist-in-hereford-west-midlands-jid-15648",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "herefordshire-west-midlands": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "15650",
+          "title": "Home Visits Optometrist",
+          "url": "https://join.specsavers.com/uk/job/home-visits-optometrist-in-herefordshire-west-midlands-jid-15650",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "kirkintilloch-scotland": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "15625",
+          "title": "Optometrist",
+          "url": "https://join.specsavers.com/uk/job/optometrist-in-kirkintilloch-scotland-jid-15625",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "leominster-west-midlands": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "15649",
+          "title": "Home Visits Optometrist",
+          "url": "https://join.specsavers.com/uk/job/home-visits-optometrist-in-leominster-west-midlands-jid-15649",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "monmouth-wales": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "15651",
+          "title": "Home Visits Optometrist",
+          "url": "https://join.specsavers.com/uk/job/home-visits-optometrist-in-monmouth-wales-jid-15651",
           "email_type": "standard"
         }
       ]
@@ -134,9 +183,31 @@
       "job_count": 1,
       "jobs": [
         {
-          "id": "15607",
+          "id": "15621",
           "title": "Optical Assistant",
-          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-motherwell-scotland-jid-15607",
+          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-motherwell-scotland-jid-15621",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "northwich-north-west": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "15637",
+          "title": "Domi OO Warrington",
+          "url": "https://join.specsavers.com/uk/job/domi-oo-warrington-in-northwich-north-west-jid-15637",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "porthcawl-wales": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "15642",
+          "title": "Optometrist",
+          "url": "https://join.specsavers.com/uk/job/optometrist-in-porthcawl-wales-jid-15642",
           "email_type": "standard"
         }
       ]
@@ -145,42 +216,98 @@
       "job_count": 1,
       "jobs": [
         {
-          "id": "15614",
+          "id": "15624",
           "title": "In-Store Housekeeper",
-          "url": "https://join.specsavers.com/uk/job/in-store-housekeeper-in-preston-north-west-jid-15614",
+          "url": "https://join.specsavers.com/uk/job/in-store-housekeeper-in-preston-north-west-jid-15624",
           "email_type": "standard"
         }
       ]
     },
-    "stratford-greater-london": {
+    "runcorn-north-west": {
       "job_count": 1,
       "jobs": [
         {
-          "id": "15619",
-          "title": "Optometrist",
-          "url": "https://join.specsavers.com/uk/job/optometrist-in-stratford-greater-london-jid-15619",
+          "id": "15635",
+          "title": "Domi OO Warrington",
+          "url": "https://join.specsavers.com/uk/job/domi-oo-warrington-in-runcorn-north-west-jid-15635",
           "email_type": "standard"
         }
       ]
     },
-    "wednesbury-west-midlands": {
+    "shirley-west-midlands": {
       "job_count": 1,
       "jobs": [
         {
-          "id": "15597",
-          "title": "Home Visits Optical Assistant",
-          "url": "https://join.specsavers.com/uk/job/home-visits-optical-assistant-in-wednesbury-west-midlands-jid-15597",
+          "id": "15622",
+          "title": "Optical Assistant",
+          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-shirley-west-midlands-jid-15622",
           "email_type": "standard"
         }
       ]
     },
-    "windsor-south": {
+    "sidcup-greater-london": {
+      "job_count": 2,
+      "jobs": [
+        {
+          "id": "15633",
+          "title": "Store Manager",
+          "url": "https://join.specsavers.com/uk/job/store-manager-in-sidcup-greater-london-jid-15633",
+          "email_type": "standard"
+        },
+        {
+          "id": "15630",
+          "title": "Optical Assistant",
+          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-sidcup-greater-london-jid-15630",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "southport-north-west": {
+      "job_count": 2,
+      "jobs": [
+        {
+          "id": "15641",
+          "title": "Trainee Optical Assistant",
+          "url": "https://join.specsavers.com/uk/job/trainee-optical-assistant-in-southport-north-west-jid-15641",
+          "email_type": "trainee"
+        },
+        {
+          "id": "15640",
+          "title": "Optical Assistant",
+          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-southport-north-west-jid-15640",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "swindon-south": {
       "job_count": 1,
       "jobs": [
         {
-          "id": "15608",
-          "title": "Supervisor",
-          "url": "https://join.specsavers.com/uk/job/supervisor-in-windsor-south-jid-15608",
+          "id": "15646",
+          "title": "Home Visits Optometrist",
+          "url": "https://join.specsavers.com/uk/job/home-visits-optometrist-in-swindon-south-jid-15646",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "wallasey-north-west": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "15636",
+          "title": "Domi OO Warrington",
+          "url": "https://join.specsavers.com/uk/job/domi-oo-warrington-in-wallasey-north-west-jid-15636",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "warrington-north-west": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "15631",
+          "title": "NEW Domi OO Warrington",
+          "url": "https://join.specsavers.com/uk/job/new-domi-oo-warrington-in-warrington-north-west-jid-15631",
           "email_type": "standard"
         }
       ]
