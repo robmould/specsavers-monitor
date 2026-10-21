@@ -1,131 +1,114 @@
 {
-  "date": "2026-10-20",
-  "total_new_jobs": 12,
-  "total_stores": 11,
+  "date": "2026-10-21",
+  "total_new_jobs": 10,
+  "total_stores": 10,
   "stores": {
-    "dudley-west-midlands": {
+    "borehamwood-greater-london": {
       "job_count": 1,
       "jobs": [
         {
-          "id": "15659",
-          "title": "Patient Flow & Pre-Testing Specialist",
-          "url": "https://join.specsavers.com/uk/job/patient-flow-and-pre-testing-specialist-in-dudley-west-midlands-jid-15659",
-          "email_type": "standard"
-        }
-      ]
-    },
-    "fallowfield-north-west": {
-      "job_count": 1,
-      "jobs": [
-        {
-          "id": "15664",
-          "title": "Assistant Store Manager",
-          "url": "https://join.specsavers.com/uk/job/assistant-store-manager-in-fallowfield-north-west-jid-15664",
-          "email_type": "standard"
-        }
-      ]
-    },
-    "hoddesdon-east-england": {
-      "job_count": 1,
-      "jobs": [
-        {
-          "id": "15682",
-          "title": "Assistant Store Manager",
-          "url": "https://join.specsavers.com/uk/job/assistant-store-manager-in-hoddesdon-east-england-jid-15682",
-          "email_type": "standard"
-        }
-      ]
-    },
-    "porthcawl-wales": {
-      "job_count": 1,
-      "jobs": [
-        {
-          "id": "15663",
+          "id": "15700",
           "title": "Optometrist",
-          "url": "https://join.specsavers.com/uk/job/optometrist-in-porthcawl-wales-jid-15663",
+          "url": "https://join.specsavers.com/uk/job/optometrist-in-borehamwood-greater-london-jid-15700",
           "email_type": "standard"
         }
       ]
     },
-    "selby-north-east": {
-      "job_count": 2,
+    "chingford-greater-london": {
+      "job_count": 1,
       "jobs": [
         {
-          "id": "15670",
-          "title": "Trainee Optical Assistant",
-          "url": "https://join.specsavers.com/uk/job/trainee-optical-assistant-in-selby-north-east-jid-15670",
-          "email_type": "trainee"
-        },
-        {
-          "id": "15669",
+          "id": "15690",
           "title": "Optical Assistant",
-          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-selby-north-east-jid-15669",
+          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-chingford-greater-london-jid-15690",
           "email_type": "standard"
         }
       ]
     },
-    "stoke-on-trent-west-midlands": {
+    "eltham-greater-london": {
       "job_count": 1,
       "jobs": [
         {
-          "id": "15672",
-          "title": "Trainee Lab/ Workshop Technician",
-          "url": "https://join.specsavers.com/uk/job/trainee-lab-workshop-technician-in-stoke-on-trent-west-midlands-jid-15672",
-          "email_type": "trainee"
+          "id": "15698",
+          "title": "Assistant Store Manager",
+          "url": "https://join.specsavers.com/uk/job/assistant-store-manager-in-eltham-greater-london-jid-15698",
+          "email_type": "standard"
         }
       ]
     },
-    "tewkesbury-west-midlands": {
+    "hayes-greater-london": {
       "job_count": 1,
       "jobs": [
         {
-          "id": "15677",
+          "id": "15701",
           "title": "Optometrist",
-          "url": "https://join.specsavers.com/uk/job/optometrist-in-tewkesbury-west-midlands-jid-15677",
+          "url": "https://join.specsavers.com/uk/job/optometrist-in-hayes-greater-london-jid-15701",
           "email_type": "standard"
         }
       ]
     },
-    "urmston-north-west": {
+    "lymington-south": {
       "job_count": 1,
       "jobs": [
         {
-          "id": "15679",
+          "id": "15694",
           "title": "Optical Assistant",
-          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-urmston-north-west-jid-15679",
+          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-lymington-south-jid-15694",
           "email_type": "standard"
         }
       ]
     },
-    "wandsworth-greater-london": {
+    "manchester-north-west": {
       "job_count": 1,
       "jobs": [
         {
-          "id": "15662",
+          "id": "15710",
           "title": "Optical Assistant",
-          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-wandsworth-greater-london-jid-15662",
+          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-manchester-north-west-jid-15710",
           "email_type": "standard"
         }
       ]
     },
-    "whitchurch-west-midlands": {
+    "middlesbrough-north-east": {
       "job_count": 1,
       "jobs": [
         {
-          "id": "15667",
-          "title": "Optical Assistant",
-          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-whitchurch-west-midlands-jid-15667",
+          "id": "15684",
+          "title": "Assistant Store Manager",
+          "url": "https://join.specsavers.com/uk/job/assistant-store-manager-in-middlesbrough-north-east-jid-15684",
           "email_type": "standard"
         }
       ]
     },
-    "wigan-north-west": {
+    "richmond-greater-london": {
       "job_count": 1,
       "jobs": [
         {
-          "id": "15660",
+          "id": "15692",
           "title": "Optical Assistant",
-          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-wigan-north-west-jid-15660",
+          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-richmond-greater-london-jid-15692",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "warrington-north-west": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "15703",
+          "title": "Home Visits Optical Assistant",
+          "url": "https://join.specsavers.com/uk/job/home-visits-optical-assistant-in-warrington-north-west-jid-15703",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "wimbledon-greater-london": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "15693",
+          "title": "Retail Supervisor",
+          "url": "https://join.specsavers.com/uk/job/retail-supervisor-in-wimbledon-greater-london-jid-15693",
           "email_type": "standard"
         }
       ]
