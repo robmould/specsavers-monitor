@@ -1,115 +1,144 @@
 {
-  "date": "2026-10-21",
-  "total_new_jobs": 10,
-  "total_stores": 10,
+  "date": "2026-10-22",
+  "total_new_jobs": 14,
+  "total_stores": 11,
   "stores": {
-    "borehamwood-greater-london": {
+    "bedford-east-england": {
       "job_count": 1,
       "jobs": [
         {
-          "id": "15700",
+          "id": "15724",
+          "title": "Trainee Audiology Practitioner",
+          "url": "https://join.specsavers.com/uk/job/trainee-audiology-practitioner-in-bedford-east-england-jid-15724",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "bishop-auckland-north-east": {
+      "job_count": 2,
+      "jobs": [
+        {
+          "id": "15736",
+          "title": "Optical Assistant",
+          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-bishop-auckland-north-east-jid-15736",
+          "email_type": "standard"
+        },
+        {
+          "id": "15735",
+          "title": "Trainee Optical Assistant",
+          "url": "https://join.specsavers.com/uk/job/trainee-optical-assistant-in-bishop-auckland-north-east-jid-15735",
+          "email_type": "trainee"
+        }
+      ]
+    },
+    "bognor-regis-south-east": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "15716",
+          "title": "Assistant Manager",
+          "url": "https://join.specsavers.com/uk/job/assistant-manager-in-bognor-regis-south-east-jid-15716",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "cannock-west-midlands": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "15737",
+          "title": "Optical Assistant",
+          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-cannock-west-midlands-jid-15737",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "chatham-south-east": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "15717",
+          "title": "Optical Lab Technician",
+          "url": "https://join.specsavers.com/uk/job/optical-lab-technician-in-chatham-south-east-jid-15717",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "cobham-south-east": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "15718",
+          "title": "Assistant Manager",
+          "url": "https://join.specsavers.com/uk/job/assistant-manager-in-cobham-south-east-jid-15718",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "daventry-east-midlands": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "15726",
+          "title": "Trainee Audiology Practitioner",
+          "url": "https://join.specsavers.com/uk/job/trainee-audiology-practitioner-in-daventry-east-midlands-jid-15726",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "liverpool-north-west": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "15725",
           "title": "Optometrist",
-          "url": "https://join.specsavers.com/uk/job/optometrist-in-borehamwood-greater-london-jid-15700",
+          "url": "https://join.specsavers.com/uk/job/optometrist-in-liverpool-north-west-jid-15725",
           "email_type": "standard"
         }
       ]
     },
-    "chingford-greater-london": {
+    "newbridge-ireland": {
       "job_count": 1,
       "jobs": [
         {
-          "id": "15690",
+          "id": "15720",
+          "title": "Assistant Manager",
+          "url": "https://join.specsavers.com/uk/job/assistant-manager-in-newbridge-ireland-jid-15720",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "walthamstow-greater-london": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "15729",
           "title": "Optical Assistant",
-          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-chingford-greater-london-jid-15690",
+          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-walthamstow-greater-london-jid-15729",
           "email_type": "standard"
         }
       ]
     },
-    "eltham-greater-london": {
-      "job_count": 1,
+    "york-north-east": {
+      "job_count": 3,
       "jobs": [
         {
-          "id": "15698",
-          "title": "Assistant Store Manager",
-          "url": "https://join.specsavers.com/uk/job/assistant-store-manager-in-eltham-greater-london-jid-15698",
+          "id": "15719",
+          "title": "Newly Qualified Optometrist",
+          "url": "https://join.specsavers.com/uk/job/newly-qualified-optometrist-in-york-north-east-jid-15719",
           "email_type": "standard"
-        }
-      ]
-    },
-    "hayes-greater-london": {
-      "job_count": 1,
-      "jobs": [
+        },
         {
-          "id": "15701",
-          "title": "Optometrist",
-          "url": "https://join.specsavers.com/uk/job/optometrist-in-hayes-greater-london-jid-15701",
-          "email_type": "standard"
-        }
-      ]
-    },
-    "lymington-south": {
-      "job_count": 1,
-      "jobs": [
-        {
-          "id": "15694",
+          "id": "15714",
           "title": "Optical Assistant",
-          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-lymington-south-jid-15694",
+          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-york-north-east-jid-15714",
           "email_type": "standard"
-        }
-      ]
-    },
-    "manchester-north-west": {
-      "job_count": 1,
-      "jobs": [
+        },
         {
-          "id": "15710",
-          "title": "Optical Assistant",
-          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-manchester-north-west-jid-15710",
-          "email_type": "standard"
-        }
-      ]
-    },
-    "middlesbrough-north-east": {
-      "job_count": 1,
-      "jobs": [
-        {
-          "id": "15684",
-          "title": "Assistant Store Manager",
-          "url": "https://join.specsavers.com/uk/job/assistant-store-manager-in-middlesbrough-north-east-jid-15684",
-          "email_type": "standard"
-        }
-      ]
-    },
-    "richmond-greater-london": {
-      "job_count": 1,
-      "jobs": [
-        {
-          "id": "15692",
-          "title": "Optical Assistant",
-          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-richmond-greater-london-jid-15692",
-          "email_type": "standard"
-        }
-      ]
-    },
-    "warrington-north-west": {
-      "job_count": 1,
-      "jobs": [
-        {
-          "id": "15703",
-          "title": "Home Visits Optical Assistant",
-          "url": "https://join.specsavers.com/uk/job/home-visits-optical-assistant-in-warrington-north-west-jid-15703",
-          "email_type": "standard"
-        }
-      ]
-    },
-    "wimbledon-greater-london": {
-      "job_count": 1,
-      "jobs": [
-        {
-          "id": "15693",
-          "title": "Retail Supervisor",
-          "url": "https://join.specsavers.com/uk/job/retail-supervisor-in-wimbledon-greater-london-jid-15693",
-          "email_type": "standard"
+          "id": "15713",
+          "title": "Trainee Optical Assistant",
+          "url": "https://join.specsavers.com/uk/job/trainee-optical-assistant-in-york-north-east-jid-15713",
+          "email_type": "trainee"
         }
       ]
     }
