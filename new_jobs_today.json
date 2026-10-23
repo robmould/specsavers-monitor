@@ -1,144 +1,159 @@
 {
-  "date": "2026-10-22",
+  "date": "2026-10-23",
   "total_new_jobs": 14,
-  "total_stores": 11,
+  "total_stores": 14,
   "stores": {
-    "bedford-east-england": {
+    "ballymena-northern-ireland": {
       "job_count": 1,
       "jobs": [
         {
-          "id": "15724",
-          "title": "Trainee Audiology Practitioner",
-          "url": "https://join.specsavers.com/uk/job/trainee-audiology-practitioner-in-bedford-east-england-jid-15724",
+          "id": "15757",
+          "title": "Home Visits Optical Assistant",
+          "url": "https://join.specsavers.com/uk/job/home-visits-optical-assistant-in-ballymena-northern-ireland-jid-15757",
           "email_type": "standard"
         }
       ]
     },
-    "bishop-auckland-north-east": {
-      "job_count": 2,
+    "bloxwich-west-midlands": {
+      "job_count": 1,
       "jobs": [
         {
-          "id": "15736",
+          "id": "15751",
+          "title": "Optical Assistant (Sat or Sun)",
+          "url": "https://join.specsavers.com/uk/job/optical-assistant-sat-or-sun-in-bloxwich-west-midlands-jid-15751",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "colchester-east-england": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "15754",
           "title": "Optical Assistant",
-          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-bishop-auckland-north-east-jid-15736",
-          "email_type": "standard"
-        },
-        {
-          "id": "15735",
-          "title": "Trainee Optical Assistant",
-          "url": "https://join.specsavers.com/uk/job/trainee-optical-assistant-in-bishop-auckland-north-east-jid-15735",
-          "email_type": "trainee"
-        }
-      ]
-    },
-    "bognor-regis-south-east": {
-      "job_count": 1,
-      "jobs": [
-        {
-          "id": "15716",
-          "title": "Assistant Manager",
-          "url": "https://join.specsavers.com/uk/job/assistant-manager-in-bognor-regis-south-east-jid-15716",
+          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-colchester-east-england-jid-15754",
           "email_type": "standard"
         }
       ]
     },
-    "cannock-west-midlands": {
+    "girlington-north-east": {
       "job_count": 1,
       "jobs": [
         {
-          "id": "15737",
-          "title": "Optical Assistant",
-          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-cannock-west-midlands-jid-15737",
+          "id": "15747",
+          "title": "Audiologist/Hearing Aid Dispenser",
+          "url": "https://join.specsavers.com/uk/job/audiologist-hearing-aid-dispenser-in-girlington-north-east-jid-15747",
           "email_type": "standard"
         }
       ]
     },
-    "chatham-south-east": {
+    "glasgow-scotland": {
       "job_count": 1,
       "jobs": [
         {
-          "id": "15717",
+          "id": "15756",
           "title": "Optical Lab Technician",
-          "url": "https://join.specsavers.com/uk/job/optical-lab-technician-in-chatham-south-east-jid-15717",
+          "url": "https://join.specsavers.com/uk/job/optical-lab-technician-in-glasgow-scotland-jid-15756",
           "email_type": "standard"
         }
       ]
     },
-    "cobham-south-east": {
+    "guildford-south-east": {
       "job_count": 1,
       "jobs": [
         {
-          "id": "15718",
-          "title": "Assistant Manager",
-          "url": "https://join.specsavers.com/uk/job/assistant-manager-in-cobham-south-east-jid-15718",
+          "id": "15738",
+          "title": "Team Leader / Supervisor",
+          "url": "https://join.specsavers.com/uk/job/team-leader-supervisor-in-guildford-south-east-jid-15738",
           "email_type": "standard"
         }
       ]
     },
-    "daventry-east-midlands": {
+    "harborne-west-midlands": {
       "job_count": 1,
       "jobs": [
         {
-          "id": "15726",
+          "id": "15755",
           "title": "Trainee Audiology Practitioner",
-          "url": "https://join.specsavers.com/uk/job/trainee-audiology-practitioner-in-daventry-east-midlands-jid-15726",
+          "url": "https://join.specsavers.com/uk/job/trainee-audiology-practitioner-in-harborne-west-midlands-jid-15755",
           "email_type": "standard"
         }
       ]
     },
-    "liverpool-north-west": {
+    "killingworth-north-east": {
       "job_count": 1,
       "jobs": [
         {
-          "id": "15725",
-          "title": "Optometrist",
-          "url": "https://join.specsavers.com/uk/job/optometrist-in-liverpool-north-west-jid-15725",
-          "email_type": "standard"
-        }
-      ]
-    },
-    "newbridge-ireland": {
-      "job_count": 1,
-      "jobs": [
-        {
-          "id": "15720",
-          "title": "Assistant Manager",
-          "url": "https://join.specsavers.com/uk/job/assistant-manager-in-newbridge-ireland-jid-15720",
-          "email_type": "standard"
-        }
-      ]
-    },
-    "walthamstow-greater-london": {
-      "job_count": 1,
-      "jobs": [
-        {
-          "id": "15729",
+          "id": "15748",
           "title": "Optical Assistant",
-          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-walthamstow-greater-london-jid-15729",
+          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-killingworth-north-east-jid-15748",
           "email_type": "standard"
         }
       ]
     },
-    "york-north-east": {
-      "job_count": 3,
+    "london-greater-london": {
+      "job_count": 1,
       "jobs": [
         {
-          "id": "15719",
-          "title": "Newly Qualified Optometrist",
-          "url": "https://join.specsavers.com/uk/job/newly-qualified-optometrist-in-york-north-east-jid-15719",
-          "email_type": "standard"
-        },
-        {
-          "id": "15714",
+          "id": "15742",
           "title": "Optical Assistant",
-          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-york-north-east-jid-15714",
+          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-london-greater-london-jid-15742",
           "email_type": "standard"
-        },
+        }
+      ]
+    },
+    "maldon-east-england": {
+      "job_count": 1,
+      "jobs": [
         {
-          "id": "15713",
-          "title": "Trainee Optical Assistant",
-          "url": "https://join.specsavers.com/uk/job/trainee-optical-assistant-in-york-north-east-jid-15713",
+          "id": "15739",
+          "title": "Supervisor",
+          "url": "https://join.specsavers.com/uk/job/supervisor-in-maldon-east-england-jid-15739",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "mold-wales": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "15745",
+          "title": "Optical Assistant",
+          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-mold-wales-jid-15745",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "south-woodham-ferrers-east-england": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "15758",
+          "title": "Dispensing Optician",
+          "url": "https://join.specsavers.com/uk/job/dispensing-optician-in-south-woodham-ferrers-east-england-jid-15758",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "swadlincote-west-midlands": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "15750",
+          "title": "Trainee Lab Technician",
+          "url": "https://join.specsavers.com/uk/job/trainee-lab-technician-in-swadlincote-west-midlands-jid-15750",
           "email_type": "trainee"
+        }
+      ]
+    },
+    "telford-west-midlands": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "15753",
+          "title": "Contact Lens Assistant",
+          "url": "https://join.specsavers.com/uk/job/contact-lens-assistant-in-telford-west-midlands-jid-15753",
+          "email_type": "standard"
         }
       ]
     }
