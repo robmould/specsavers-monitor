@@ -1,158 +1,191 @@
 {
-  "date": "2026-10-23",
-  "total_new_jobs": 14,
-  "total_stores": 14,
+  "date": "2026-10-26",
+  "total_new_jobs": 17,
+  "total_stores": 17,
   "stores": {
-    "ballymena-northern-ireland": {
+    "bridgwater-south-west": {
       "job_count": 1,
       "jobs": [
         {
-          "id": "15757",
-          "title": "Home Visits Optical Assistant",
-          "url": "https://join.specsavers.com/uk/job/home-visits-optical-assistant-in-ballymena-northern-ireland-jid-15757",
+          "id": "15776",
+          "title": "Optometrist",
+          "url": "https://join.specsavers.com/uk/job/optometrist-in-bridgwater-south-west-jid-15776",
           "email_type": "standard"
         }
       ]
     },
-    "bloxwich-west-midlands": {
+    "camborne-south-west": {
       "job_count": 1,
       "jobs": [
         {
-          "id": "15751",
-          "title": "Optical Assistant (Sat or Sun)",
-          "url": "https://join.specsavers.com/uk/job/optical-assistant-sat-or-sun-in-bloxwich-west-midlands-jid-15751",
+          "id": "15780",
+          "title": "Optometrist",
+          "url": "https://join.specsavers.com/uk/job/optometrist-in-camborne-south-west-jid-15780",
           "email_type": "standard"
         }
       ]
     },
-    "colchester-east-england": {
+    "croydon-greater-london": {
       "job_count": 1,
       "jobs": [
         {
-          "id": "15754",
+          "id": "15770",
+          "title": "Audiology Practitioner",
+          "url": "https://join.specsavers.com/uk/job/audiology-practitioner-in-croydon-greater-london-jid-15770",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "dumfries-scotland": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "15785",
+          "title": "Optometrist",
+          "url": "https://join.specsavers.com/uk/job/optometrist-in-dumfries-scotland-jid-15785",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "edinburgh-scotland": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "15784",
           "title": "Optical Assistant",
-          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-colchester-east-england-jid-15754",
+          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-edinburgh-scotland-jid-15784",
           "email_type": "standard"
         }
       ]
     },
-    "girlington-north-east": {
+    "exeter-south-west": {
       "job_count": 1,
       "jobs": [
         {
-          "id": "15747",
-          "title": "Audiologist/Hearing Aid Dispenser",
-          "url": "https://join.specsavers.com/uk/job/audiologist-hearing-aid-dispenser-in-girlington-north-east-jid-15747",
+          "id": "15771",
+          "title": "Optometrist",
+          "url": "https://join.specsavers.com/uk/job/optometrist-in-exeter-south-west-jid-15771",
           "email_type": "standard"
         }
       ]
     },
-    "glasgow-scotland": {
+    "gravesend-south-east": {
       "job_count": 1,
       "jobs": [
         {
-          "id": "15756",
-          "title": "Optical Lab Technician",
-          "url": "https://join.specsavers.com/uk/job/optical-lab-technician-in-glasgow-scotland-jid-15756",
+          "id": "15786",
+          "title": "Contact Lens Optician",
+          "url": "https://join.specsavers.com/uk/job/contact-lens-optician-in-gravesend-south-east-jid-15786",
           "email_type": "standard"
         }
       ]
     },
-    "guildford-south-east": {
+    "high-wycombe-south": {
       "job_count": 1,
       "jobs": [
         {
-          "id": "15738",
-          "title": "Team Leader / Supervisor",
-          "url": "https://join.specsavers.com/uk/job/team-leader-supervisor-in-guildford-south-east-jid-15738",
+          "id": "15769",
+          "title": "Optometrist",
+          "url": "https://join.specsavers.com/uk/job/optometrist-in-high-wycombe-south-jid-15769",
           "email_type": "standard"
         }
       ]
     },
-    "harborne-west-midlands": {
+    "honiton-south-west": {
       "job_count": 1,
       "jobs": [
         {
-          "id": "15755",
-          "title": "Trainee Audiology Practitioner",
-          "url": "https://join.specsavers.com/uk/job/trainee-audiology-practitioner-in-harborne-west-midlands-jid-15755",
+          "id": "15778",
+          "title": "Optometrist",
+          "url": "https://join.specsavers.com/uk/job/optometrist-in-honiton-south-west-jid-15778",
           "email_type": "standard"
         }
       ]
     },
-    "killingworth-north-east": {
+    "redruth-south-west": {
       "job_count": 1,
       "jobs": [
         {
-          "id": "15748",
-          "title": "Optical Assistant",
-          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-killingworth-north-east-jid-15748",
+          "id": "15774",
+          "title": "Optometrist",
+          "url": "https://join.specsavers.com/uk/job/optometrist-in-redruth-south-west-jid-15774",
           "email_type": "standard"
         }
       ]
     },
-    "london-greater-london": {
+    "ringwood-south": {
       "job_count": 1,
       "jobs": [
         {
-          "id": "15742",
-          "title": "Optical Assistant",
-          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-london-greater-london-jid-15742",
+          "id": "15775",
+          "title": "Optometrist",
+          "url": "https://join.specsavers.com/uk/job/optometrist-in-ringwood-south-jid-15775",
           "email_type": "standard"
         }
       ]
     },
-    "maldon-east-england": {
+    "saltash-south-west": {
       "job_count": 1,
       "jobs": [
         {
-          "id": "15739",
-          "title": "Supervisor",
-          "url": "https://join.specsavers.com/uk/job/supervisor-in-maldon-east-england-jid-15739",
-          "email_type": "standard"
-        }
-      ]
-    },
-    "mold-wales": {
-      "job_count": 1,
-      "jobs": [
-        {
-          "id": "15745",
-          "title": "Optical Assistant",
-          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-mold-wales-jid-15745",
-          "email_type": "standard"
-        }
-      ]
-    },
-    "south-woodham-ferrers-east-england": {
-      "job_count": 1,
-      "jobs": [
-        {
-          "id": "15758",
+          "id": "15782",
           "title": "Dispensing Optician",
-          "url": "https://join.specsavers.com/uk/job/dispensing-optician-in-south-woodham-ferrers-east-england-jid-15758",
+          "url": "https://join.specsavers.com/uk/job/dispensing-optician-in-saltash-south-west-jid-15782",
           "email_type": "standard"
         }
       ]
     },
-    "swadlincote-west-midlands": {
+    "taunton-south-west": {
       "job_count": 1,
       "jobs": [
         {
-          "id": "15750",
-          "title": "Trainee Lab Technician",
-          "url": "https://join.specsavers.com/uk/job/trainee-lab-technician-in-swadlincote-west-midlands-jid-15750",
-          "email_type": "trainee"
+          "id": "15777",
+          "title": "Optometrist",
+          "url": "https://join.specsavers.com/uk/job/optometrist-in-taunton-south-west-jid-15777",
+          "email_type": "standard"
         }
       ]
     },
-    "telford-west-midlands": {
+    "torbay-south-west": {
       "job_count": 1,
       "jobs": [
         {
-          "id": "15753",
-          "title": "Contact Lens Assistant",
-          "url": "https://join.specsavers.com/uk/job/contact-lens-assistant-in-telford-west-midlands-jid-15753",
+          "id": "15772",
+          "title": "Optometrist",
+          "url": "https://join.specsavers.com/uk/job/optometrist-in-torbay-south-west-jid-15772",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "tring-east-england": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "15767",
+          "title": "Dispensing Optician",
+          "url": "https://join.specsavers.com/uk/job/dispensing-optician-in-tring-east-england-jid-15767",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "truro-south-west": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "15773",
+          "title": "Optometrist",
+          "url": "https://join.specsavers.com/uk/job/optometrist-in-truro-south-west-jid-15773",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "weston-super-mare-south-west": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "15779",
+          "title": "Optometrist",
+          "url": "https://join.specsavers.com/uk/job/optometrist-in-weston-super-mare-south-west-jid-15779",
           "email_type": "standard"
         }
       ]
