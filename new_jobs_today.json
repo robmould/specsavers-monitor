@@ -1,192 +1,158 @@
 {
-  "date": "2026-10-27",
-  "total_new_jobs": 18,
-  "total_stores": 16,
+  "date": "2026-10-28",
+  "total_new_jobs": 14,
+  "total_stores": 14,
   "stores": {
-    "barkingside-greater-london": {
+    "bathgate-scotland": {
       "job_count": 1,
       "jobs": [
         {
-          "id": "15793",
+          "id": "15860",
           "title": "Optical Assistant",
-          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-barkingside-greater-london-jid-15793",
+          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-bathgate-scotland-jid-15860",
           "email_type": "standard"
         }
       ]
     },
-    "bedminster-south-west": {
+    "beccles-east-england": {
       "job_count": 1,
       "jobs": [
         {
-          "id": "15799",
+          "id": "15844",
+          "title": "Home Visits Optometrist",
+          "url": "https://join.specsavers.com/uk/job/home-visits-optometrist-in-beccles-east-england-jid-15844",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "brighton-south-east": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "15864",
+          "title": "Store Manager",
+          "url": "https://join.specsavers.com/uk/job/store-manager-in-brighton-south-east-jid-15864",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "dalkeith-scotland": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "15852",
+          "title": "Domiciliary Dispensing Optician",
+          "url": "https://join.specsavers.com/uk/job/domiciliary-dispensing-optician-in-dalkeith-scotland-jid-15852",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "east-dereham-east-england": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "15843",
+          "title": "Home Visits Optometrist",
+          "url": "https://join.specsavers.com/uk/job/home-visits-optometrist-in-east-dereham-east-england-jid-15843",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "edinburgh-scotland": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "15854",
+          "title": "Domiciliary Dispensing Optician",
+          "url": "https://join.specsavers.com/uk/job/domiciliary-dispensing-optician-in-edinburgh-scotland-jid-15854",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "galashiels-scotland": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "15853",
+          "title": "Domiciliary Dispensing Optician",
+          "url": "https://join.specsavers.com/uk/job/domiciliary-dispensing-optician-in-galashiels-scotland-jid-15853",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "great-yarmouth-east-england": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "15845",
+          "title": "Home Visits Optometrist",
+          "url": "https://join.specsavers.com/uk/job/home-visits-optometrist-in-great-yarmouth-east-england-jid-15845",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "haddington-scotland": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "15851",
+          "title": "Domiciliary Dispensing Optician",
+          "url": "https://join.specsavers.com/uk/job/domiciliary-dispensing-optician-in-haddington-scotland-jid-15851",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "hastings-south-east": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "15868",
           "title": "Optical Assistant",
-          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-bedminster-south-west-jid-15799",
+          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-hastings-south-east-jid-15868",
           "email_type": "standard"
         }
       ]
     },
-    "belfast-northern-ireland": {
+    "loanhead-scotland": {
       "job_count": 1,
       "jobs": [
         {
-          "id": "15806",
-          "title": "Lab Technician",
-          "url": "https://join.specsavers.com/uk/job/lab-technician-in-belfast-northern-ireland-jid-15806",
+          "id": "15850",
+          "title": "Domiciliary Dispensing Optician",
+          "url": "https://join.specsavers.com/uk/job/domiciliary-dispensing-optician-in-loanhead-scotland-jid-15850",
           "email_type": "standard"
         }
       ]
     },
-    "bristol-south-west": {
-      "job_count": 2,
-      "jobs": [
-        {
-          "id": "15796",
-          "title": "Supervisor",
-          "url": "https://join.specsavers.com/uk/job/supervisor-in-bristol-south-west-jid-15796",
-          "email_type": "standard"
-        },
-        {
-          "id": "15795",
-          "title": "Optical Assistant",
-          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-bristol-south-west-jid-15795",
-          "email_type": "standard"
-        }
-      ]
-    },
-    "chesterfield-east-midlands": {
+    "north-walsham-east-england": {
       "job_count": 1,
       "jobs": [
         {
-          "id": "15803",
-          "title": "Full or Part Time Audiology Practitioner Chesterfield",
-          "url": "https://join.specsavers.com/uk/job/full-or-part-time-audiology-practitioner-chesterfield-in-chesterfield-east-midlands-jid-15803",
-          "email_type": "standard"
-        }
-      ]
-    },
-    "cottingham-north-east": {
-      "job_count": 1,
-      "jobs": [
-        {
-          "id": "15811",
-          "title": "Weekend Trainee Optical Assistant",
-          "url": "https://join.specsavers.com/uk/job/weekend-trainee-optical-assistant-in-cottingham-north-east-jid-15811",
-          "email_type": "trainee"
-        }
-      ]
-    },
-    "crumlin-ireland": {
-      "job_count": 1,
-      "jobs": [
-        {
-          "id": "15808",
-          "title": "Assistant Manager",
-          "url": "https://join.specsavers.com/uk/job/assistant-manager-in-crumlin-ireland-jid-15808",
-          "email_type": "standard"
-        }
-      ]
-    },
-    "dunfermline-scotland": {
-      "job_count": 2,
-      "jobs": [
-        {
-          "id": "15815",
+          "id": "15842",
           "title": "Home Visits Optometrist",
-          "url": "https://join.specsavers.com/uk/job/home-visits-optometrist-in-dunfermline-scotland-jid-15815",
-          "email_type": "standard"
-        },
-        {
-          "id": "15794",
-          "title": "Clinical Supervisor",
-          "url": "https://join.specsavers.com/uk/job/clinical-supervisor-in-dunfermline-scotland-jid-15794",
+          "url": "https://join.specsavers.com/uk/job/home-visits-optometrist-in-north-walsham-east-england-jid-15842",
           "email_type": "standard"
         }
       ]
     },
-    "glenrothes-scotland": {
+    "norwich-east-england": {
       "job_count": 1,
       "jobs": [
         {
-          "id": "15814",
+          "id": "15841",
           "title": "Home Visits Optometrist",
-          "url": "https://join.specsavers.com/uk/job/home-visits-optometrist-in-glenrothes-scotland-jid-15814",
+          "url": "https://join.specsavers.com/uk/job/home-visits-optometrist-in-norwich-east-england-jid-15841",
           "email_type": "standard"
         }
       ]
     },
-    "hull-north-east": {
+    "stratford-greater-london": {
       "job_count": 1,
       "jobs": [
         {
-          "id": "15810",
-          "title": "Weekend Trainee Optical Assistant",
-          "url": "https://join.specsavers.com/uk/job/weekend-trainee-optical-assistant-in-hull-north-east-jid-15810",
-          "email_type": "trainee"
-        }
-      ]
-    },
-    "kingston-upon-hull-east-riding-of-yorkshire": {
-      "job_count": 1,
-      "jobs": [
-        {
-          "id": "15809",
-          "title": "Weekend Trainee Optical Assistant",
-          "url": "https://join.specsavers.com/uk/job/weekend-trainee-optical-assistant-in-kingston-upon-hull-east-riding-of-yorkshire-jid-15809",
-          "email_type": "trainee"
-        }
-      ]
-    },
-    "lancing-south-east": {
-      "job_count": 1,
-      "jobs": [
-        {
-          "id": "15801",
-          "title": "Domiciliary Optical Assistant",
-          "url": "https://join.specsavers.com/uk/job/domiciliary-optical-assistant-in-lancing-south-east-jid-15801",
-          "email_type": "standard"
-        }
-      ]
-    },
-    "manchester-north-west": {
-      "job_count": 1,
-      "jobs": [
-        {
-          "id": "15819",
-          "title": "Hearing Aid Dispenser",
-          "url": "https://join.specsavers.com/uk/job/hearing-aid-dispenser-in-manchester-north-west-jid-15819",
-          "email_type": "standard"
-        }
-      ]
-    },
-    "royal-wootton-bassett-south": {
-      "job_count": 1,
-      "jobs": [
-        {
-          "id": "15802",
-          "title": "Dispensing Optician Store Manager",
-          "url": "https://join.specsavers.com/uk/job/dispensing-optician-store-manager-in-royal-wootton-bassett-south-jid-15802",
-          "email_type": "standard"
-        }
-      ]
-    },
-    "st-andrews-scotland": {
-      "job_count": 1,
-      "jobs": [
-        {
-          "id": "15816",
-          "title": "Home Visits Optometrist",
-          "url": "https://join.specsavers.com/uk/job/home-visits-optometrist-in-st-andrews-scotland-jid-15816",
-          "email_type": "standard"
-        }
-      ]
-    },
-    "wednesbury-west-midlands": {
-      "job_count": 1,
-      "jobs": [
-        {
-          "id": "15823",
-          "title": "Home Visits Optical Assistant",
-          "url": "https://join.specsavers.com/uk/job/home-visits-optical-assistant-in-wednesbury-west-midlands-jid-15823",
+          "id": "15862",
+          "title": "Store Manager",
+          "url": "https://join.specsavers.com/uk/job/store-manager-in-stratford-greater-london-jid-15862",
           "email_type": "standard"
         }
       ]
