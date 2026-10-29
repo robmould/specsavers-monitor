@@ -1,26 +1,26 @@
 {
-  "date": "2026-10-28",
-  "total_new_jobs": 14,
-  "total_stores": 14,
+  "date": "2026-10-29",
+  "total_new_jobs": 23,
+  "total_stores": 23,
   "stores": {
-    "bathgate-scotland": {
+    "bournemouth-south-west": {
       "job_count": 1,
       "jobs": [
         {
-          "id": "15860",
-          "title": "Optical Assistant",
-          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-bathgate-scotland-jid-15860",
+          "id": "15900",
+          "title": "Domiciliary Optometrist",
+          "url": "https://join.specsavers.com/uk/job/domiciliary-optometrist-in-bournemouth-south-west-jid-15900",
           "email_type": "standard"
         }
       ]
     },
-    "beccles-east-england": {
+    "bridgwater-south-west": {
       "job_count": 1,
       "jobs": [
         {
-          "id": "15844",
-          "title": "Home Visits Optometrist",
-          "url": "https://join.specsavers.com/uk/job/home-visits-optometrist-in-beccles-east-england-jid-15844",
+          "id": "15910",
+          "title": "Supervisor",
+          "url": "https://join.specsavers.com/uk/job/supervisor-in-bridgwater-south-west-jid-15910",
           "email_type": "standard"
         }
       ]
@@ -29,130 +29,229 @@
       "job_count": 1,
       "jobs": [
         {
-          "id": "15864",
-          "title": "Store Manager",
-          "url": "https://join.specsavers.com/uk/job/store-manager-in-brighton-south-east-jid-15864",
+          "id": "15905",
+          "title": "Domiciliary Optometrist",
+          "url": "https://join.specsavers.com/uk/job/domiciliary-optometrist-in-brighton-south-east-jid-15905",
           "email_type": "standard"
         }
       ]
     },
-    "dalkeith-scotland": {
+    "caerphilly-wales": {
       "job_count": 1,
       "jobs": [
         {
-          "id": "15852",
-          "title": "Domiciliary Dispensing Optician",
-          "url": "https://join.specsavers.com/uk/job/domiciliary-dispensing-optician-in-dalkeith-scotland-jid-15852",
+          "id": "15895",
+          "title": "Domiciliary Optometrist",
+          "url": "https://join.specsavers.com/uk/job/domiciliary-optometrist-in-caerphilly-wales-jid-15895",
           "email_type": "standard"
         }
       ]
     },
-    "east-dereham-east-england": {
+    "carmarthen-wales": {
       "job_count": 1,
       "jobs": [
         {
-          "id": "15843",
-          "title": "Home Visits Optometrist",
-          "url": "https://join.specsavers.com/uk/job/home-visits-optometrist-in-east-dereham-east-england-jid-15843",
+          "id": "15898",
+          "title": "Domiciliary Optometrist",
+          "url": "https://join.specsavers.com/uk/job/domiciliary-optometrist-in-carmarthen-wales-jid-15898",
           "email_type": "standard"
         }
       ]
     },
-    "edinburgh-scotland": {
+    "chard-south-west": {
       "job_count": 1,
       "jobs": [
         {
-          "id": "15854",
-          "title": "Domiciliary Dispensing Optician",
-          "url": "https://join.specsavers.com/uk/job/domiciliary-dispensing-optician-in-edinburgh-scotland-jid-15854",
+          "id": "9254",
+          "title": "Optometrist",
+          "url": "https://join.specsavers.com/uk/job/optometrist-in-chard-south-west-jid-9254",
           "email_type": "standard"
         }
       ]
     },
-    "galashiels-scotland": {
+    "cockermouth-north": {
       "job_count": 1,
       "jobs": [
         {
-          "id": "15853",
-          "title": "Domiciliary Dispensing Optician",
-          "url": "https://join.specsavers.com/uk/job/domiciliary-dispensing-optician-in-galashiels-scotland-jid-15853",
+          "id": "15893",
+          "title": "Optometrist",
+          "url": "https://join.specsavers.com/uk/job/optometrist-in-cockermouth-north-jid-15893",
           "email_type": "standard"
         }
       ]
     },
-    "great-yarmouth-east-england": {
+    "dereham-east-england": {
       "job_count": 1,
       "jobs": [
         {
-          "id": "15845",
-          "title": "Home Visits Optometrist",
-          "url": "https://join.specsavers.com/uk/job/home-visits-optometrist-in-great-yarmouth-east-england-jid-15845",
+          "id": "15909",
+          "title": "Part Time Domiciliary Optical Assistant",
+          "url": "https://join.specsavers.com/uk/job/part-time-domiciliary-optical-assistant-in-dereham-east-england-jid-15909",
           "email_type": "standard"
         }
       ]
     },
-    "haddington-scotland": {
+    "east-riding-north-east": {
       "job_count": 1,
       "jobs": [
         {
-          "id": "15851",
-          "title": "Domiciliary Dispensing Optician",
-          "url": "https://join.specsavers.com/uk/job/domiciliary-dispensing-optician-in-haddington-scotland-jid-15851",
+          "id": "15907",
+          "title": "Domiciliary Optometrist",
+          "url": "https://join.specsavers.com/uk/job/domiciliary-optometrist-in-east-riding-north-east-jid-15907",
           "email_type": "standard"
         }
       ]
     },
-    "hastings-south-east": {
+    "eastbourne-south-east": {
       "job_count": 1,
       "jobs": [
         {
-          "id": "15868",
+          "id": "15904",
+          "title": "Domiciliary Optometrist",
+          "url": "https://join.specsavers.com/uk/job/domiciliary-optometrist-in-eastbourne-south-east-jid-15904",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "flint-wales": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "15892",
+          "title": "Clinical Supervisor",
+          "url": "https://join.specsavers.com/uk/job/clinical-supervisor-in-flint-wales-jid-15892",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "girlington-north-east": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "15891",
+          "title": "Trainee Audiology Practitioner Bradford",
+          "url": "https://join.specsavers.com/uk/job/trainee-audiology-practitioner-bradford-in-girlington-north-east-jid-15891",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "kingston-upon-hull-east-riding-of-yorkshire": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "15906",
+          "title": "Domiciliary Optometrist",
+          "url": "https://join.specsavers.com/uk/job/domiciliary-optometrist-in-kingston-upon-hull-east-riding-of-yorkshire-jid-15906",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "leicester-east-midlands": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "15912",
+          "title": "Optometrist",
+          "url": "https://join.specsavers.com/uk/job/optometrist-in-leicester-east-midlands-jid-15912",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "leyland-north-west": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "15887",
+          "title": "Dispensing Optician",
+          "url": "https://join.specsavers.com/uk/job/dispensing-optician-in-leyland-north-west-jid-15887",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "llanelli-wales": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "15896",
+          "title": "Domiciliary Optometrist",
+          "url": "https://join.specsavers.com/uk/job/domiciliary-optometrist-in-llanelli-wales-jid-15896",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "newmarket-east-england": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "15908",
           "title": "Optical Assistant",
-          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-hastings-south-east-jid-15868",
+          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-newmarket-east-england-jid-15908",
           "email_type": "standard"
         }
       ]
     },
-    "loanhead-scotland": {
+    "pembroke-dock-wales": {
       "job_count": 1,
       "jobs": [
         {
-          "id": "15850",
-          "title": "Domiciliary Dispensing Optician",
-          "url": "https://join.specsavers.com/uk/job/domiciliary-dispensing-optician-in-loanhead-scotland-jid-15850",
+          "id": "15899",
+          "title": "Domiciliary Optometrist",
+          "url": "https://join.specsavers.com/uk/job/domiciliary-optometrist-in-pembroke-dock-wales-jid-15899",
           "email_type": "standard"
         }
       ]
     },
-    "north-walsham-east-england": {
+    "royston-east-england": {
       "job_count": 1,
       "jobs": [
         {
-          "id": "15842",
-          "title": "Home Visits Optometrist",
-          "url": "https://join.specsavers.com/uk/job/home-visits-optometrist-in-north-walsham-east-england-jid-15842",
+          "id": "15888",
+          "title": "Optical Assistant",
+          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-royston-east-england-jid-15888",
           "email_type": "standard"
         }
       ]
     },
-    "norwich-east-england": {
+    "salisbury-south": {
       "job_count": 1,
       "jobs": [
         {
-          "id": "15841",
-          "title": "Home Visits Optometrist",
-          "url": "https://join.specsavers.com/uk/job/home-visits-optometrist-in-norwich-east-england-jid-15841",
+          "id": "15901",
+          "title": "Domiciliary Optometrist",
+          "url": "https://join.specsavers.com/uk/job/domiciliary-optometrist-in-salisbury-south-jid-15901",
           "email_type": "standard"
         }
       ]
     },
-    "stratford-greater-london": {
+    "swansea-wales": {
       "job_count": 1,
       "jobs": [
         {
-          "id": "15862",
-          "title": "Store Manager",
-          "url": "https://join.specsavers.com/uk/job/store-manager-in-stratford-greater-london-jid-15862",
+          "id": "15897",
+          "title": "Domiciliary Optometrist",
+          "url": "https://join.specsavers.com/uk/job/domiciliary-optometrist-in-swansea-wales-jid-15897",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "warminster-south": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "15902",
+          "title": "Domiciliary Optometrist",
+          "url": "https://join.specsavers.com/uk/job/domiciliary-optometrist-in-warminster-south-jid-15902",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "weymouth-south-west": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "15903",
+          "title": "Domiciliary Optometrist",
+          "url": "https://join.specsavers.com/uk/job/domiciliary-optometrist-in-weymouth-south-west-jid-15903",
           "email_type": "standard"
         }
       ]
