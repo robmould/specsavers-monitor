@@ -1,15 +1,70 @@
 {
-  "date": "2026-10-30",
-  "total_new_jobs": 8,
-  "total_stores": 8,
+  "date": "2026-11-02",
+  "total_new_jobs": 34,
+  "total_stores": 33,
   "stores": {
-    "basildon-east-england": {
+    "ashton-under-lyne-north-west": {
       "job_count": 1,
       "jobs": [
         {
-          "id": "15928",
-          "title": "Trainee Audiology Practitioner",
-          "url": "https://join.specsavers.com/uk/job/trainee-audiology-practitioner-in-basildon-east-england-jid-15928",
+          "id": "15958",
+          "title": "Lab Technician",
+          "url": "https://join.specsavers.com/uk/job/lab-technician-in-ashton-under-lyne-north-west-jid-15958",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "billericay-east-england": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "15987",
+          "title": "Dispensing Optician",
+          "url": "https://join.specsavers.com/uk/job/dispensing-optician-in-billericay-east-england-jid-15987",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "bilston-west-midlands": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "15966",
+          "title": "Optical Assistant",
+          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-bilston-west-midlands-jid-15966",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "bishopbriggs-scotland": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "15954",
+          "title": "Optometrist",
+          "url": "https://join.specsavers.com/uk/job/optometrist-in-bishopbriggs-scotland-jid-15954",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "bridgwater-south-west": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "15965",
+          "title": "Dispensing Optician",
+          "url": "https://join.specsavers.com/uk/job/dispensing-optician-in-bridgwater-south-west-jid-15965",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "canterbury-south-east": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "15947",
+          "title": "Audiologist/Hearing Aid Dispenser",
+          "url": "https://join.specsavers.com/uk/job/audiologist-hearing-aid-dispenser-in-canterbury-south-east-jid-15947",
           "email_type": "standard"
         }
       ]
@@ -18,76 +73,302 @@
       "job_count": 1,
       "jobs": [
         {
-          "id": "15931",
+          "id": "15963",
           "title": "Optical Assistant",
-          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-carmarthen-wales-jid-15931",
+          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-carmarthen-wales-jid-15963",
           "email_type": "standard"
         }
       ]
     },
-    "catford-greater-london": {
+    "chatham-south-east": {
       "job_count": 1,
       "jobs": [
         {
-          "id": "15927",
-          "title": "Optical Assistant",
-          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-catford-greater-london-jid-15927",
-          "email_type": "standard"
-        }
-      ]
-    },
-    "grantham-east-midlands": {
-      "job_count": 1,
-      "jobs": [
-        {
-          "id": "15923",
-          "title": "Home Visits Optical Assistant",
-          "url": "https://join.specsavers.com/uk/job/home-visits-optical-assistant-in-grantham-east-midlands-jid-15923",
-          "email_type": "standard"
-        }
-      ]
-    },
-    "holmfirth-north": {
-      "job_count": 1,
-      "jobs": [
-        {
-          "id": "15937",
-          "title": "Optical Assistant",
-          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-holmfirth-north-jid-15937",
-          "email_type": "standard"
-        }
-      ]
-    },
-    "kingston-upon-thames-greater-london": {
-      "job_count": 1,
-      "jobs": [
-        {
-          "id": "15930",
+          "id": "15948",
           "title": "Audiologist/Hearing Aid Dispenser",
-          "url": "https://join.specsavers.com/uk/job/audiologist-hearing-aid-dispenser-in-kingston-upon-thames-greater-london-jid-15930",
+          "url": "https://join.specsavers.com/uk/job/audiologist-hearing-aid-dispenser-in-chatham-south-east-jid-15948",
           "email_type": "standard"
         }
       ]
     },
-    "lewisham-greater-london": {
+    "chelmsford-east-england": {
       "job_count": 1,
       "jobs": [
         {
-          "id": "15929",
-          "title": "Optical Assistant",
-          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-lewisham-greater-london-jid-15929",
+          "id": "15985",
+          "title": "Contact Lens Optician",
+          "url": "https://join.specsavers.com/uk/job/contact-lens-optician-in-chelmsford-east-england-jid-15985",
           "email_type": "standard"
         }
       ]
     },
-    "strabane-northern-ireland": {
+    "chippenham-south-west": {
       "job_count": 1,
       "jobs": [
         {
-          "id": "15946",
+          "id": "15974",
+          "title": "Audiologist/Hearing Aid Dispenser",
+          "url": "https://join.specsavers.com/uk/job/audiologist-hearing-aid-dispenser-in-chippenham-south-west-jid-15974",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "colchester-east-england": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "15986",
+          "title": "Contact Lens Optician",
+          "url": "https://join.specsavers.com/uk/job/contact-lens-optician-in-colchester-east-england-jid-15986",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "cosham-south": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "15959",
+          "title": "Dispensing Optician",
+          "url": "https://join.specsavers.com/uk/job/dispensing-optician-in-cosham-south-jid-15959",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "dundee-scotland": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "15955",
           "title": "Optometrist",
-          "url": "https://join.specsavers.com/uk/job/optometrist-in-strabane-northern-ireland-jid-15946",
+          "url": "https://join.specsavers.com/uk/job/optometrist-in-dundee-scotland-jid-15955",
           "email_type": "standard"
+        }
+      ]
+    },
+    "flint-wales": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "15962",
+          "title": "Clinical Coordinator",
+          "url": "https://join.specsavers.com/uk/job/clinical-coordinator-in-flint-wales-jid-15962",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "glasgow-scotland": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "15975",
+          "title": "Audiologist/Hearing Aid Dispenser",
+          "url": "https://join.specsavers.com/uk/job/audiologist-hearing-aid-dispenser-in-glasgow-scotland-jid-15975",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "guildford-south-east": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "15976",
+          "title": "Audiologist/Hearing Aid Dispenser",
+          "url": "https://join.specsavers.com/uk/job/audiologist-hearing-aid-dispenser-in-guildford-south-east-jid-15976",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "hartlepool-north-east": {
+      "job_count": 2,
+      "jobs": [
+        {
+          "id": "15981",
+          "title": "Trainee Optical Assistant",
+          "url": "https://join.specsavers.com/uk/job/trainee-optical-assistant-in-hartlepool-north-east-jid-15981",
+          "email_type": "trainee"
+        },
+        {
+          "id": "15980",
+          "title": "Optical Assistant",
+          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-hartlepool-north-east-jid-15980",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "newport-pagnell-east-england": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "15988",
+          "title": "Dispensing Optician",
+          "url": "https://join.specsavers.com/uk/job/dispensing-optician-in-newport-pagnell-east-england-jid-15988",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "newport-wales": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "15964",
+          "title": "Trainee Audiology Practitioner / Clinic Administrator",
+          "url": "https://join.specsavers.com/uk/job/trainee-audiology-practitioner-clinic-administrator-in-newport-wales-jid-15964",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "paisley-scotland": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "15972",
+          "title": "Optical Assistant",
+          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-paisley-scotland-jid-15972",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "perth-scotland": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "15956",
+          "title": "Dispensing Optician/Trainee CLO",
+          "url": "https://join.specsavers.com/uk/job/dispensing-optician-trainee-clo-in-perth-scotland-jid-15956",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "quedgeley-west": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "15952",
+          "title": "Scheduler/Administrator (Audiology)",
+          "url": "https://join.specsavers.com/uk/job/scheduler-administrator-audiology-in-quedgeley-west-jid-15952",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "rawtenstall-west": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "15967",
+          "title": "Optical Assistant",
+          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-rawtenstall-west-jid-15967",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "redhill-south-east": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "15977",
+          "title": "Audiologist/Hearing Aid Dispenser",
+          "url": "https://join.specsavers.com/uk/job/audiologist-hearing-aid-dispenser-in-redhill-south-east-jid-15977",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "sevenoaks-south-east": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "15978",
+          "title": "Audiologist/Hearing Aid Dispenser",
+          "url": "https://join.specsavers.com/uk/job/audiologist-hearing-aid-dispenser-in-sevenoaks-south-east-jid-15978",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "sheffield-north-east": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "15953",
+          "title": "Hearcare Administrator",
+          "url": "https://join.specsavers.com/uk/job/hearcare-administrator-in-sheffield-north-east-jid-15953",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "staines-south-east": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "15979",
+          "title": "Audiologist/Hearing Aid Dispenser",
+          "url": "https://join.specsavers.com/uk/job/audiologist-hearing-aid-dispenser-in-staines-south-east-jid-15979",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "tenterden-south-east": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "15982",
+          "title": "Audiologist/Hearing Aid Dispenser",
+          "url": "https://join.specsavers.com/uk/job/audiologist-hearing-aid-dispenser-in-tenterden-south-east-jid-15982",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "tiverton-south-west": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "15983",
+          "title": "Audiologist/Hearing Aid Dispenser",
+          "url": "https://join.specsavers.com/uk/job/audiologist-hearing-aid-dispenser-in-tiverton-south-west-jid-15983",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "tonbridge-south-east": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "15949",
+          "title": "Audiologist/Hearing Aid Dispenser",
+          "url": "https://join.specsavers.com/uk/job/audiologist-hearing-aid-dispenser-in-tonbridge-south-east-jid-15949",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "tunbridge-wells-south-east": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "15950",
+          "title": "Audiologist/Hearing Aid Dispenser",
+          "url": "https://join.specsavers.com/uk/job/audiologist-hearing-aid-dispenser-in-tunbridge-wells-south-east-jid-15950",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "whiteley-south": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "15960",
+          "title": "Dispensing Optician",
+          "url": "https://join.specsavers.com/uk/job/dispensing-optician-in-whiteley-south-jid-15960",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "york-north-east": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "15973",
+          "title": "Trainee Optical Assistant",
+          "url": "https://join.specsavers.com/uk/job/trainee-optical-assistant-in-york-north-east-jid-15973",
+          "email_type": "trainee"
         }
       ]
     }
