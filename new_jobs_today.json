@@ -1,180 +1,70 @@
 {
-  "date": "2026-11-09",
-  "total_new_jobs": 28,
-  "total_stores": 28,
+  "date": "2026-11-10",
+  "total_new_jobs": 13,
+  "total_stores": 11,
   "stores": {
-    "bath-south-west": {
+    "abingdon-south": {
       "job_count": 1,
       "jobs": [
         {
-          "id": "16142",
-          "title": "Home Visits Optical Assistant",
-          "url": "https://join.specsavers.com/uk/job/home-visits-optical-assistant-in-bath-south-west-jid-16142",
-          "email_type": "standard"
-        }
-      ]
-    },
-    "bathgate-scotland": {
-      "job_count": 1,
-      "jobs": [
-        {
-          "id": "16165",
+          "id": "16175",
           "title": "Optical Assistant",
-          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-bathgate-scotland-jid-16165",
+          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-abingdon-south-jid-16175",
           "email_type": "standard"
         }
       ]
     },
-    "billingshurst-south-east": {
+    "ballymena-northern-ireland": {
       "job_count": 1,
       "jobs": [
         {
-          "id": "16125",
-          "title": "Trainee Domiciliary Optical Assistant",
-          "url": "https://join.specsavers.com/uk/job/trainee-domiciliary-optical-assistant-in-billingshurst-south-east-jid-16125",
-          "email_type": "standard"
-        }
-      ]
-    },
-    "bristol-south-west": {
-      "job_count": 1,
-      "jobs": [
-        {
-          "id": "16138",
+          "id": "16167",
           "title": "Home Visits Optical Assistant",
-          "url": "https://join.specsavers.com/uk/job/home-visits-optical-assistant-in-bristol-south-west-jid-16138",
+          "url": "https://join.specsavers.com/uk/job/home-visits-optical-assistant-in-ballymena-northern-ireland-jid-16167",
           "email_type": "standard"
         }
       ]
     },
-    "bromley-london": {
+    "boston-east-midlands": {
       "job_count": 1,
       "jobs": [
         {
-          "id": "16119",
-          "title": "Trainee Domiciliary Optical Assistant",
-          "url": "https://join.specsavers.com/uk/job/trainee-domiciliary-optical-assistant-in-bromley-london-jid-16119",
-          "email_type": "standard"
-        }
-      ]
-    },
-    "cirencester-south-west": {
-      "job_count": 1,
-      "jobs": [
-        {
-          "id": "16139",
-          "title": "Home Visits Optical Assistant",
-          "url": "https://join.specsavers.com/uk/job/home-visits-optical-assistant-in-cirencester-south-west-jid-16139",
-          "email_type": "standard"
-        }
-      ]
-    },
-    "cobham-south-east": {
-      "job_count": 1,
-      "jobs": [
-        {
-          "id": "16148",
-          "title": "Domiciliary Optical Assistant",
-          "url": "https://join.specsavers.com/uk/job/domiciliary-optical-assistant-in-cobham-south-east-jid-16148",
-          "email_type": "standard"
-        }
-      ]
-    },
-    "colchester-east-england": {
-      "job_count": 1,
-      "jobs": [
-        {
-          "id": "16134",
-          "title": "Optical Assistant",
-          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-colchester-east-england-jid-16134",
-          "email_type": "standard"
-        }
-      ]
-    },
-    "dorking-south-east": {
-      "job_count": 1,
-      "jobs": [
-        {
-          "id": "16124",
-          "title": "Trainee Domiciliary Optical Assistant",
-          "url": "https://join.specsavers.com/uk/job/trainee-domiciliary-optical-assistant-in-dorking-south-east-jid-16124",
-          "email_type": "standard"
-        }
-      ]
-    },
-    "east-grinstead-south-east": {
-      "job_count": 1,
-      "jobs": [
-        {
-          "id": "16127",
-          "title": "Trainee Domiciliary Optical Assistant",
-          "url": "https://join.specsavers.com/uk/job/trainee-domiciliary-optical-assistant-in-east-grinstead-south-east-jid-16127",
-          "email_type": "standard"
-        }
-      ]
-    },
-    "farnham-south-east": {
-      "job_count": 1,
-      "jobs": [
-        {
-          "id": "16123",
-          "title": "Trainee Domiciliary Optical Assistant",
-          "url": "https://join.specsavers.com/uk/job/trainee-domiciliary-optical-assistant-in-farnham-south-east-jid-16123",
-          "email_type": "standard"
-        }
-      ]
-    },
-    "guildford-south-east": {
-      "job_count": 1,
-      "jobs": [
-        {
-          "id": "16122",
-          "title": "Trainee Domiciliary Optical Assistant",
-          "url": "https://join.specsavers.com/uk/job/trainee-domiciliary-optical-assistant-in-guildford-south-east-jid-16122",
-          "email_type": "standard"
-        }
-      ]
-    },
-    "haywards-heath-south-east": {
-      "job_count": 1,
-      "jobs": [
-        {
-          "id": "16126",
-          "title": "Trainee Domiciliary Optical Assistant",
-          "url": "https://join.specsavers.com/uk/job/trainee-domiciliary-optical-assistant-in-haywards-heath-south-east-jid-16126",
-          "email_type": "standard"
-        }
-      ]
-    },
-    "hounslow-greater-london": {
-      "job_count": 1,
-      "jobs": [
-        {
-          "id": "16166",
+          "id": "16182",
           "title": "Audiologist/Hearing Aid Dispenser",
-          "url": "https://join.specsavers.com/uk/job/audiologist-hearing-aid-dispenser-in-hounslow-greater-london-jid-16166",
+          "url": "https://join.specsavers.com/uk/job/audiologist-hearing-aid-dispenser-in-boston-east-midlands-jid-16182",
           "email_type": "standard"
         }
       ]
     },
-    "kendal-north-west": {
+    "cookstown-northern-ireland": {
       "job_count": 1,
       "jobs": [
         {
-          "id": "16153",
-          "title": "Optical Assistant",
-          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-kendal-north-west-jid-16153",
+          "id": "16172",
+          "title": "Home Visits Optical Assistant",
+          "url": "https://join.specsavers.com/uk/job/home-visits-optical-assistant-in-cookstown-northern-ireland-jid-16172",
           "email_type": "standard"
         }
       ]
     },
-    "kingston-upon-thames-greater-london": {
+    "dhy-varren-northern-ireland": {
       "job_count": 1,
       "jobs": [
         {
-          "id": "16156",
-          "title": "Frames Order Administrator",
-          "url": "https://join.specsavers.com/uk/job/frames-order-administrator-in-kingston-upon-thames-greater-london-jid-16156",
+          "id": "16168",
+          "title": "Home Visits Optical Assistant",
+          "url": "https://join.specsavers.com/uk/job/home-visits-optical-assistant-in-dhy-varren-northern-ireland-jid-16168",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "enniskillen-northern-ireland": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "16169",
+          "title": "Home Visits Optical Assistant",
+          "url": "https://join.specsavers.com/uk/job/home-visits-optical-assistant-in-enniskillen-northern-ireland-jid-16169",
           "email_type": "standard"
         }
       ]
@@ -183,130 +73,65 @@
       "job_count": 1,
       "jobs": [
         {
-          "id": "16128",
-          "title": "Optical Assistant",
-          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-lisburn-northern-ireland-jid-16128",
+          "id": "16178",
+          "title": "Audiologist/Hearing Aid Dispenser",
+          "url": "https://join.specsavers.com/uk/job/audiologist-hearing-aid-dispenser-in-lisburn-northern-ireland-jid-16178",
           "email_type": "standard"
         }
       ]
     },
-    "marlborough-south-west": {
+    "londonderry-northern-ireland": {
       "job_count": 1,
       "jobs": [
         {
-          "id": "16144",
+          "id": "16170",
           "title": "Home Visits Optical Assistant",
-          "url": "https://join.specsavers.com/uk/job/home-visits-optical-assistant-in-marlborough-south-west-jid-16144",
+          "url": "https://join.specsavers.com/uk/job/home-visits-optical-assistant-in-londonderry-northern-ireland-jid-16170",
           "email_type": "standard"
         }
       ]
     },
-    "nottingham-east-midlands": {
+    "mold-wales": {
       "job_count": 1,
       "jobs": [
         {
-          "id": "16133",
+          "id": "16180",
+          "title": "Administrator & Scheduler",
+          "url": "https://join.specsavers.com/uk/job/administrator-and-scheduler-in-mold-wales-jid-16180",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "omagh-northern-ireland": {
+      "job_count": 3,
+      "jobs": [
+        {
+          "id": "16171",
           "title": "Home Visits Optical Assistant",
-          "url": "https://join.specsavers.com/uk/job/home-visits-optical-assistant-in-nottingham-east-midlands-jid-16133",
+          "url": "https://join.specsavers.com/uk/job/home-visits-optical-assistant-in-omagh-northern-ireland-jid-16171",
+          "email_type": "standard"
+        },
+        {
+          "id": "16189",
+          "title": "Assistant Manager",
+          "url": "https://join.specsavers.com/uk/job/assistant-manager-in-omagh-northern-ireland-jid-16189",
+          "email_type": "standard"
+        },
+        {
+          "id": "16188",
+          "title": "Administration Assistant",
+          "url": "https://join.specsavers.com/uk/job/administration-assistant-in-omagh-northern-ireland-jid-16188",
           "email_type": "standard"
         }
       ]
     },
-    "petersfield-south-east": {
+    "reading-south": {
       "job_count": 1,
       "jobs": [
         {
-          "id": "16121",
-          "title": "Trainee Domiciliary Optical Assistant",
-          "url": "https://join.specsavers.com/uk/job/trainee-domiciliary-optical-assistant-in-petersfield-south-east-jid-16121",
-          "email_type": "standard"
-        }
-      ]
-    },
-    "shifnal-west-midlands": {
-      "job_count": 1,
-      "jobs": [
-        {
-          "id": "16150",
-          "title": "Optometrist",
-          "url": "https://join.specsavers.com/uk/job/optometrist-in-shifnal-west-midlands-jid-16150",
-          "email_type": "standard"
-        }
-      ]
-    },
-    "skelmersdale-north-west": {
-      "job_count": 1,
-      "jobs": [
-        {
-          "id": "16162",
-          "title": "Optical Assistant",
-          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-skelmersdale-north-west-jid-16162",
-          "email_type": "standard"
-        }
-      ]
-    },
-    "swindon-south-west": {
-      "job_count": 1,
-      "jobs": [
-        {
-          "id": "16143",
-          "title": "Home Visits Optical Assistant",
-          "url": "https://join.specsavers.com/uk/job/home-visits-optical-assistant-in-swindon-south-west-jid-16143",
-          "email_type": "standard"
-        }
-      ]
-    },
-    "tetbury-south-west": {
-      "job_count": 1,
-      "jobs": [
-        {
-          "id": "16140",
-          "title": "Home Visits Optical Assistant",
-          "url": "https://join.specsavers.com/uk/job/home-visits-optical-assistant-in-tetbury-south-west-jid-16140",
-          "email_type": "standard"
-        }
-      ]
-    },
-    "trowbridge-south": {
-      "job_count": 1,
-      "jobs": [
-        {
-          "id": "16136",
-          "title": "Home Visits Optical Assistant",
-          "url": "https://join.specsavers.com/uk/job/home-visits-optical-assistant-in-trowbridge-south-jid-16136",
-          "email_type": "standard"
-        }
-      ]
-    },
-    "west-bridgford-east-midlands": {
-      "job_count": 1,
-      "jobs": [
-        {
-          "id": "16152",
-          "title": "Optometrist",
-          "url": "https://join.specsavers.com/uk/job/optometrist-in-west-bridgford-east-midlands-jid-16152",
-          "email_type": "standard"
-        }
-      ]
-    },
-    "weston-super-mare-south-west": {
-      "job_count": 1,
-      "jobs": [
-        {
-          "id": "16141",
-          "title": "Home Visits Optical Assistant",
-          "url": "https://join.specsavers.com/uk/job/home-visits-optical-assistant-in-weston-super-mare-south-west-jid-16141",
-          "email_type": "standard"
-        }
-      ]
-    },
-    "woolwich-london": {
-      "job_count": 1,
-      "jobs": [
-        {
-          "id": "16120",
-          "title": "Trainee Domiciliary Optical Assistant",
-          "url": "https://join.specsavers.com/uk/job/trainee-domiciliary-optical-assistant-in-woolwich-london-jid-16120",
+          "id": "16173",
+          "title": "Store Manager",
+          "url": "https://join.specsavers.com/uk/job/store-manager-in-reading-south-jid-16173",
           "email_type": "standard"
         }
       ]
