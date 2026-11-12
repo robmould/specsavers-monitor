@@ -1,48 +1,65 @@
 {
-  "date": "2026-11-11",
-  "total_new_jobs": 4,
-  "total_stores": 4,
+  "date": "2026-11-12",
+  "total_new_jobs": 6,
+  "total_stores": 5,
   "stores": {
-    "abergavenny-wales": {
+    "hinckley-east-central": {
       "job_count": 1,
       "jobs": [
         {
-          "id": "16194",
-          "title": "Optical Assistant",
-          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-abergavenny-wales-jid-16194",
+          "id": "16218",
+          "title": "Hearing Aid Dispenser",
+          "url": "https://join.specsavers.com/uk/job/hearing-aid-dispenser-in-hinckley-east-central-jid-16218",
           "email_type": "standard"
         }
       ]
     },
-    "bray-ireland": {
+    "holmfirth-north": {
       "job_count": 1,
       "jobs": [
         {
-          "id": "16202",
-          "title": "Administrator",
-          "url": "https://join.specsavers.com/uk/job/administrator-in-bray-ireland-jid-16202",
+          "id": "16213",
+          "title": "Trainee Optical Assistant",
+          "url": "https://join.specsavers.com/uk/job/trainee-optical-assistant-in-holmfirth-north-jid-16213",
+          "email_type": "trainee"
+        }
+      ]
+    },
+    "honiton-south-west": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "16211",
+          "title": "Dispensing Optician",
+          "url": "https://join.specsavers.com/uk/job/dispensing-optician-in-honiton-south-west-jid-16211",
           "email_type": "standard"
         }
       ]
     },
-    "eccles-north-west": {
-      "job_count": 1,
+    "leeds-north-east": {
+      "job_count": 2,
       "jobs": [
         {
-          "id": "16200",
+          "id": "16224",
           "title": "Optical Assistant",
-          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-eccles-north-west-jid-16200",
+          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-leeds-north-east-jid-16224",
           "email_type": "standard"
+        },
+        {
+          "id": "16223",
+          "title": "Trainee Optical Assistant",
+          "url": "https://join.specsavers.com/uk/job/trainee-optical-assistant-in-leeds-north-east-jid-16223",
+          "email_type": "trainee"
         }
       ]
     },
-    "stratford-greater-london": {
+    "leicester-east-midlands": {
       "job_count": 1,
       "jobs": [
         {
-          "id": "16191",
-          "title": "Optical Assistant",
-          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-stratford-greater-london-jid-16191",
+          "id": "16210",
+          "title": "Optometrist",
+          "url": "https://join.specsavers.com/uk/job/optometrist-in-leicester-east-midlands-jid-16210",
           "email_type": "standard"
         }
       ]
