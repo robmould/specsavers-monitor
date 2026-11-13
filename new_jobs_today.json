@@ -1,65 +1,70 @@
 {
-  "date": "2026-11-12",
+  "date": "2026-11-13",
   "total_new_jobs": 6,
-  "total_stores": 5,
+  "total_stores": 6,
   "stores": {
-    "hinckley-east-central": {
+    "coulby-newham-north-east": {
       "job_count": 1,
       "jobs": [
         {
-          "id": "16218",
-          "title": "Hearing Aid Dispenser",
-          "url": "https://join.specsavers.com/uk/job/hearing-aid-dispenser-in-hinckley-east-central-jid-16218",
-          "email_type": "standard"
-        }
-      ]
-    },
-    "holmfirth-north": {
-      "job_count": 1,
-      "jobs": [
-        {
-          "id": "16213",
-          "title": "Trainee Optical Assistant",
-          "url": "https://join.specsavers.com/uk/job/trainee-optical-assistant-in-holmfirth-north-jid-16213",
-          "email_type": "trainee"
-        }
-      ]
-    },
-    "honiton-south-west": {
-      "job_count": 1,
-      "jobs": [
-        {
-          "id": "16211",
-          "title": "Dispensing Optician",
-          "url": "https://join.specsavers.com/uk/job/dispensing-optician-in-honiton-south-west-jid-16211",
-          "email_type": "standard"
-        }
-      ]
-    },
-    "leeds-north-east": {
-      "job_count": 2,
-      "jobs": [
-        {
-          "id": "16224",
-          "title": "Optical Assistant",
-          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-leeds-north-east-jid-16224",
-          "email_type": "standard"
-        },
-        {
-          "id": "16223",
-          "title": "Trainee Optical Assistant",
-          "url": "https://join.specsavers.com/uk/job/trainee-optical-assistant-in-leeds-north-east-jid-16223",
-          "email_type": "trainee"
-        }
-      ]
-    },
-    "leicester-east-midlands": {
-      "job_count": 1,
-      "jobs": [
-        {
-          "id": "16210",
+          "id": "3320",
           "title": "Optometrist",
-          "url": "https://join.specsavers.com/uk/job/optometrist-in-leicester-east-midlands-jid-16210",
+          "url": "https://join.specsavers.com/uk/job/optometrist-in-coulby-newham-north-east-jid-3320",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "dumbarton-scotland": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "16231",
+          "title": "Dispensing Optician",
+          "url": "https://join.specsavers.com/uk/job/dispensing-optician-in-dumbarton-scotland-jid-16231",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "farnborough-south": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "16230",
+          "title": "Dispensing Optician",
+          "url": "https://join.specsavers.com/uk/job/dispensing-optician-in-farnborough-south-jid-16230",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "hoddesdon-east-england": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "16228",
+          "title": "Assistant Store Manager",
+          "url": "https://join.specsavers.com/uk/job/assistant-store-manager-in-hoddesdon-east-england-jid-16228",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "maidenhead-south": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "16226",
+          "title": "Optometrist",
+          "url": "https://join.specsavers.com/uk/job/optometrist-in-maidenhead-south-jid-16226",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "royal-wootton-bassett-south": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "16227",
+          "title": "Dispensing Optician",
+          "url": "https://join.specsavers.com/uk/job/dispensing-optician-in-royal-wootton-bassett-south-jid-16227",
           "email_type": "standard"
         }
       ]
