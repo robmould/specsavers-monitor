@@ -1,76 +1,132 @@
 {
-  "date": "2026-11-16",
-  "total_new_jobs": 7,
-  "total_stores": 6,
+  "date": "2026-11-17",
+  "total_new_jobs": 13,
+  "total_stores": 10,
   "stores": {
-    "buxton-east-midlands": {
+    "brighton-south-east": {
       "job_count": 1,
       "jobs": [
         {
-          "id": "16239",
-          "title": "Administrator",
-          "url": "https://join.specsavers.com/uk/job/administrator-in-buxton-east-midlands-jid-16239",
-          "email_type": "standard"
-        }
-      ]
-    },
-    "durham-north-east": {
-      "job_count": 1,
-      "jobs": [
-        {
-          "id": "16246",
+          "id": "16271",
           "title": "Optical Assistant",
-          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-durham-north-east-jid-16246",
+          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-brighton-south-east-jid-16271",
           "email_type": "standard"
         }
       ]
     },
-    "hexham-north-east": {
+    "gloucester-south": {
       "job_count": 1,
       "jobs": [
         {
-          "id": "16242",
-          "title": "Store Manager",
-          "url": "https://join.specsavers.com/uk/job/store-manager-in-hexham-north-east-jid-16242",
+          "id": "16251",
+          "title": "Optical Assistant",
+          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-gloucester-south-jid-16251",
           "email_type": "standard"
         }
       ]
     },
-    "new-milton-south": {
-      "job_count": 2,
+    "kendal-north-west": {
+      "job_count": 1,
       "jobs": [
         {
-          "id": "16241",
-          "title": "Optical Assistant",
-          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-new-milton-south-jid-16241",
+          "id": "16254",
+          "title": "Optometrist",
+          "url": "https://join.specsavers.com/uk/job/optometrist-in-kendal-north-west-jid-16254",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "kilmarnock-scotland": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "16274",
+          "title": "General Manager (Optics)",
+          "url": "https://join.specsavers.com/uk/job/general-manager-optics-in-kilmarnock-scotland-jid-16274",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "london-greater-london": {
+      "job_count": 4,
+      "jobs": [
+        {
+          "id": "16268",
+          "title": "Supervisor: Holborn",
+          "url": "https://join.specsavers.com/uk/job/supervisor-holborn-in-london-greater-london-jid-16268",
           "email_type": "standard"
         },
         {
-          "id": "16238",
-          "title": "Trainee Optical Assistant",
-          "url": "https://join.specsavers.com/uk/job/trainee-optical-assistant-in-new-milton-south-jid-16238",
-          "email_type": "trainee"
-        }
-      ]
-    },
-    "paisley-scotland": {
-      "job_count": 1,
-      "jobs": [
+          "id": "16266",
+          "title": "Assistant Store Manager",
+          "url": "https://join.specsavers.com/uk/job/assistant-store-manager-in-london-greater-london-jid-16266",
+          "email_type": "standard"
+        },
         {
-          "id": "16243",
-          "title": "Optometrist",
-          "url": "https://join.specsavers.com/uk/job/optometrist-in-paisley-scotland-jid-16243",
+          "id": "16265",
+          "title": "Store Manager",
+          "url": "https://join.specsavers.com/uk/job/store-manager-in-london-greater-london-jid-16265",
+          "email_type": "standard"
+        },
+        {
+          "id": "16264",
+          "title": "Optical Assistant/ Contact Lens Assistant",
+          "url": "https://join.specsavers.com/uk/job/optical-assistant-contact-lens-assistant-in-london-greater-london-jid-16264",
           "email_type": "standard"
         }
       ]
     },
-    "perth-scotland": {
+    "nottingham-east-midlands": {
       "job_count": 1,
       "jobs": [
         {
-          "id": "16240",
-          "title": "Contact Lens Optician",
-          "url": "https://join.specsavers.com/uk/job/contact-lens-optician-in-perth-scotland-jid-16240",
+          "id": "16256",
+          "title": "Optical Assistant",
+          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-nottingham-east-midlands-jid-16256",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "plymouth-south-west": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "16272",
+          "title": "Home Visits Optical Assistant",
+          "url": "https://join.specsavers.com/uk/job/home-visits-optical-assistant-in-plymouth-south-west-jid-16272",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "torquay-south-west": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "16273",
+          "title": "Home Visits Optical Assistant",
+          "url": "https://join.specsavers.com/uk/job/home-visits-optical-assistant-in-torquay-south-west-jid-16273",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "urmston-north-west": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "16263",
+          "title": "Optical Assistant",
+          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-urmston-north-west-jid-16263",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "yardley-west-midlands": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "16261",
+          "title": "Optical Assistant",
+          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-yardley-west-midlands-jid-16261",
           "email_type": "standard"
         }
       ]
