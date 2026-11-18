@@ -1,132 +1,257 @@
 {
-  "date": "2026-11-17",
-  "total_new_jobs": 13,
-  "total_stores": 10,
+  "date": "2026-11-18",
+  "total_new_jobs": 23,
+  "total_stores": 23,
   "stores": {
-    "brighton-south-east": {
+    "ballina-ireland": {
       "job_count": 1,
       "jobs": [
         {
-          "id": "16271",
-          "title": "Optical Assistant",
-          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-brighton-south-east-jid-16271",
-          "email_type": "standard"
-        }
-      ]
-    },
-    "gloucester-south": {
-      "job_count": 1,
-      "jobs": [
-        {
-          "id": "16251",
-          "title": "Optical Assistant",
-          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-gloucester-south-jid-16251",
-          "email_type": "standard"
-        }
-      ]
-    },
-    "kendal-north-west": {
-      "job_count": 1,
-      "jobs": [
-        {
-          "id": "16254",
+          "id": "16298",
           "title": "Optometrist",
-          "url": "https://join.specsavers.com/uk/job/optometrist-in-kendal-north-west-jid-16254",
+          "url": "https://join.specsavers.com/uk/job/optometrist-in-ballina-ireland-jid-16298",
           "email_type": "standard"
         }
       ]
     },
-    "kilmarnock-scotland": {
+    "barkingside-greater-london": {
       "job_count": 1,
       "jobs": [
         {
-          "id": "16274",
-          "title": "General Manager (Optics)",
-          "url": "https://join.specsavers.com/uk/job/general-manager-optics-in-kilmarnock-scotland-jid-16274",
+          "id": "16281",
+          "title": "Optical Assistant",
+          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-barkingside-greater-london-jid-16281",
           "email_type": "standard"
         }
       ]
     },
-    "london-greater-london": {
-      "job_count": 4,
+    "birmingham-west-midlands": {
+      "job_count": 1,
       "jobs": [
         {
-          "id": "16268",
-          "title": "Supervisor: Holborn",
-          "url": "https://join.specsavers.com/uk/job/supervisor-holborn-in-london-greater-london-jid-16268",
+          "id": "16301",
+          "title": "Optical Assistant",
+          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-birmingham-west-midlands-jid-16301",
           "email_type": "standard"
-        },
+        }
+      ]
+    },
+    "chorley-north-west": {
+      "job_count": 1,
+      "jobs": [
         {
-          "id": "16266",
-          "title": "Assistant Store Manager",
-          "url": "https://join.specsavers.com/uk/job/assistant-store-manager-in-london-greater-london-jid-16266",
+          "id": "16284",
+          "title": "Optical Assistant",
+          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-chorley-north-west-jid-16284",
           "email_type": "standard"
-        },
+        }
+      ]
+    },
+    "clacton-on-sea-east-england": {
+      "job_count": 1,
+      "jobs": [
         {
-          "id": "16265",
+          "id": "16307",
+          "title": "Hearcare Administrator",
+          "url": "https://join.specsavers.com/uk/job/hearcare-administrator-in-clacton-on-sea-east-england-jid-16307",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "colchester-east-england": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "16286",
+          "title": "Optical Assistant",
+          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-colchester-east-england-jid-16286",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "dudley-west-midlands": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "16305",
+          "title": "Optical Assistant",
+          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-dudley-west-midlands-jid-16305",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "eltham-greater-london": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "16299",
+          "title": "Clinical Coordinator / Supervisor",
+          "url": "https://join.specsavers.com/uk/job/clinical-coordinator-supervisor-in-eltham-greater-london-jid-16299",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "fulham-greater-london": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "16300",
+          "title": "Optical Assistant",
+          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-fulham-greater-london-jid-16300",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "isle-of-wight-south": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "16294",
+          "title": "Home Visits Optical Assistant",
+          "url": "https://join.specsavers.com/uk/job/home-visits-optical-assistant-in-isle-of-wight-south-jid-16294",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "louth-east-midlands": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "16316",
+          "title": "Audiologist/Hearing Aid Dispenser",
+          "url": "https://join.specsavers.com/uk/job/audiologist-hearing-aid-dispenser-in-louth-east-midlands-jid-16316",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "lymington-south": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "16292",
+          "title": "Home Visits Optical Assistant",
+          "url": "https://join.specsavers.com/uk/job/home-visits-optical-assistant-in-lymington-south-jid-16292",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "lyndhurst-south": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "16293",
+          "title": "Home Visits Optical Assistant",
+          "url": "https://join.specsavers.com/uk/job/home-visits-optical-assistant-in-lyndhurst-south-jid-16293",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "malvern-west-south": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "16278",
+          "title": "Audiology Practitioner",
+          "url": "https://join.specsavers.com/uk/job/audiology-practitioner-in-malvern-west-south-jid-16278",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "new-alresford-south": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "16291",
+          "title": "Home Visits Optical Assistant",
+          "url": "https://join.specsavers.com/uk/job/home-visits-optical-assistant-in-new-alresford-south-jid-16291",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "petersfield-south": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "16296",
+          "title": "Trainee Audiology Practitioner",
+          "url": "https://join.specsavers.com/uk/job/trainee-audiology-practitioner-in-petersfield-south-jid-16296",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "portsmouth-south": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "16287",
+          "title": "Home Visits Optical Assistant",
+          "url": "https://join.specsavers.com/uk/job/home-visits-optical-assistant-in-portsmouth-south-jid-16287",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "rugeley-west-midlands": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "16317",
           "title": "Store Manager",
-          "url": "https://join.specsavers.com/uk/job/store-manager-in-london-greater-london-jid-16265",
-          "email_type": "standard"
-        },
-        {
-          "id": "16264",
-          "title": "Optical Assistant/ Contact Lens Assistant",
-          "url": "https://join.specsavers.com/uk/job/optical-assistant-contact-lens-assistant-in-london-greater-london-jid-16264",
+          "url": "https://join.specsavers.com/uk/job/store-manager-in-rugeley-west-midlands-jid-16317",
           "email_type": "standard"
         }
       ]
     },
-    "nottingham-east-midlands": {
+    "southampton-south": {
       "job_count": 1,
       "jobs": [
         {
-          "id": "16256",
-          "title": "Optical Assistant",
-          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-nottingham-east-midlands-jid-16256",
-          "email_type": "standard"
-        }
-      ]
-    },
-    "plymouth-south-west": {
-      "job_count": 1,
-      "jobs": [
-        {
-          "id": "16272",
+          "id": "16288",
           "title": "Home Visits Optical Assistant",
-          "url": "https://join.specsavers.com/uk/job/home-visits-optical-assistant-in-plymouth-south-west-jid-16272",
+          "url": "https://join.specsavers.com/uk/job/home-visits-optical-assistant-in-southampton-south-jid-16288",
           "email_type": "standard"
         }
       ]
     },
-    "torquay-south-west": {
+    "stockbridge-south": {
       "job_count": 1,
       "jobs": [
         {
-          "id": "16273",
+          "id": "16289",
           "title": "Home Visits Optical Assistant",
-          "url": "https://join.specsavers.com/uk/job/home-visits-optical-assistant-in-torquay-south-west-jid-16273",
+          "url": "https://join.specsavers.com/uk/job/home-visits-optical-assistant-in-stockbridge-south-jid-16289",
           "email_type": "standard"
         }
       ]
     },
-    "urmston-north-west": {
+    "warwick-west-midlands": {
       "job_count": 1,
       "jobs": [
         {
-          "id": "16263",
+          "id": "16315",
           "title": "Optical Assistant",
-          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-urmston-north-west-jid-16263",
+          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-warwick-west-midlands-jid-16315",
           "email_type": "standard"
         }
       ]
     },
-    "yardley-west-midlands": {
+    "waterford-ireland": {
       "job_count": 1,
       "jobs": [
         {
-          "id": "16261",
-          "title": "Optical Assistant",
-          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-yardley-west-midlands-jid-16261",
+          "id": "16295",
+          "title": "Trainee Audiology Practitioner",
+          "url": "https://join.specsavers.com/uk/job/trainee-audiology-practitioner-in-waterford-ireland-jid-16295",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "winchester-south": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "16290",
+          "title": "Home Visits Optical Assistant",
+          "url": "https://join.specsavers.com/uk/job/home-visits-optical-assistant-in-winchester-south-jid-16290",
           "email_type": "standard"
         }
       ]
