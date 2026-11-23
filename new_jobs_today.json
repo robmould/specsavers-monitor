@@ -1,81 +1,169 @@
 {
-  "date": "2026-11-20",
-  "total_new_jobs": 7,
-  "total_stores": 7,
+  "date": "2026-11-23",
+  "total_new_jobs": 15,
+  "total_stores": 15,
   "stores": {
-    "bristol-south-west": {
+    "ashford-south-east": {
       "job_count": 1,
       "jobs": [
         {
-          "id": "16379",
+          "id": "16394",
+          "title": "Domiciliary Optometrist",
+          "url": "https://join.specsavers.com/uk/job/domiciliary-optometrist-in-ashford-south-east-jid-16394",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "canterbury-south-east": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "16395",
+          "title": "Domiciliary Optometrist",
+          "url": "https://join.specsavers.com/uk/job/domiciliary-optometrist-in-canterbury-south-east-jid-16395",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "caterham-south-east": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "16415",
           "title": "Optical Assistant",
-          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-bristol-south-west-jid-16379",
+          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-caterham-south-east-jid-16415",
           "email_type": "standard"
         }
       ]
     },
-    "chiswick-greater-london": {
+    "dumbarton-scotland": {
       "job_count": 1,
       "jobs": [
         {
-          "id": "16363",
+          "id": "16390",
           "title": "Optical Assistant",
-          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-chiswick-greater-london-jid-16363",
+          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-dumbarton-scotland-jid-16390",
           "email_type": "standard"
         }
       ]
     },
-    "craigavon-northern-ireland": {
+    "herne-bay-south-east": {
       "job_count": 1,
       "jobs": [
         {
-          "id": "16378",
-          "title": "Part Time Lab Technician",
-          "url": "https://join.specsavers.com/uk/job/part-time-lab-technician-in-craigavon-northern-ireland-jid-16378",
+          "id": "16396",
+          "title": "Domiciliary Optometrist",
+          "url": "https://join.specsavers.com/uk/job/domiciliary-optometrist-in-herne-bay-south-east-jid-16396",
           "email_type": "standard"
         }
       ]
     },
-    "omagh-northern-ireland": {
+    "huddersfield-north-east": {
       "job_count": 1,
       "jobs": [
         {
-          "id": "16382",
-          "title": "Administration Assistant",
-          "url": "https://join.specsavers.com/uk/job/administration-assistant-in-omagh-northern-ireland-jid-16382",
-          "email_type": "standard"
-        }
-      ]
-    },
-    "portadown-northern-ireland": {
-      "job_count": 1,
-      "jobs": [
-        {
-          "id": "16380",
-          "title": "Part Time Lab Technician",
-          "url": "https://join.specsavers.com/uk/job/part-time-lab-technician-in-portadown-northern-ireland-jid-16380",
-          "email_type": "standard"
-        }
-      ]
-    },
-    "sheffield-south-yorkshire": {
-      "job_count": 1,
-      "jobs": [
-        {
-          "id": "16370",
+          "id": "16393",
           "title": "Optical Assistant",
-          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-sheffield-south-yorkshire-jid-16370",
+          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-huddersfield-north-east-jid-16393",
           "email_type": "standard"
         }
       ]
     },
-    "wigan-north-west": {
+    "kendal-north-west": {
       "job_count": 1,
       "jobs": [
         {
-          "id": "16387",
+          "id": "16413",
+          "title": "Business Manager",
+          "url": "https://join.specsavers.com/uk/job/business-manager-in-kendal-north-west-jid-16413",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "leicester-east-midlands": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "16391",
+          "title": "Administrator",
+          "url": "https://join.specsavers.com/uk/job/administrator-in-leicester-east-midlands-jid-16391",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "maidstone-south-east": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "16392",
+          "title": "Domiciliary Optometrist",
+          "url": "https://join.specsavers.com/uk/job/domiciliary-optometrist-in-maidstone-south-east-jid-16392",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "manchester-north-west": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "16412",
           "title": "Optical Assistant",
-          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-wigan-north-west-jid-16387",
+          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-manchester-north-west-jid-16412",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "pontypridd-wales": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "16410",
+          "title": "Optometrist",
+          "url": "https://join.specsavers.com/uk/job/optometrist-in-pontypridd-wales-jid-16410",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "southampton-south": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "16417",
+          "title": "Dispensing Optician",
+          "url": "https://join.specsavers.com/uk/job/dispensing-optician-in-southampton-south-jid-16417",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "staines-south-east": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "16406",
+          "title": "Optometrist",
+          "url": "https://join.specsavers.com/uk/job/optometrist-in-staines-south-east-jid-16406",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "stretford-north-west": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "16404",
+          "title": "Store Manager",
+          "url": "https://join.specsavers.com/uk/job/store-manager-in-stretford-north-west-jid-16404",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "worcester-west-midlands": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "16403",
+          "title": "Store Manager",
+          "url": "https://join.specsavers.com/uk/job/store-manager-in-worcester-west-midlands-jid-16403",
           "email_type": "standard"
         }
       ]
