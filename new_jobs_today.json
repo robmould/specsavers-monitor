@@ -1,103 +1,103 @@
 {
-  "date": "2026-11-25",
+  "date": "2026-11-26",
   "total_new_jobs": 9,
   "total_stores": 9,
   "stores": {
-    "chorley-north-west": {
+    "abingdon-g-london-south": {
       "job_count": 1,
       "jobs": [
         {
-          "id": "16489",
-          "title": "Optical Assistant",
-          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-chorley-north-west-jid-16489",
+          "id": "16504",
+          "title": "Trainee Audiology Practitioner",
+          "url": "https://join.specsavers.com/uk/job/trainee-audiology-practitioner-in-abingdon-g-london-south-jid-16504",
           "email_type": "standard"
         }
       ]
     },
-    "edmonton-green-greater-london": {
+    "bilston-west-midlands": {
       "job_count": 1,
       "jobs": [
         {
-          "id": "16471",
+          "id": "16497",
+          "title": "Optical Assistant",
+          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-bilston-west-midlands-jid-16497",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "brighton-south": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "16491",
+          "title": "Home Visits Trainee Audiology Practitioner",
+          "url": "https://join.specsavers.com/uk/job/home-visits-trainee-audiology-practitioner-in-brighton-south-jid-16491",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "cannock-west-midlands": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "16496",
           "title": "Store Manager",
-          "url": "https://join.specsavers.com/uk/job/store-manager-in-edmonton-green-greater-london-jid-16471",
+          "url": "https://join.specsavers.com/uk/job/store-manager-in-cannock-west-midlands-jid-16496",
           "email_type": "standard"
         }
       ]
     },
-    "farnham-south": {
+    "chester-le-street-north-east": {
       "job_count": 1,
       "jobs": [
         {
-          "id": "16477",
-          "title": "Clinical Coordinator",
-          "url": "https://join.specsavers.com/uk/job/clinical-coordinator-in-farnham-south-jid-16477",
-          "email_type": "standard"
-        }
-      ]
-    },
-    "grangemouth-scotland": {
-      "job_count": 1,
-      "jobs": [
-        {
-          "id": "16466",
+          "id": "16508",
           "title": "Optical Assistant",
-          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-grangemouth-scotland-jid-16466",
+          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-chester-le-street-north-east-jid-16508",
           "email_type": "standard"
         }
       ]
     },
-    "kendal-north-west": {
+    "scunthorpe-north-east": {
       "job_count": 1,
       "jobs": [
         {
-          "id": "6856",
-          "title": "Dispensing Optician",
-          "url": "https://join.specsavers.com/uk/job/dispensing-optician-in-kendal-north-west-jid-6856",
-          "email_type": "standard"
-        }
-      ]
-    },
-    "letterkenny-ireland": {
-      "job_count": 1,
-      "jobs": [
-        {
-          "id": "16470",
+          "id": "16494",
           "title": "Optical Assistant",
-          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-letterkenny-ireland-jid-16470",
+          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-scunthorpe-north-east-jid-16494",
           "email_type": "standard"
         }
       ]
     },
-    "lewisham-greater-london": {
+    "stirling-scotland": {
       "job_count": 1,
       "jobs": [
         {
-          "id": "16488",
+          "id": "16492",
           "title": "Optical Assistant",
-          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-lewisham-greater-london-jid-16488",
+          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-stirling-scotland-jid-16492",
           "email_type": "standard"
         }
       ]
     },
-    "stretford-north-west": {
+    "telford-west-midlands": {
       "job_count": 1,
       "jobs": [
         {
-          "id": "16476",
-          "title": "Dispensing Optician",
-          "url": "https://join.specsavers.com/uk/job/dispensing-optician-in-stretford-north-west-jid-16476",
+          "id": "16498",
+          "title": "Trainee Audiology Practitioner",
+          "url": "https://join.specsavers.com/uk/job/trainee-audiology-practitioner-in-telford-west-midlands-jid-16498",
           "email_type": "standard"
         }
       ]
     },
-    "tiverton-south-west": {
+    "tewkesbury-west-midlands": {
       "job_count": 1,
       "jobs": [
         {
-          "id": "16474",
-          "title": "Optical Assistant",
-          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-tiverton-south-west-jid-16474",
+          "id": "16510",
+          "title": "Optometrist",
+          "url": "https://join.specsavers.com/uk/job/optometrist-in-tewkesbury-west-midlands-jid-16510",
           "email_type": "standard"
         }
       ]
