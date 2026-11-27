@@ -1,103 +1,70 @@
 {
-  "date": "2026-11-26",
-  "total_new_jobs": 9,
-  "total_stores": 9,
+  "date": "2026-11-27",
+  "total_new_jobs": 6,
+  "total_stores": 6,
   "stores": {
-    "abingdon-g-london-south": {
+    "alloa-scotland": {
       "job_count": 1,
       "jobs": [
         {
-          "id": "16504",
-          "title": "Trainee Audiology Practitioner",
-          "url": "https://join.specsavers.com/uk/job/trainee-audiology-practitioner-in-abingdon-g-london-south-jid-16504",
-          "email_type": "standard"
-        }
-      ]
-    },
-    "bilston-west-midlands": {
-      "job_count": 1,
-      "jobs": [
-        {
-          "id": "16497",
-          "title": "Optical Assistant",
-          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-bilston-west-midlands-jid-16497",
-          "email_type": "standard"
-        }
-      ]
-    },
-    "brighton-south": {
-      "job_count": 1,
-      "jobs": [
-        {
-          "id": "16491",
-          "title": "Home Visits Trainee Audiology Practitioner",
-          "url": "https://join.specsavers.com/uk/job/home-visits-trainee-audiology-practitioner-in-brighton-south-jid-16491",
-          "email_type": "standard"
-        }
-      ]
-    },
-    "cannock-west-midlands": {
-      "job_count": 1,
-      "jobs": [
-        {
-          "id": "16496",
-          "title": "Store Manager",
-          "url": "https://join.specsavers.com/uk/job/store-manager-in-cannock-west-midlands-jid-16496",
-          "email_type": "standard"
-        }
-      ]
-    },
-    "chester-le-street-north-east": {
-      "job_count": 1,
-      "jobs": [
-        {
-          "id": "16508",
-          "title": "Optical Assistant",
-          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-chester-le-street-north-east-jid-16508",
-          "email_type": "standard"
-        }
-      ]
-    },
-    "scunthorpe-north-east": {
-      "job_count": 1,
-      "jobs": [
-        {
-          "id": "16494",
-          "title": "Optical Assistant",
-          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-scunthorpe-north-east-jid-16494",
-          "email_type": "standard"
-        }
-      ]
-    },
-    "stirling-scotland": {
-      "job_count": 1,
-      "jobs": [
-        {
-          "id": "16492",
-          "title": "Optical Assistant",
-          "url": "https://join.specsavers.com/uk/job/optical-assistant-in-stirling-scotland-jid-16492",
-          "email_type": "standard"
-        }
-      ]
-    },
-    "telford-west-midlands": {
-      "job_count": 1,
-      "jobs": [
-        {
-          "id": "16498",
-          "title": "Trainee Audiology Practitioner",
-          "url": "https://join.specsavers.com/uk/job/trainee-audiology-practitioner-in-telford-west-midlands-jid-16498",
-          "email_type": "standard"
-        }
-      ]
-    },
-    "tewkesbury-west-midlands": {
-      "job_count": 1,
-      "jobs": [
-        {
-          "id": "16510",
+          "id": "16528",
           "title": "Optometrist",
-          "url": "https://join.specsavers.com/uk/job/optometrist-in-tewkesbury-west-midlands-jid-16510",
+          "url": "https://join.specsavers.com/uk/job/optometrist-in-alloa-scotland-jid-16528",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "ashton-under-lyne-north-west": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "16515",
+          "title": "Hearing Aid Dispenser",
+          "url": "https://join.specsavers.com/uk/job/hearing-aid-dispenser-in-ashton-under-lyne-north-west-jid-16515",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "braintree-east-england": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "16518",
+          "title": "Administrator",
+          "url": "https://join.specsavers.com/uk/job/administrator-in-braintree-east-england-jid-16518",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "kings-lynn-east-england": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "16524",
+          "title": "Contact Lense Optician",
+          "url": "https://join.specsavers.com/uk/job/contact-lense-optician-in-kings-lynn-east-england-jid-16524",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "royal-wootton-bassett-south": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "16519",
+          "title": "Store Manager",
+          "url": "https://join.specsavers.com/uk/job/store-manager-in-royal-wootton-bassett-south-jid-16519",
+          "email_type": "standard"
+        }
+      ]
+    },
+    "wellingborough-east-midlands": {
+      "job_count": 1,
+      "jobs": [
+        {
+          "id": "16517",
+          "title": "Dispensing Optician",
+          "url": "https://join.specsavers.com/uk/job/dispensing-optician-in-wellingborough-east-midlands-jid-16517",
           "email_type": "standard"
         }
       ]
